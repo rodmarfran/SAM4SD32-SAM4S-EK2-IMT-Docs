@@ -147,7 +147,12 @@ Setup Code</h2>
 <div class="line">}</div>
 </div><!-- fragment --> <div class="fragment"><div class="line"><span class="keywordtype">void</span> TC_Handler(<span class="keywordtype">void</span>)</div>
 <div class="line">{</div>
-</div><!-- fragment --> <div class="fragment"><div class="line">}</div>
+<div class="line">    <span class="keywordflow">if</span> ((<a class="code hl_function" href="group__asfdoc__sam__drivers__tc__group.html#gad3ebe2aecec5ddaec07f0abbf684b67e">tc_get_status</a>(TC, TC_CHANNEL_CAPTURE) &amp; <a class="code hl_define" href="component__tc_8h.html#a61a912956de4da77ae6d6c154bc1d27b">TC_SR_LDRBS</a>) == <a class="code hl_define" href="component__tc_8h.html#a61a912956de4da77ae6d6c154bc1d27b">TC_SR_LDRBS</a>) {</div>
+<div class="line">        gs_ul_captured_pulses++;</div>
+<div class="line">        gs_ul_captured_ra = <a class="code hl_function" href="group__asfdoc__sam__drivers__tc__group.html#gad4903f5115196ad40a5b71d070facf95">tc_read_ra</a>(TC, TC_CHANNEL_CAPTURE);</div>
+<div class="line">        gs_ul_captured_rb = <a class="code hl_function" href="group__asfdoc__sam__drivers__tc__group.html#ga1569d2ebe587dafe953d9ec98affd7cc">tc_read_rb</a>(TC, TC_CHANNEL_CAPTURE);</div>
+<div class="line">    }</div>
+<div class="line">}</div>
 </div><!-- fragment --><h2 class="doxsection"><a class="anchor" id="asfdoc_sam_drivers_tc_qsg_basic_capture_setup_workflow"></a>
 Workflow</h2>
 <ol type="1">
@@ -172,7 +177,6 @@ Workflow</h2>
 <li>Enable the capture channel interrupt: <div class="fragment"><div class="line">            <a class="code hl_function" href="group__asfdoc__sam__drivers__tc__group.html#ga0aac357f460633e1c5498ae0ca86e000">tc_enable_interrupt</a>(TC, TC_CHANNEL_CAPTURE, <a class="code hl_define" href="component__tc_8h.html#a9ee67358235d5c933f801b1509c3d9e2">TC_IER_LDRBS</a>);</div>
 </div><!-- fragment --></li>
 <li>In the <code>TC_Handler()</code> function, the load. RB interrupt can be checked by: <div class="fragment"><div class="line">    <span class="keywordflow">if</span> ((<a class="code hl_function" href="group__asfdoc__sam__drivers__tc__group.html#gad3ebe2aecec5ddaec07f0abbf684b67e">tc_get_status</a>(TC, TC_CHANNEL_CAPTURE) &amp; <a class="code hl_define" href="component__tc_8h.html#a61a912956de4da77ae6d6c154bc1d27b">TC_SR_LDRBS</a>) == <a class="code hl_define" href="component__tc_8h.html#a61a912956de4da77ae6d6c154bc1d27b">TC_SR_LDRBS</a>) {</div>
-</div><!-- fragment --> <div class="fragment"><div class="line">} </div>
 </div><!-- fragment --></li>
 <li>In the <code>TC_Handler()</code> function, the RA value. can be read by: <div class="fragment"><div class="line">uint32_t gs_ul_captured_ra; </div>
 </div><!-- fragment --> <div class="fragment"><div class="line">        gs_ul_captured_ra = <a class="code hl_function" href="group__asfdoc__sam__drivers__tc__group.html#gad4903f5115196ad40a5b71d070facf95">tc_read_ra</a>(TC, TC_CHANNEL_CAPTURE);</div>
