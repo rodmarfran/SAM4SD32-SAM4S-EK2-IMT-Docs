@@ -1,0 +1,12 @@
+<map id="spi_master_transfer" name="spi_master_transfer">
+<area shape="rect" id="Node000001" title="Perform SPI master transfer." alt="" coords="5,56,142,83"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__spi__group.html#gac22214816ba5eb2eaba5766205112df0" title="Read the received data and it&#39;s peripheral chip select value." alt="" coords="211,5,282,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,53,198,32,194,35,123,58"/>
+<area shape="rect" id="Node000004" href="$spi_8h.html#a8a0856a37f42b502942da5e7103f992f" title="Read status register." alt="" coords="190,56,303,83"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="142,67,177,69,171,70,142,72"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__spi__group.html#gaf0aef4a28c69c8ceb6e99b5d79e91e47" title="Write the transmitted data with specified peripheral chip select value." alt="" coords="210,107,283,133"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="122,81,198,104,193,106,121,86"/>
+<area shape="rect" id="Node000003" href="$spi_8h.html#a7a7e9be615b3302403a32d57650138f2" title="Get Peripheral Select mode." alt="" coords="351,48,477,91"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,27,339,46,334,46,282,32"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="283,106,333,93,339,92,284,112"/>
+</map>

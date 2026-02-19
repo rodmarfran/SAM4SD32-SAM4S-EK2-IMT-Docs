@@ -1,0 +1,72 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Application entry point." alt="" coords="5,335,55,361"/>
+<area shape="rect" id="Node000002" href="$usart__irda__example_8c.html#a33c8c1bb4e41b6192b554fdf9e70b3b9" title="Configure UART for debug message output." alt="" coords="114,157,240,184"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,334,39,305,52,267,73,228,101,194,109,190,106,195,105,198,77,231,57,269,44,306,37,335"/>
+<area shape="rect" id="Node000003" href="$usart__irda__example_8c.html#a4c842f294258e2a2280355e16fd82898" title="Configure board USART communication with PC or other terminal." alt="" coords="122,208,232,235"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="40,333,67,303,101,270,142,241,139,246,104,274,71,306,45,336"/>
+<area shape="rect" id="Node000016" href="$usart__irda__example_8c.html#ab4e08ee5b48e94b0076951a49c79ba82" title="Dump received buffer to uart." alt="" coords="122,385,232,412"/>
+<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="54,354,104,371,124,379,119,381,102,376,56,359"/>
+<area shape="rect" id="Node000017" href="$usart__irda__example_8c.html#a2916d5062185d96eb459bd2ac13e483e" title="Disable transmitter and Enable receiver." alt="" coords="128,335,227,361"/>
+<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="54,346,114,346,110,350,56,350"/>
+<area shape="rect" id="Node000029" href="$usart__irda__example_8c.html#aed97648e22bb69abfe67c06d092b5994" title="Disable receiver and Enable transmitter." alt="" coords="120,284,235,311"/>
+<area shape="poly" id="edge33_Node000001_Node000029" title=" " alt="" coords="53,337,102,320,123,314,119,318,104,325,57,342"/>
+<area shape="rect" id="Node000031" href="$group__sam__drivers__usart__group.html#ga33c4b214e790bf6b04c8867dd66c3336" title="Enable USART interrupts." alt="" coords="103,436,252,463"/>
+<area shape="poly" id="edge37_Node000001_Node000031" title=" " alt="" coords="41,359,69,391,104,422,114,428,109,430,101,426,65,395,41,364"/>
+<area shape="rect" id="Node000032" href="$group__sam__drivers__usart__group.html#ga1736e6324dbd1b304a081259e524bede" title="Get USART PDC base address." alt="" coords="108,487,246,513"/>
+<area shape="poly" id="edge38_Node000001_Node000032" title=" " alt="" coords="36,359,61,415,80,446,104,473,111,479,105,479,101,477,76,449,56,418,35,365"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__usart__group.html#gaa3a3c3eb673f70359570302dcf1a5b6a" title="Disable USART interrupts." alt="" coords="300,81,452,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,205,250,194,266,176,273,157,281,137,298,118,308,114,304,117,302,122,286,140,278,159,271,179,254,198,235,209"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__usart__group.html#ga7fd617322d666621fee15501ae0de7c7" title="Enable USART receiver." alt="" coords="320,233,433,260"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="232,226,306,236,301,239,234,231"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__usart__group.html#ga1c3a4036f8b9b21f833a641b07b84f6c" title="Enable USART transmitter." alt="" coords="320,183,433,209"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="232,212,306,204,302,207,234,217"/>
+<area shape="rect" id="Node000007" href="$group__sam__drivers__usart__group.html#ga952a5fffe9547e48e5d1c74230786d78" title="Configure USART to work in IrDA mode." alt="" coords="325,132,427,159"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="221,205,251,194,299,168,318,163,314,166,301,173,253,198,224,210"/>
+<area shape="rect" id="Node000008" href="$group__sam__drivers__usart__group.html#gaeef2121bcab41f9850e58c59fdc34d10" title="Configure USART to work in RS232 mode." alt="" coords="507,132,620,159"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="427,143,494,144,489,146,429,148"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__usart__group.html#ga6cb84f0297ddca62d4077f616efa5c5b" title="Reset the USART and disable TX and RX." alt="" coords="719,107,805,133"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="620,136,706,126,701,128,621,141"/>
+<area shape="rect" id="Node000015" href="$group__sam__drivers__usart__group.html#gaafe097c01c082b270c1057722d524f5b" title="Calculate a clock divider(CD) and a fractional part (FP) for the USART asynchronous modes to generate..." alt="" coords="675,157,849,184"/>
+<area shape="poly" id="edge14_Node000008_Node000015" title=" " alt="" coords="620,150,662,157,656,158,621,155"/>
+<area shape="rect" id="Node000010" href="$group__sam__drivers__usart__group.html#gabdf1b8bf1b4da95d3a314c4916799e88" title="Disable write protect of USART registers." alt="" coords="897,5,1070,32"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="783,104,833,73,896,42,916,36,912,39,898,46,836,78,786,108"/>
+<area shape="rect" id="Node000011" href="$group__sam__drivers__usart__group.html#ga930438dce6fbe82394c706b775cf2f0a" title="Drive the pin RTS to 1." alt="" coords="897,56,1070,83"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="805,108,910,86,905,88,806,113"/>
+<area shape="rect" id="Node000012" href="$group__sam__drivers__usart__group.html#ga86ad3a57b19fb497ef2271d6dc87c359" title="Immediately stop and disable USART receiver." alt="" coords="932,107,1036,133"/>
+<area shape="poly" id="edge11_Node000009_Node000012" title=" " alt="" coords="805,117,919,119,913,121,806,123"/>
+<area shape="rect" id="Node000013" href="$group__sam__drivers__usart__group.html#ga4e19efeb524c1fba4b962e72283dcc11" title="Reset status bits (PARE, OVER, MANERR, UNRE and PXBRK in US_CSR)." alt="" coords="919,157,1048,184"/>
+<area shape="poly" id="edge12_Node000009_Node000013" title=" " alt="" coords="805,127,910,153,905,154,806,132"/>
+<area shape="rect" id="Node000014" href="$group__sam__drivers__usart__group.html#ga123b84a0d5be1cbf1a3c5bac4af3d27d" title="Immediately stop and disable USART transmitter." alt="" coords="932,208,1036,235"/>
+<area shape="poly" id="edge13_Node000009_Node000014" title=" " alt="" coords="806,125,850,143,866,156,875,169,884,182,898,194,919,206,914,206,896,198,880,185,871,172,862,160,848,148,806,130"/>
+<area shape="poly" id="edge30_Node000017_Node000005" title=" " alt="" coords="226,333,251,320,265,308,274,296,283,283,298,270,311,265,307,268,302,274,287,286,278,299,269,312,253,325,229,337"/>
+<area shape="rect" id="Node000018" href="$group__sam__drivers__pio__group.html#ga66c09a2f5c8d11223eb107cf8fbfddb2" title="Perform complete pin(s) configuration; general attributes and PIO init if necessary." alt="" coords="315,335,437,361"/>
+<area shape="poly" id="edge17_Node000017_Node000018" title=" " alt="" coords="227,345,302,347,297,349,228,351"/>
+<area shape="rect" id="Node000025" href="$group__sam__drivers__pio__group.html#ga41f795f6deb585e82b913a959a4b076a" title="Drive a GPIO pin to 0." alt="" coords="319,487,433,513"/>
+<area shape="poly" id="edge27_Node000017_Node000025" title=" " alt="" coords="227,356,254,371,265,384,272,398,279,423,285,449,291,461,302,473,308,479,303,478,298,477,287,464,280,450,273,425,267,399,261,387,250,375,227,361"/>
+<area shape="rect" id="Node000026" href="$group__sam__drivers__usart__group.html#gaf12c50dd99d9b0e3e3719e840e05aaf6" title="Disable USART transmitter." alt="" coords="318,385,434,412"/>
+<area shape="poly" id="edge29_Node000017_Node000026" title=" " alt="" coords="227,358,309,380,304,382,228,363"/>
+<area shape="rect" id="Node000027" href="$group__sam__drivers__usart__group.html#ga9f88f9b3e78b92b53016420c3594fcf6" title="Check if the received data are ready." alt="" coords="314,436,438,463"/>
+<area shape="poly" id="edge31_Node000017_Node000027" title=" " alt="" coords="227,359,253,371,269,384,278,397,287,410,302,422,312,429,307,429,298,426,283,413,274,400,265,388,251,376,228,364"/>
+<area shape="rect" id="Node000028" href="$group__sam__drivers__usart__group.html#gae2776f27eb9e4219bbc6245f41662fa9" title="Read from USART Receive Holding Register." alt="" coords="335,537,417,564"/>
+<area shape="poly" id="edge32_Node000017_Node000028" title=" " alt="" coords="227,355,254,371,269,391,276,411,279,449,281,487,288,505,302,523,323,540,318,539,298,527,283,508,276,488,273,450,271,412,264,394,250,375,227,360"/>
+<area shape="rect" id="Node000019" href="$group__sam__drivers__pio__group.html#gaf37309a52c59d5e2116d649f6fdd98c9" title="Return GPIO port for a GPIO pin." alt="" coords="500,475,627,501"/>
+<area shape="poly" id="edge18_Node000018_Node000019" title=" " alt="" coords="433,359,454,371,471,390,480,409,488,428,502,447,524,467,519,466,498,451,483,430,475,411,467,393,451,375,433,365"/>
+<area shape="rect" id="Node000020" href="$group__sam__drivers__pio__group.html#gaa9aa20867544ff93c6527b799b3dfcec" title="Configure PIO internal pull&#45;up." alt="" coords="719,360,805,387"/>
+<area shape="poly" id="edge19_Node000018_Node000020" title=" " alt="" coords="437,342,527,341,627,345,706,360,701,360,626,351,527,346,438,347"/>
+<area shape="rect" id="Node000021" href="$group__sam__drivers__pio__group.html#ga2908ec92df470e6520c6f5c38211ca0b" title="Configure one or more pin(s) or a PIO controller as inputs." alt="" coords="514,360,613,387"/>
+<area shape="poly" id="edge20_Node000018_Node000021" title=" " alt="" coords="438,354,502,364,497,365,438,359"/>
+<area shape="rect" id="Node000023" href="$group__sam__drivers__pio__group.html#gaf3727cdc71e8b6c88a4069a90b72a78d" title="Configure one or more pin(s) of a PIO controller as outputs, with the given default value." alt="" coords="510,411,617,437"/>
+<area shape="poly" id="edge23_Node000018_Node000023" title=" " alt="" coords="423,359,453,371,502,396,515,404,510,404,499,401,451,376,423,365"/>
+<area shape="rect" id="Node000024" href="$group__sam__drivers__pio__group.html#ga245df3215515d49f990bc80cec318de6" title="Configure IO of a PIO controller as being controlled by a specific peripheral." alt="" coords="500,259,627,285"/>
+<area shape="poly" id="edge26_Node000018_Node000024" title=" " alt="" coords="420,332,451,320,523,291,518,294,453,325,422,336"/>
+<area shape="poly" id="edge22_Node000021_Node000020" title=" " alt="" coords="613,371,705,373,700,374,614,376"/>
+<area shape="rect" id="Node000022" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="692,411,832,437"/>
+<area shape="poly" id="edge21_Node000021_Node000022" title=" " alt="" coords="613,383,694,406,689,406,613,389"/>
+<area shape="poly" id="edge25_Node000023_Node000020" title=" " alt="" coords="617,408,701,389,706,387,618,413"/>
+<area shape="poly" id="edge24_Node000023_Node000022" title=" " alt="" coords="617,421,679,424,674,424,618,427"/>
+<area shape="poly" id="edge28_Node000025_Node000019" title=" " alt="" coords="434,494,488,493,483,493,434,499"/>
+<area shape="poly" id="edge36_Node000029_Node000006" title=" " alt="" coords="196,282,242,251,299,219,316,214,312,217,301,224,245,255,199,285"/>
+<area shape="poly" id="edge34_Node000029_Node000018" title=" " alt="" coords="232,309,309,329,304,331,233,314"/>
+<area shape="rect" id="Node000030" href="$group__sam__drivers__usart__group.html#gad9c333a3706f3bfad6f9b74f30495879" title="Disable USART receiver." alt="" coords="318,284,434,311"/>
+<area shape="poly" id="edge35_Node000029_Node000030" title=" " alt="" coords="235,295,305,296,300,299,236,300"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="pio_get_pin_value" name="pio_get_pin_value">
+<area shape="rect" id="Node000001" title="Return the value of a pin." alt="" coords="5,5,131,32"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pio__group.html#gaf37309a52c59d5e2116d649f6fdd98c9" title="Return GPIO port for a GPIO pin." alt="" coords="179,5,305,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,16,166,18,161,19,131,21"/>
+</map>

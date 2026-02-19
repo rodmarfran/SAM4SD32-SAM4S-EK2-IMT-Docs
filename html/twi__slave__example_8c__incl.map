@@ -1,0 +1,7 @@
+<map id="twi_slave_example.c" name="twi_slave_example.c">
+<area shape="rect" id="Node000001" title="TWI SLAVE Example for SAM." alt="" coords="27,5,170,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,56,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,31,55,70,51,67,84,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,80,256,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="112,30,148,68,143,69,110,35"/>
+</map>

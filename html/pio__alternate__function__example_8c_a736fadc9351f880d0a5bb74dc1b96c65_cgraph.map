@@ -1,0 +1,13 @@
+<map id="configure_button" name="configure_button">
+<area shape="rect" id="Node000001" title="Configure the push button." alt="" coords="5,81,123,108"/>
+<area shape="rect" id="Node000002" href="$pio__alternate__function__example_8c.html#a3fb74bed0976891ac4647639a67048f6" title="Handler for Button 1 rising edge interrupt." alt="" coords="197,5,303,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,78,170,42,190,36,185,39,172,46,93,83"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__pio__group.html#ga3bc542609d9f1c7a439a264df86925f2" title="Enable the given interrupt source." alt="" coords="181,56,318,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="122,84,168,79,164,82,124,89"/>
+<area shape="rect" id="Node000004" href="$pio__handler_8c.html#a050525f7f1bba67325b6146a1dd9a68a" title="Set an interrupt handler for the provided pins." alt="" coords="194,107,306,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,100,181,109,176,111,123,105"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__pio__group.html#ga4e9aede414e90e5a0dc9a4b75c9e063e" title="Configure Glitch or Debouncing filter for the specified input(s)." alt="" coords="171,157,329,184"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="92,106,172,143,190,152,185,152,170,148,91,111"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#ga1cac5b69c0b755160f4e20c900e57ff2" title="Configure the given interrupt source." alt="" coords="377,107,529,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,117,364,120,359,120,307,123"/>
+</map>

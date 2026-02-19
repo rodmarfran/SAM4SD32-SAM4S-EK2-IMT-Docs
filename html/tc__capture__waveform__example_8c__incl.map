@@ -1,0 +1,9 @@
+<map id="tc_capture_waveform_example.c" name="tc_capture_waveform_example.c">
+<area shape="rect" id="Node000001" title="TC Capture Waveform Example for SAM." alt="" coords="55,5,201,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,56,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,48,59,88,56,84,100,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,96,176,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,47,130,81,125,79,126,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="200,96,296,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="160,46,219,87,214,87,158,51"/>
+</map>

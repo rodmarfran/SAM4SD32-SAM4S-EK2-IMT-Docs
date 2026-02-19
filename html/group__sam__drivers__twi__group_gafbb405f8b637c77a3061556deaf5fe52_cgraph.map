@@ -1,0 +1,5 @@
+<map id="twi_master_read" name="twi_master_read">
+<area shape="rect" id="Node000001" title="Read multiple bytes from a TWI compatible slave device." alt="" coords="5,5,123,32"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__twi__group.html#ga3000df0ade3c8314ec3d1d3286eaac5b" title="Construct the TWI module address register field." alt="" coords="171,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,16,158,18,152,19,123,21"/>
+</map>

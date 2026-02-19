@@ -1,0 +1,11 @@
+<map id="tc_waveform_initialize" name="tc_waveform_initialize">
+<area shape="rect" id="Node000001" title="Configure TC TC_CHANNEL_WAVEFORM in waveform operating mode." alt="" coords="5,81,156,108"/>
+<area shape="rect" id="Node000002" href="$group__asfdoc__sam__drivers__tc__group.html#ga40dd73d1c81c722d905dc662c9199152" title="Configure TC for timer, waveform generation, or capture." alt="" coords="218,5,274,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,78,206,36,203,40,113,83"/>
+<area shape="rect" id="Node000003" href="$group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6" title="Start the TC clock on the specified channel." alt="" coords="214,56,279,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,81,200,76,196,78,157,86"/>
+<area shape="rect" id="Node000004" href="$group__asfdoc__sam__drivers__tc__group.html#ga924b088898bea8c95dd0177e0bf8d666" title="Write to TC Register A (RA) on the specified channel." alt="" coords="204,107,289,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="156,104,191,111,186,112,156,109"/>
+<area shape="rect" id="Node000005" href="$group__asfdoc__sam__drivers__tc__group.html#ga5182dde403f240a8f83e86fb6eb46ad9" title="Write to TC Register C (RC) on the selected channel." alt="" coords="204,157,289,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="112,106,204,149,199,152,111,111"/>
+</map>

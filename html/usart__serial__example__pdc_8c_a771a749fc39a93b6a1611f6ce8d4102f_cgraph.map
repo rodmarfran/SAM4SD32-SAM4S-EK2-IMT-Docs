@@ -1,0 +1,13 @@
+<map id="USART_Handler" name="USART_Handler">
+<area shape="rect" id="Node000001" title="Interrupt handler for USART." alt="" coords="5,107,124,133"/>
+<area shape="rect" id="Node000002" href="$group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6" title="Start the TC clock on the specified channel." alt="" coords="198,5,264,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,104,121,74,170,42,186,36,182,39,173,46,124,78,85,108"/>
+<area shape="rect" id="Node000003" href="$group__asfdoc__sam__drivers__tc__group.html#gabb753a35af83df7320cb0b539e7fad52" title="Stop the TC clock on the specified channel." alt="" coords="199,56,263,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="110,104,186,81,182,85,112,108"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__usart__group.html#gadedd154647a6401b9feab44a0620fea1" title="Get current status." alt="" coords="172,107,290,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="123,117,159,119,154,121,125,123"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__usart__group.html#ga09984d6dcb9a64117a0a8c2e5c32a8ec" title="Read from USART Receive Holding Register." alt="" coords="181,157,281,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="111,131,172,151,168,153,111,137"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__usart__group.html#gaa9593727b910df8c0e9c359c5d7004ec" title="Write to USART Transmit Holding Register." alt="" coords="188,208,274,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="83,131,124,162,173,194,183,201,178,201,170,198,121,166,82,136"/>
+</map>

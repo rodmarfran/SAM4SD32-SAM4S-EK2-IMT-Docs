@@ -1,0 +1,9 @@
+<map id="Int1Handler" name="Int1Handler">
+<area shape="rect" id="Node000001" title="Handler for INT1, rising edge interrupt." alt="" coords="5,56,94,83"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#aca32d4e8ae4a2ae8bc3c8778a58b2bb5" title="Delay number of tick Systicks (happens roughly every 1 ms)." alt="" coords="168,5,256,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,53,155,35,151,39,95,58"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="142,56,282,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="94,67,129,68,124,70,95,72"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__pio__group.html#ga3bc542609d9f1c7a439a264df86925f2" title="Enable the given interrupt source." alt="" coords="143,107,280,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,80,155,100,150,103,94,86"/>
+</map>

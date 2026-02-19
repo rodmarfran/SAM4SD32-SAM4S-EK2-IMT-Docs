@@ -1,0 +1,5 @@
+<map id="spi_read" name="spi_read">
+<area shape="rect" id="Node000001" title="Read the received data and it&#39;s peripheral chip select value." alt="" coords="5,13,76,40"/>
+<area shape="rect" id="Node000002" href="$spi_8h.html#a7a7e9be615b3302403a32d57650138f2" title="Get Peripheral Select mode." alt="" coords="124,5,250,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,24,111,26,105,27,76,29"/>
+</map>

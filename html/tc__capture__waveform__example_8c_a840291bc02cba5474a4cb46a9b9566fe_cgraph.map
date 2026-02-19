@@ -1,0 +1,46 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Application entry point for tc_capture_waveform example." alt="" coords="5,208,55,235"/>
+<area shape="rect" id="Node000002" href="$tc__capture__waveform__example_8c.html#a33c8c1bb4e41b6192b554fdf9e70b3b9" title="[tc_capture_irq_handler_end]" alt="" coords="115,5,241,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,207,36,174,49,130,69,83,84,61,101,42,108,38,105,43,105,46,88,65,74,86,54,132,42,175,36,208"/>
+<area shape="rect" id="Node000003" href="$tc__capture__waveform__example_8c.html#a8bf026298fff6cce496cdff05ae5b0c7" title="Display the user menu on the UART." alt="" coords="127,56,228,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="33,207,56,152,76,120,101,93,114,85,111,90,104,97,80,123,61,154,38,208"/>
+<area shape="rect" id="Node000004" href="$group__ioport__group.html#ga71ffb860475938ae5c465ae8a536b6fd" title="Disable IOPORT pin, based on a pin created with IOPORT_CREATE_PIN()." alt="" coords="115,107,240,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="39,206,65,175,101,143,113,138,110,142,104,148,69,178,43,209"/>
+<area shape="rect" id="Node000010" href="$group__ioport__group.html#ga09df7897a4e2401204c84211a29aa67a" title="Set pin mode for one single IOPORT pin." alt="" coords="107,157,248,184"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="53,211,102,193,123,188,119,191,104,199,57,215"/>
+<area shape="rect" id="Node000013" href="$tc__capture__waveform__example_8c.html#a137efc0f4a616f9fb85b917cb59a1daa" title="Configure TC TC_CHANNEL_CAPTURE in capture operating mode." alt="" coords="110,208,246,235"/>
+<area shape="poly" id="edge15_Node000001_Node000013" title=" " alt="" coords="54,219,96,219,92,223,57,224"/>
+<area shape="rect" id="Node000015" href="$group__asfdoc__sam__drivers__tc__group.html#ga8a3b9f8a1b77fbdb9fd1099d839f94e7" title="Disable TC interrupts on the specified channel." alt="" coords="111,360,245,387"/>
+<area shape="poly" id="edge17_Node000001_Node000015" title=" " alt="" coords="36,233,61,289,80,319,104,346,111,352,105,352,101,350,76,323,56,291,35,238"/>
+<area shape="rect" id="Node000016" href="$group__asfdoc__sam__drivers__tc__group.html#ga0aac357f460633e1c5498ae0ca86e000" title="Enable the TC interrupts on the specified channel." alt="" coords="112,411,244,437"/>
+<area shape="poly" id="edge18_Node000001_Node000016" title=" " alt="" coords="33,232,42,267,54,311,74,357,88,378,105,397,109,402,104,402,101,401,84,381,69,359,49,313,36,269,33,238"/>
+<area shape="rect" id="Node000017" href="$group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6" title="Start the TC clock on the specified channel." alt="" coords="355,259,420,285"/>
+<area shape="poly" id="edge19_Node000001_Node000017" title=" " alt="" coords="55,229,103,244,167,255,231,263,342,270,337,273,230,268,166,261,102,249,56,234"/>
+<area shape="rect" id="Node000018" href="$tc__capture__waveform__example_8c.html#a2241bcc044ac3149062a606d723c21bd" title="Configure TC TC_CHANNEL_WAVEFORM in waveform operating mode." alt="" coords="103,309,253,336"/>
+<area shape="poly" id="edge20_Node000001_Node000018" title=" " alt="" coords="42,232,71,261,104,288,126,302,121,303,101,293,67,265,43,238"/>
+<area shape="rect" id="Node000005" href="$ioport__pio_8h.html#a82f958a6f615ffb46f48c4a59dd29df8" title=" " alt="" coords="309,107,466,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="240,118,296,119,291,121,242,122"/>
+<area shape="rect" id="Node000006" href="$ioport__pio_8h.html#af570c68f452d88cc2643b2e9edf1c3ad" title=" " alt="" coords="530,52,693,79"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="444,104,542,82,537,84,446,109"/>
+<area shape="rect" id="Node000008" href="$ioport__pio_8h.html#a69fd7bdfb41664b749080e509798165e" title=" " alt="" coords="528,103,695,129"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="466,116,515,117,510,119,468,121"/>
+<area shape="rect" id="Node000009" href="$ioport__pio_8h.html#a17ab9c7be3b9b2674e7668b6a083d191" title=" " alt="" coords="548,153,675,196"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="445,131,535,155,530,156,446,137"/>
+<area shape="rect" id="Node000007" href="$ioport__pio_8h.html#ac2b01a65bf5686910b77f6b606497df2" title=" " alt="" coords="749,136,916,163"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="666,77,702,88,792,129,787,129,700,93,666,82"/>
+<area shape="rect" id="Node000011" href="$ioport__pio_8h.html#aac4ba5127f61519fb2f981ebefaa85bb" title=" " alt="" coords="301,157,474,184"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="248,168,288,169,283,172,250,173"/>
+<area shape="poly" id="edge11_Node000011_Node000008" title=" " alt="" coords="444,154,542,132,537,135,446,159"/>
+<area shape="poly" id="edge12_Node000011_Node000009" title=" " alt="" coords="474,170,534,173,529,174,475,175"/>
+<area shape="rect" id="Node000012" href="$ioport__pio_8h.html#a6739905dc552d38327247c322dc5b2a3" title=" " alt="" coords="522,220,701,247"/>
+<area shape="poly" id="edge13_Node000011_Node000012" title=" " alt="" coords="438,182,549,215,543,216,438,187"/>
+<area shape="poly" id="edge14_Node000012_Node000007" title=" " alt="" coords="665,217,700,206,787,171,792,169,702,210,667,222"/>
+<area shape="rect" id="Node000014" href="$group__asfdoc__sam__drivers__tc__group.html#ga40dd73d1c81c722d905dc662c9199152" title="Configure TC for timer, waveform generation, or capture." alt="" coords="360,208,416,235"/>
+<area shape="poly" id="edge16_Node000013_Node000014" title=" " alt="" coords="246,219,346,220,341,223,247,224"/>
+<area shape="poly" id="edge21_Node000018_Node000014" title=" " alt="" coords="196,307,242,276,300,244,347,230,342,233,302,249,245,280,199,311"/>
+<area shape="poly" id="edge22_Node000018_Node000017" title=" " alt="" coords="236,306,342,282,337,285,237,311"/>
+<area shape="rect" id="Node000019" href="$group__asfdoc__sam__drivers__tc__group.html#ga924b088898bea8c95dd0177e0bf8d666" title="Write to TC Register A (RA) on the specified channel." alt="" coords="345,309,430,336"/>
+<area shape="poly" id="edge23_Node000018_Node000019" title=" " alt="" coords="253,320,332,322,327,323,254,325"/>
+<area shape="rect" id="Node000020" href="$group__asfdoc__sam__drivers__tc__group.html#ga5182dde403f240a8f83e86fb6eb46ad9" title="Write to TC Register C (RC) on the selected channel." alt="" coords="345,360,430,387"/>
+<area shape="poly" id="edge24_Node000018_Node000020" title=" " alt="" coords="236,334,333,359,327,360,236,339"/>
+</map>

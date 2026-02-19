@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['smbus_0',['smbus',['../structtwi__options.html#a2b099d41ef83cec734c3627f6b9f4c69',1,'twi_options']]],
+  ['speed_1',['speed',['../structtwi__options.html#a06acd7ddc301338bc3177dc7ded3bd12',1,'twi_options']]],
+  ['spi_5fcr_2',['SPI_CR',['../struct_spi.html#ad734fbd4fd26168d4677c0620e5efc02',1,'Spi']]],
+  ['spi_5fcsr_3',['SPI_CSR',['../struct_spi.html#aa87a90974ab3e726b0e2e9c6c1041891',1,'Spi']]],
+  ['spi_5fidr_4',['SPI_IDR',['../struct_spi.html#a8c8575c6d9cf819ce6aff62ea79276eb',1,'Spi']]],
+  ['spi_5fier_5',['SPI_IER',['../struct_spi.html#a2cde5578804cb090b599fe07eeaa04d4',1,'Spi']]],
+  ['spi_5fimr_6',['SPI_IMR',['../struct_spi.html#a9b25e67749c807004595f3301c65b9ad',1,'Spi']]],
+  ['spi_5fmode_7',['spi_mode',['../structusart__spi__opt__t.html#a868ead9c91f2e99ac07c407dd91003a5',1,'usart_spi_opt_t']]],
+  ['spi_5fmr_8',['SPI_MR',['../struct_spi.html#a648508291f5d4893e6e85546bcf153db',1,'Spi']]],
+  ['spi_5fptcr_9',['SPI_PTCR',['../struct_spi.html#a07382c5151d462f6cfd70335d7e01a8d',1,'Spi']]],
+  ['spi_5fptsr_10',['SPI_PTSR',['../struct_spi.html#a2d3b9be834aa8108416e67ddd8cb6008',1,'Spi']]],
+  ['spi_5frcr_11',['SPI_RCR',['../struct_spi.html#a62b11fc9faced58701e29cdc21764e2a',1,'Spi']]],
+  ['spi_5frdr_12',['SPI_RDR',['../struct_spi.html#af9e9f674383afb8c517e99b44a4fc9eb',1,'Spi']]],
+  ['spi_5frncr_13',['SPI_RNCR',['../struct_spi.html#ae48688fc320b68028e3188394697d10a',1,'Spi']]],
+  ['spi_5frnpr_14',['SPI_RNPR',['../struct_spi.html#ad1998c4f1270d51750e20340cf36c6d2',1,'Spi']]],
+  ['spi_5frpr_15',['SPI_RPR',['../struct_spi.html#a5ec47f23d215a6fc82f3d44c950552f5',1,'Spi']]],
+  ['spi_5fsr_16',['SPI_SR',['../struct_spi.html#ae1f91a373e95428f2e2b1d6bfab333b2',1,'Spi']]],
+  ['spi_5ftcr_17',['SPI_TCR',['../struct_spi.html#af953d2ec0baa5194f7eac96f6ef6d02e',1,'Spi']]],
+  ['spi_5ftdr_18',['SPI_TDR',['../struct_spi.html#a8c8f55ee122f6b0ad33d438a4f1ff1ef',1,'Spi']]],
+  ['spi_5ftncr_19',['SPI_TNCR',['../struct_spi.html#a0eac84429daa7277e68a62208efd38c3',1,'Spi']]],
+  ['spi_5ftnpr_20',['SPI_TNPR',['../struct_spi.html#a007152d97e8784f378265b5b9b5bd2d7',1,'Spi']]],
+  ['spi_5ftpr_21',['SPI_TPR',['../struct_spi.html#a35d241545a51c84508a8db5cb2cdbaec',1,'Spi']]],
+  ['spi_5fwpmr_22',['SPI_WPMR',['../struct_spi.html#aa50a6b8d402cbb0f75e48cdbfd3a077c',1,'Spi']]],
+  ['spi_5fwpsr_23',['SPI_WPSR',['../struct_spi.html#adc4d26963ecf8db62fc9fea6e8841c33',1,'Spi']]],
+  ['stop_5fbits_24',['stop_bits',['../structsam__usart__opt__t.html#ac5848a65163c97627b8412f60fded824',1,'sam_usart_opt_t']]]
+];

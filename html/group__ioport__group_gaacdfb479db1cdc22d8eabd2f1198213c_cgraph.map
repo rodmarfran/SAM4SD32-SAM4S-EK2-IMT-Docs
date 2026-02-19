@@ -1,0 +1,7 @@
+<map id="ioport_reset_port_mode" name="ioport_reset_port_mode">
+<area shape="rect" id="Node000001" title="Reset multiple pin modes in a specified IOPORT port to defaults." alt="" coords="5,5,163,32"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a6739905dc552d38327247c322dc5b2a3" title=" " alt="" coords="211,5,389,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,16,198,19,192,19,163,21"/>
+<area shape="rect" id="Node000003" href="$ioport__pio_8h.html#ac2b01a65bf5686910b77f6b606497df2" title=" " alt="" coords="437,5,604,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="389,16,424,19,419,19,389,21"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="BOARD_TWI_Handler" name="BOARD_TWI_Handler">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,107,159,133"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__twi__group.html#ga0b21a63dcb100b2e80d2ab910d5a0de7" title="Disable TWI interrupts." alt="" coords="217,5,357,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,104,148,73,206,42,224,36,219,39,208,46,150,78,104,108"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__twi__group.html#gab19fa95740a272e3821792e78d2331ac" title="Enable TWI interrupts." alt="" coords="218,56,356,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="138,104,217,85,213,89,140,108"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__twi__group.html#ga454b757d0a237d338a2500536a95dce5" title="Get TWI interrupt status." alt="" coords="207,107,367,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,117,194,119,189,121,160,123"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__twi__group.html#ga101f4712913cde997b168ed86b0ee844" title="Reads a byte from the TWI bus." alt="" coords="236,157,338,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="139,131,223,153,218,156,139,137"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__twi__group.html#ga29b134707617bf62bb5be7b593978375" title="Sends a byte of data to one of the TWI slaves on the bus." alt="" coords="234,208,340,235"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="103,131,150,162,208,194,224,202,219,202,206,198,148,167,102,137"/>
+</map>

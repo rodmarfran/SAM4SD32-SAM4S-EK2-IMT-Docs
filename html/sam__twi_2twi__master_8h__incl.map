@@ -1,0 +1,9 @@
+<map id="twi_master.h" name="twi_master.h">
+<area shape="rect" id="Node000001" title="TWI Master driver for SAM." alt="" coords="39,5,136,32"/>
+<area shape="rect" id="Node000002" href="$twi_8h.html" title="Two&#45;Wire Interface (TWI) driver for SAM." alt="" coords="21,80,71,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,35,63,68,58,65,81,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="95,80,165,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="95,30,118,66,112,67,94,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,155,87,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="48,105,49,140,43,139,44,109"/>
+</map>

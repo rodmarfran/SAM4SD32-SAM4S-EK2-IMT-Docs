@@ -1,0 +1,7 @@
+<map id="pio_set_input" name="pio_set_input">
+<area shape="rect" id="Node000001" title="Configure one or more pin(s) or a PIO controller as inputs." alt="" coords="5,31,104,57"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="152,5,292,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,34,139,31,134,33,105,39"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__pio__group.html#gaa9aa20867544ff93c6527b799b3dfcec" title="Configure PIO internal pull&#45;up." alt="" coords="179,56,265,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="104,49,166,60,161,61,104,54"/>
+</map>

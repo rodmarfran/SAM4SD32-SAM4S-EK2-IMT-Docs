@@ -1,0 +1,7 @@
+<map id="display_info" name="display_info">
+<area shape="rect" id="Node000001" title="Display current information,including voltage on potentiometer, thresholds and comparison mode." alt="" coords="5,31,96,57"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__adc__group.html#gabebc25507384ef675ed157cedd908696" title="Read the ADC result data of the specified channel." alt="" coords="144,5,301,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,35,131,32,126,33,97,40"/>
+<area shape="rect" id="Node000003" href="$adc__threshold__wakeup__example_8c.html#ae1f49b1cbccbc95cb7d38119063a7fb0" title="Transform float data type to int." alt="" coords="190,56,254,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="96,48,177,61,172,64,96,53"/>
+</map>

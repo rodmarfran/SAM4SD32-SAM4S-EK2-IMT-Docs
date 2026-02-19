@@ -1,0 +1,5 @@
+<map id="configure_tc0" name="configure_tc0">
+<area shape="rect" id="Node000001" title="Configure Timer Counter 0 (TC0) to generate an interrupt every second." alt="" coords="5,5,105,32"/>
+<area shape="rect" id="Node000002" href="$group__asfdoc__sam__drivers__tc__group.html#ga40dd73d1c81c722d905dc662c9199152" title="Configure TC for timer, waveform generation, or capture." alt="" coords="153,5,209,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,16,139,18,134,19,105,21"/>
+</map>

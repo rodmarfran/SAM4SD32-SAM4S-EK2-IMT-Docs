@@ -1,0 +1,5 @@
+<map id="ioport_init" name="ioport_init">
+<area shape="rect" id="Node000001" title="Initializes the IOPORT service, ready for use." alt="" coords="5,5,83,32"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a292d649a807b515c69d02c6fcb0dd2e9" title=" " alt="" coords="131,5,240,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,16,117,18,112,19,83,21"/>
+</map>

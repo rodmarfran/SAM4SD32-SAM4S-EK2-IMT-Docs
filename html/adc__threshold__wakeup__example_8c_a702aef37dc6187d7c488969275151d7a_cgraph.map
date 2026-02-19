@@ -1,0 +1,7 @@
+<map id="enter_asleep" name="enter_asleep">
+<area shape="rect" id="Node000001" title="Enter sleep mode using WFI instruction." alt="" coords="5,31,101,57"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__adc__group.html#gabbcb68185b6ba621e41647f5cf8a186a" title="Enable ADC interrupts." alt="" coords="149,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,34,136,31,131,33,102,39"/>
+<area shape="rect" id="Node000003" href="$adc_8h.html#a70b62e35c9284c1937c2d2bcab993425" title=" " alt="" coords="164,56,274,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="101,49,151,58,146,59,101,54"/>
+</map>

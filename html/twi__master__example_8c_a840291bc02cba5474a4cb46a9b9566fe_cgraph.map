@@ -1,0 +1,20 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="TWI Master Example Main." alt="" coords="5,56,55,83"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__twi__group.html#gafbb405f8b637c77a3061556deaf5fe52" title="Read multiple bytes from a TWI compatible slave device." alt="" coords="106,5,224,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,58,114,36,112,40,56,63"/>
+<area shape="rect" id="Node000004" href="$sam__twi_2twi__master_8h.html#ab856ec750ce040a4c33946961062578a" title=" " alt="" coords="103,107,227,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="55,76,115,99,111,102,55,81"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__twi__group.html#gade483dbea4b5f6f786a146df5e51d572" title="Write multiple bytes to a TWI compatible slave device." alt="" coords="105,56,225,83"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="54,67,91,68,87,71,56,72"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__twi__group.html#ga3000df0ade3c8314ec3d1d3286eaac5b" title="Construct the TWI module address register field." alt="" coords="282,31,377,57"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,25,269,34,264,35,224,30"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__twi__group.html#gadf2fdb0871643a893605967720ec289e" title="Initialize TWI master mode." alt="" coords="275,107,384,133"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="227,117,262,120,257,120,228,123"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__twi__group.html#ga66bc8aca8f2441d4e483e16db6f9466e" title="Enable TWI master mode." alt="" coords="432,56,602,83"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="381,103,448,88,453,87,383,109"/>
+<area shape="rect" id="Node000007" href="$group__sam__drivers__twi__group.html#gad6bd8052743f919ba9251e63c23928fd" title="Reset TWI." alt="" coords="480,107,554,133"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="385,117,467,120,462,120,385,123"/>
+<area shape="rect" id="Node000008" href="$group__sam__drivers__twi__group.html#gac130ae17ee18a06af29161005b1c62a9" title="Set the I2C bus speed in conjunction with the clock frequency." alt="" coords="464,157,570,184"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="382,131,453,153,448,153,382,137"/>
+<area shape="poly" id="edge9_Node000009_Node000003" title=" " alt="" coords="225,57,269,53,264,55,226,63"/>
+</map>

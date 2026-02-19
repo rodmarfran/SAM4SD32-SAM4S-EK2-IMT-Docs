@@ -1,0 +1,26 @@
+var struct_twi =
+[
+    [ "Reserved1", "struct_twi.html#a53ce3ad456b5e37d49519aa50e785042", null ],
+    [ "Reserved2", "struct_twi.html#ab4b53d2f7da966be7ee3b64c06c06e3d", null ],
+    [ "TWI_CR", "struct_twi.html#aaf7a309b34fc2ba192282f8ba3c7958a", null ],
+    [ "TWI_CWGR", "struct_twi.html#a1722c85b8de729cb9eb026e2f7c05392", null ],
+    [ "TWI_IADR", "struct_twi.html#a389192128269dc9ab13c3fb99553118d", null ],
+    [ "TWI_IDR", "struct_twi.html#a7714425c70adfa8fc6079c085c8c19b0", null ],
+    [ "TWI_IER", "struct_twi.html#ab05d7323a22bbfe00d1f4539ea50e79f", null ],
+    [ "TWI_IMR", "struct_twi.html#aedd5037a1d812ed638d2eee16bc76e13", null ],
+    [ "TWI_MMR", "struct_twi.html#abcd5c6cf893e34f8c63b6697855a720d", null ],
+    [ "TWI_PTCR", "struct_twi.html#a43769cba16dc6cc0a5ebbfda208dc9fd", null ],
+    [ "TWI_PTSR", "struct_twi.html#a2e2d6ba433b1df5fc4c69d6981049780", null ],
+    [ "TWI_RCR", "struct_twi.html#a0b2c40bc3760ba2d2da1caea051e567a", null ],
+    [ "TWI_RHR", "struct_twi.html#a0c234be97c419728597e2ca07d6b239e", null ],
+    [ "TWI_RNCR", "struct_twi.html#a2f028f5a51a37f931f02580d20c6729e", null ],
+    [ "TWI_RNPR", "struct_twi.html#a2eb59c15171a035bb076beb4775c654d", null ],
+    [ "TWI_RPR", "struct_twi.html#a43b005f27248c1e140bd158b228b6880", null ],
+    [ "TWI_SMR", "struct_twi.html#afb2e9c92ee9635dcd338f09032cd4e6f", null ],
+    [ "TWI_SR", "struct_twi.html#a013eb3ffaa279bf7407970b234673320", null ],
+    [ "TWI_TCR", "struct_twi.html#a3f03f041dffec14be73d57905d1aa311", null ],
+    [ "TWI_THR", "struct_twi.html#ad72e7a949703588154913e818201b704", null ],
+    [ "TWI_TNCR", "struct_twi.html#a80673dbfab91a32eeec50ee04f27c5b5", null ],
+    [ "TWI_TNPR", "struct_twi.html#af2e3124136b411dbd4fbd27715bc6926", null ],
+    [ "TWI_TPR", "struct_twi.html#a4e5862b61959dd29d1b74913a0536391", null ]
+];

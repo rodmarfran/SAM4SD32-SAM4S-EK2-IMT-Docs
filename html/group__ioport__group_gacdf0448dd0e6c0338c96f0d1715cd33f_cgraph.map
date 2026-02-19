@@ -1,0 +1,7 @@
+<map id="ioport_set_port_sense_mode" name="ioport_set_port_sense_mode">
+<area shape="rect" id="Node000001" title="Set the pin sense mode of a multiple IOPORT pins on a single port." alt="" coords="5,13,194,40"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a10d5e38f1bdf4c3c9e0896557510d5db" title=" " alt="" coords="242,5,381,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,24,229,26,223,27,194,29"/>
+<area shape="rect" id="Node000003" href="$ioport__pio_8h.html#ac2b01a65bf5686910b77f6b606497df2" title=" " alt="" coords="429,13,596,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="382,24,416,27,411,27,382,29"/>
+</map>

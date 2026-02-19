@@ -1,0 +1,5 @@
+<map id="ioport_pin_to_port_id" name="ioport_pin_to_port_id">
+<area shape="rect" id="Node000001" title="Convert a pin ID into a its port ID." alt="" coords="5,13,147,40"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a17ab9c7be3b9b2674e7668b6a083d191" title=" " alt="" coords="195,5,322,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="147,24,182,26,177,27,147,29"/>
+</map>

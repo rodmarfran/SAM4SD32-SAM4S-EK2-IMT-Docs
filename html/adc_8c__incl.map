@@ -1,0 +1,9 @@
+<map id="adc.c" name="adc.c">
+<area shape="rect" id="Node000001" title="Analog&#45;to&#45;Digital Converter (ADC/ADC12B) driver for SAM." alt="" coords="71,5,125,32"/>
+<area shape="rect" id="Node000002" href="$adc_8h.html" title="Analog&#45;to&#45;Digital Converter (ADC/ADC12B) driver for SAM." alt="" coords="19,80,73,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,35,66,69,62,66,90,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="96,80,206,107"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="108,30,136,67,130,68,107,35"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,155,87,181"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="48,105,49,140,43,139,44,109"/>
+</map>

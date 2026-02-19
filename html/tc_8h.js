@@ -1,0 +1,28 @@
+var tc_8h =
+[
+    [ "tc_disable_interrupt", "group__asfdoc__sam__drivers__tc__group.html#ga8a3b9f8a1b77fbdb9fd1099d839f94e7", null ],
+    [ "tc_disable_qdec_interrupt", "group__asfdoc__sam__drivers__tc__group.html#ga8cacda3e7fa902000218d73e0d3347e7", null ],
+    [ "tc_enable_interrupt", "group__asfdoc__sam__drivers__tc__group.html#ga0aac357f460633e1c5498ae0ca86e000", null ],
+    [ "tc_enable_qdec_interrupt", "group__asfdoc__sam__drivers__tc__group.html#ga9bae59ecfba3ae42e9cbcecf8c0e147c", null ],
+    [ "tc_find_mck_divisor", "group__asfdoc__sam__drivers__tc__group.html#ga542df5f3ba9cc183eb83176f807f8f78", null ],
+    [ "tc_get_feature", "group__asfdoc__sam__drivers__tc__group.html#gaa5ffe41a787641c11c24897bf858c66b", null ],
+    [ "tc_get_interrupt_mask", "group__asfdoc__sam__drivers__tc__group.html#ga0a81bdfb2849975acaa4f93710e83ba2", null ],
+    [ "tc_get_qdec_interrupt_mask", "group__asfdoc__sam__drivers__tc__group.html#ga6f8c2882ebbc33c97e2e0d911c323157", null ],
+    [ "tc_get_qdec_interrupt_status", "group__asfdoc__sam__drivers__tc__group.html#ga08648bf46fd9781ab15c19145b05932b", null ],
+    [ "tc_get_status", "group__asfdoc__sam__drivers__tc__group.html#gad3ebe2aecec5ddaec07f0abbf684b67e", null ],
+    [ "tc_get_version", "group__asfdoc__sam__drivers__tc__group.html#gac35c4e6bf3f129c002dc65a782d73dd7", null ],
+    [ "tc_init", "group__asfdoc__sam__drivers__tc__group.html#ga40dd73d1c81c722d905dc662c9199152", null ],
+    [ "tc_init_2bit_gray", "group__asfdoc__sam__drivers__tc__group.html#gad0bb65c5c7f112a15a8b2bb9e4939024", null ],
+    [ "tc_read_cv", "group__asfdoc__sam__drivers__tc__group.html#gae670687a0410c8c8224b234c3137a6d6", null ],
+    [ "tc_read_ra", "group__asfdoc__sam__drivers__tc__group.html#gad4903f5115196ad40a5b71d070facf95", null ],
+    [ "tc_read_rb", "group__asfdoc__sam__drivers__tc__group.html#ga1569d2ebe587dafe953d9ec98affd7cc", null ],
+    [ "tc_read_rc", "group__asfdoc__sam__drivers__tc__group.html#ga38b0ee198ea12c7faaa027a6782d3bf3", null ],
+    [ "tc_set_block_mode", "group__asfdoc__sam__drivers__tc__group.html#ga4c465fb2f226cc4fa572457b2222a84d", null ],
+    [ "tc_set_writeprotect", "group__asfdoc__sam__drivers__tc__group.html#gaae3158303ab845996ea2485a08019de2", null ],
+    [ "tc_start", "group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6", null ],
+    [ "tc_stop", "group__asfdoc__sam__drivers__tc__group.html#gabb753a35af83df7320cb0b539e7fad52", null ],
+    [ "tc_sync_trigger", "group__asfdoc__sam__drivers__tc__group.html#gaa58157c1385c5775a7401bb690fab2d1", null ],
+    [ "tc_write_ra", "group__asfdoc__sam__drivers__tc__group.html#ga924b088898bea8c95dd0177e0bf8d666", null ],
+    [ "tc_write_rb", "group__asfdoc__sam__drivers__tc__group.html#ga34a36089a02b1ed7988f5e33097e79ba", null ],
+    [ "tc_write_rc", "group__asfdoc__sam__drivers__tc__group.html#ga5182dde403f240a8f83e86fb6eb46ad9", null ]
+];

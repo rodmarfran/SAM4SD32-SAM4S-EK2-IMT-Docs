@@ -1,0 +1,9 @@
+<map id="twi_master_pdc_read" name="twi_master_pdc_read">
+<area shape="rect" id="Node000001" title="Read multiple bytes from a TWI compatible slave device." alt="" coords="5,56,151,83"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__twi__group.html#gab19fa95740a272e3821792e78d2331ac" title="Enable TWI interrupts." alt="" coords="199,5,336,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,53,202,35,198,38,132,58"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__twi__group.html#ga3000df0ade3c8314ec3d1d3286eaac5b" title="Construct the TWI module address register field." alt="" coords="220,56,315,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="151,67,207,69,201,70,151,72"/>
+<area shape="rect" id="Node000004" href="$twi__eeprom__pdc__example_8c.html#aa7e43d9b4bb8f2d7d4942c1ec5952dbe" title="Read status register." alt="" coords="211,107,324,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="131,81,203,101,198,103,131,86"/>
+</map>

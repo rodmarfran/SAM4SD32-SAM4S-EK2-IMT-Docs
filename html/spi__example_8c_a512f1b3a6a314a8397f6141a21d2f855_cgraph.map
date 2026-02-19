@@ -1,0 +1,31 @@
+<map id="spi_set_clock_configuration" name="spi_set_clock_configuration">
+<area shape="rect" id="Node000001" title="Set the specified SPI clock configuration." alt="" coords="5,325,188,352"/>
+<area shape="rect" id="Node000002" href="$spi__example_8c.html#a5cfbf847e1c5dfd7fbd0ce225115cbda" title="Initialize SPI as master." alt="" coords="236,325,375,352"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,336,222,337,218,340,189,341"/>
+<area shape="rect" id="Node000003" href="$spi_8h.html#ae1923cf9736b951fa60a7404d4420812" title="Disable SPI." alt="" coords="464,5,550,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="305,324,313,273,332,197,347,155,367,114,391,76,421,42,451,27,447,30,425,46,395,79,371,117,352,157,337,198,318,274,310,326"/>
+<area shape="rect" id="Node000004" href="$spi_8h.html#a1498285b5ff73664ad14833e5ce01c6a" title="Disable Mode Fault Detection." alt="" coords="428,56,585,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="308,324,320,283,342,225,376,164,397,135,421,109,429,106,425,109,425,113,401,138,380,167,347,228,325,285,312,326"/>
+<area shape="rect" id="Node000005" href="$spi_8h.html#a0d4feda4666a1448e5d41a8479b60689" title="Enable SPI." alt="" coords="465,123,548,149"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="310,323,324,290,348,246,380,199,421,159,452,145,448,149,425,163,384,203,352,249,329,293,314,326"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__spi__group.html#ga717643bb5d2401bed319b2ad8bc41462" title="Enable SPI clock." alt="" coords="446,173,567,200"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="313,323,355,269,386,237,422,210,435,205,430,208,424,214,390,241,360,272,318,327"/>
+<area shape="rect" id="Node000007" href="$spi_8h.html#a678f8e496cc236c912f4105aebffef36" title="Reset SPI and set it to Slave mode." alt="" coords="470,224,544,251"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="323,323,366,292,422,260,457,249,452,252,424,265,369,296,326,327"/>
+<area shape="rect" id="Node000008" href="$group__sam__drivers__spi__group.html#ga28248e1b6c31317a2d0128e5eae6f516" title="Set Serial Clock Baud Rate divider value (SCBR)." alt="" coords="434,275,579,301"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="360,322,438,304,434,307,363,327"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__spi__group.html#ga357d0caf683beeb0a84b4e0874dbbb2c" title="Set number of bits per transfer." alt="" coords="423,325,590,352"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="375,336,410,338,405,340,376,341"/>
+<area shape="rect" id="Node000010" href="$group__sam__drivers__spi__group.html#gae7f5adbf3062c0a834cfd8f98b0c1878" title="Set Data Capture Phase." alt="" coords="435,376,578,403"/>
+<area shape="poly" id="edge9_Node000002_Node000010" title=" " alt="" coords="361,350,438,371,433,372,362,355"/>
+<area shape="rect" id="Node000011" href="$group__sam__drivers__spi__group.html#ga5047dc4debab95407fa5b27360addc39" title="Set clock default state." alt="" coords="432,427,582,453"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="324,350,369,381,424,412,440,421,435,421,422,417,366,385,324,355"/>
+<area shape="rect" id="Node000012" href="$spi_8h.html#af8ae490e10b990679cee4e6d39b775f6" title="Issue a LASTXFER command." alt="" coords="450,477,563,504"/>
+<area shape="poly" id="edge11_Node000002_Node000012" title=" " alt="" coords="316,350,360,405,390,436,424,463,438,472,433,472,422,468,386,440,355,409,315,355"/>
+<area shape="rect" id="Node000013" href="$spi_8h.html#a837805f2bd2b5f2c0a29e9651e503d34" title="Set SPI to Master mode." alt="" coords="432,528,581,555"/>
+<area shape="poly" id="edge12_Node000002_Node000013" title=" " alt="" coords="313,350,329,385,352,429,384,474,425,514,433,521,428,521,421,518,380,478,348,431,324,387,311,355"/>
+<area shape="rect" id="Node000014" href="$group__sam__drivers__spi__group.html#ga71131f0a9772ac93eeb6af52a1101ecc" title="Set Peripheral Chip Select (PCS) value." alt="" coords="440,579,573,621"/>
+<area shape="poly" id="edge13_Node000002_Node000014" title=" " alt="" coords="311,350,325,393,347,450,380,511,401,539,425,565,430,571,425,570,421,569,397,543,376,514,342,452,320,395,309,355"/>
+<area shape="rect" id="Node000015" href="$group__sam__drivers__spi__group.html#ga4ccc2d131b456b98318bdb310e755447" title="Configure timing for SPI transfer." alt="" coords="430,645,583,672"/>
+<area shape="poly" id="edge14_Node000002_Node000015" title=" " alt="" coords="309,350,318,404,337,479,352,520,371,561,395,598,425,631,429,637,424,636,421,635,391,602,367,563,347,522,332,481,313,405,307,355"/>
+</map>

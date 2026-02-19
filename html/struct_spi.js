@@ -1,0 +1,27 @@
+var struct_spi =
+[
+    [ "Reserved1", "struct_spi.html#a25020c28d26d3ffec0c2a8dea5432172", null ],
+    [ "Reserved2", "struct_spi.html#ac57ee7f68f110b032c39c03b5985fc65", null ],
+    [ "Reserved3", "struct_spi.html#ab29cda466682552fcc8456728300e500", null ],
+    [ "SPI_CR", "struct_spi.html#ad734fbd4fd26168d4677c0620e5efc02", null ],
+    [ "SPI_CSR", "struct_spi.html#aa87a90974ab3e726b0e2e9c6c1041891", null ],
+    [ "SPI_IDR", "struct_spi.html#a8c8575c6d9cf819ce6aff62ea79276eb", null ],
+    [ "SPI_IER", "struct_spi.html#a2cde5578804cb090b599fe07eeaa04d4", null ],
+    [ "SPI_IMR", "struct_spi.html#a9b25e67749c807004595f3301c65b9ad", null ],
+    [ "SPI_MR", "struct_spi.html#a648508291f5d4893e6e85546bcf153db", null ],
+    [ "SPI_PTCR", "struct_spi.html#a07382c5151d462f6cfd70335d7e01a8d", null ],
+    [ "SPI_PTSR", "struct_spi.html#a2d3b9be834aa8108416e67ddd8cb6008", null ],
+    [ "SPI_RCR", "struct_spi.html#a62b11fc9faced58701e29cdc21764e2a", null ],
+    [ "SPI_RDR", "struct_spi.html#af9e9f674383afb8c517e99b44a4fc9eb", null ],
+    [ "SPI_RNCR", "struct_spi.html#ae48688fc320b68028e3188394697d10a", null ],
+    [ "SPI_RNPR", "struct_spi.html#ad1998c4f1270d51750e20340cf36c6d2", null ],
+    [ "SPI_RPR", "struct_spi.html#a5ec47f23d215a6fc82f3d44c950552f5", null ],
+    [ "SPI_SR", "struct_spi.html#ae1f91a373e95428f2e2b1d6bfab333b2", null ],
+    [ "SPI_TCR", "struct_spi.html#af953d2ec0baa5194f7eac96f6ef6d02e", null ],
+    [ "SPI_TDR", "struct_spi.html#a8c8f55ee122f6b0ad33d438a4f1ff1ef", null ],
+    [ "SPI_TNCR", "struct_spi.html#a0eac84429daa7277e68a62208efd38c3", null ],
+    [ "SPI_TNPR", "struct_spi.html#a007152d97e8784f378265b5b9b5bd2d7", null ],
+    [ "SPI_TPR", "struct_spi.html#a35d241545a51c84508a8db5cb2cdbaec", null ],
+    [ "SPI_WPMR", "struct_spi.html#aa50a6b8d402cbb0f75e48cdbfd3a077c", null ],
+    [ "SPI_WPSR", "struct_spi.html#adc4d26963ecf8db62fc9fea6e8841c33", null ]
+];

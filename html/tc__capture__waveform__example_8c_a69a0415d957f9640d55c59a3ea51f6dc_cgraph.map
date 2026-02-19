@@ -1,0 +1,9 @@
+<map id="TC_Handler" name="TC_Handler">
+<area shape="rect" id="Node000001" title="[tc_capture_init]" alt="" coords="5,56,97,83"/>
+<area shape="rect" id="Node000002" href="$group__asfdoc__sam__drivers__tc__group.html#gad3ebe2aecec5ddaec07f0abbf684b67e" title="Get the current status for the specified TC channel." alt="" coords="145,5,245,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,53,143,36,139,39,92,58"/>
+<area shape="rect" id="Node000003" href="$group__asfdoc__sam__drivers__tc__group.html#gad4903f5115196ad40a5b71d070facf95" title="Read TC Register A (RA) on the specified channel." alt="" coords="154,56,236,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="97,67,141,68,136,70,97,72"/>
+<area shape="rect" id="Node000004" href="$group__asfdoc__sam__drivers__tc__group.html#ga1569d2ebe587dafe953d9ec98affd7cc" title="Read TC Register B (RB) on the specified channel." alt="" coords="154,107,236,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="92,81,143,100,138,102,91,86"/>
+</map>

@@ -1,0 +1,23 @@
+<map id="configure_buttons" name="configure_buttons">
+<area shape="rect" id="Node000001" title="Configure the push buttons." alt="" coords="5,107,130,133"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#a2890b0745b8d517e5b7c8ff7ce362b79" title="Handler for INT1, rising edge interrupt." alt="" coords="213,56,301,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,104,200,83,196,87,121,108"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#ga3bc542609d9f1c7a439a264df86925f2" title="Enable the given interrupt source." alt="" coords="392,107,529,133"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="130,117,377,118,375,122,130,123"/>
+<area shape="rect" id="Node000006" href="$main_8c.html#a1554081c7bac5c1ee808b91916c435f8" title="Handler for INT2, rising edge interrupt." alt="" coords="213,5,301,32"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="83,104,124,73,176,42,200,34,196,37,179,46,127,78,87,108"/>
+<area shape="rect" id="Node000007" href="$pio__handler_8c.html#a050525f7f1bba67325b6146a1dd9a68a" title="Set an interrupt handler for the provided pins." alt="" coords="201,157,313,184"/>
+<area shape="poly" id="edge10_Node000001_Node000007" title=" " alt="" coords="120,131,192,152,187,154,120,137"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__pio__group.html#ga4e9aede414e90e5a0dc9a4b75c9e063e" title="Configure Glitch or Debouncing filter for the specified input(s)." alt="" coords="178,208,336,235"/>
+<area shape="poly" id="edge12_Node000001_Node000009" title=" " alt="" coords="86,131,127,162,179,194,194,202,189,202,176,198,124,167,85,136"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#aca32d4e8ae4a2ae8bc3c8778a58b2bb5" title="Delay number of tick Systicks (happens roughly every 1 ms)." alt="" coords="416,5,504,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="300,56,404,32,399,34,302,61"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="390,56,530,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="301,67,377,68,372,70,302,72"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="301,78,391,102,386,103,301,83"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="301,16,403,18,398,20,302,21"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="301,27,391,51,386,52,301,32"/>
+<area shape="poly" id="edge8_Node000006_Node000005" title=" " alt="" coords="301,26,337,42,353,55,362,68,371,80,386,92,396,100,391,100,382,97,367,84,358,71,349,58,335,46,302,31"/>
+<area shape="rect" id="Node000008" href="$group__sam__drivers__pio__group.html#ga1cac5b69c0b755160f4e20c900e57ff2" title="Configure the given interrupt source." alt="" coords="384,157,536,184"/>
+<area shape="poly" id="edge11_Node000007_Node000008" title=" " alt="" coords="313,168,371,170,366,171,314,173"/>
+</map>

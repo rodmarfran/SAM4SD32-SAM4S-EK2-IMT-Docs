@@ -1,0 +1,5 @@
+<map id="interrupt_sam_nvic.h" name="interrupt_sam_nvic.h">
+<area shape="rect" id="Node000001" title="Global interrupt management for SAM D20, SAM3 and SAM4 (NVIC based)." alt="" coords="5,5,148,32"/>
+<area shape="rect" id="Node000002" href="$interrupt__sam__nvic_8c.html" title="Global interrupt management for SAM D20, SAM3 and SAM4 (NVIC based)." alt="" coords="5,80,148,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,46,79,80,74,79,75,50"/>
+</map>

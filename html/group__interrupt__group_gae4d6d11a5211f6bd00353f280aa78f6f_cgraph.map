@@ -1,0 +1,5 @@
+<map id="cpu_irq_restore" name="cpu_irq_restore">
+<area shape="rect" id="Node000001" title="Restore global interrupt flags." alt="" coords="5,13,116,40"/>
+<area shape="rect" id="Node000002" href="$group__interrupt__group.html#ga7f318ab08f126dcacbfb7c33c3836a6c" title="Check if interrupts are globally enabled in supplied flags." alt="" coords="164,5,296,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,24,150,26,145,27,116,29"/>
+</map>

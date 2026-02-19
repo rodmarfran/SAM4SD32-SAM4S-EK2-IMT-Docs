@@ -1,0 +1,11 @@
+<map id="pio_handler_set_priority" name="pio_handler_set_priority">
+<area shape="rect" id="Node000001" title="Initialize PIO interrupt management logic." alt="" coords="5,81,164,108"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="222,5,362,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,78,211,41,233,36,229,38,213,47,120,83"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__pio__group.html#ga3bc542609d9f1c7a439a264df86925f2" title="Enable the given interrupt source." alt="" coords="223,56,360,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,82,210,79,205,81,165,88"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__pio__group.html#ga927511a509ee6ec619cc88eea5466c1d" title="Read PIO interrupt mask." alt="" coords="214,107,370,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="164,102,201,108,196,109,164,107"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#ga3f15513050ecf143c9e92f1daef155ed" title="Read and clear PIO interrupt status." alt="" coords="212,157,372,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="119,106,213,143,234,152,228,152,211,148,118,111"/>
+</map>

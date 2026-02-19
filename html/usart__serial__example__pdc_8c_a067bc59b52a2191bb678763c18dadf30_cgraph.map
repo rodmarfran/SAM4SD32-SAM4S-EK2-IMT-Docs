@@ -1,0 +1,11 @@
+<map id="usart_clear" name="usart_clear">
+<area shape="rect" id="Node000001" title="Reset the TX &amp; RX, and clear the PDC counter." alt="" coords="5,81,91,108"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__usart__group.html#ga7fd617322d666621fee15501ae0de7c7" title="Enable USART receiver." alt="" coords="139,5,252,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="71,79,137,42,151,37,147,40,140,46,74,83"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__usart__group.html#ga1c3a4036f8b9b21f833a641b07b84f6c" title="Enable USART transmitter." alt="" coords="139,56,252,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,85,126,80,121,83,92,90"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__usart__group.html#ga86ad3a57b19fb497ef2271d6dc87c359" title="Immediately stop and disable USART receiver." alt="" coords="143,107,248,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="91,99,130,107,126,110,91,105"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__usart__group.html#ga123b84a0d5be1cbf1a3c5bac4af3d27d" title="Immediately stop and disable USART transmitter." alt="" coords="143,157,248,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="73,106,140,143,152,151,146,150,137,148,72,111"/>
+</map>

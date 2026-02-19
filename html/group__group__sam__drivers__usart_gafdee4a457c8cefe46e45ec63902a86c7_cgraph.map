@@ -1,0 +1,5 @@
+<map id="usart_write_line" name="usart_write_line">
+<area shape="rect" id="Node000001" title="Write one&#45;line string through USART." alt="" coords="5,5,118,32"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__usart__group.html#gace816375e1905a329cffd46e3ffd89b1" title="Write to USART Transmit Holding Register." alt="" coords="166,5,266,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,16,153,18,147,19,118,21"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ioport_example2.c" name="ioport_example2.c">
+<area shape="rect" id="Node000001" title="Common IOPORT service example 2." alt="" coords="19,5,146,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,80,56,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="76,31,50,69,46,66,71,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="79,80,192,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,30,120,67,115,68,91,35"/>
+</map>

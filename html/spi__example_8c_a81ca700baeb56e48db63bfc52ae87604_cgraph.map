@@ -1,0 +1,9 @@
+<map id="spi_slave_new_command" name="spi_slave_new_command">
+<area shape="rect" id="Node000001" title="Start waiting new command." alt="" coords="5,13,177,40"/>
+<area shape="rect" id="Node000002" href="$spi__example_8c.html#a4912643428988f2283f3149022bd332a" title="Set SPI slave transfer." alt="" coords="225,13,352,40"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="177,24,212,26,206,27,177,29"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__spi__group.html#gaf0aef4a28c69c8ceb6e99b5d79e91e47" title="Write the transmitted data with specified peripheral chip select value." alt="" coords="400,13,473,40"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="352,24,387,27,382,27,352,29"/>
+<area shape="rect" id="Node000004" href="$spi_8h.html#a7a7e9be615b3302403a32d57650138f2" title="Get Peripheral Select mode." alt="" coords="521,5,648,48"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,24,509,27,503,27,474,29"/>
+</map>

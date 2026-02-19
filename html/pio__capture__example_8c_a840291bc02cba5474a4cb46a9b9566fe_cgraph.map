@@ -1,0 +1,34 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="pio_capture Application entry point." alt="" coords="5,213,55,239"/>
+<area shape="rect" id="Node000002" href="$pio__capture__example_8c.html#a44fdb766f9a0357ee468fd9f9a82006b" title="Handler for capture function interrupt." alt="" coords="127,35,240,62"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="31,212,39,183,52,146,72,106,101,72,114,65,111,69,104,76,77,109,57,148,44,185,36,213"/>
+<area shape="rect" id="Node000003" href="$pio__capture__example_8c.html#a33c8c1bb4e41b6192b554fdf9e70b3b9" title="Configure UART for debug message output." alt="" coords="120,86,246,113"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="35,211,60,168,79,143,101,123,112,118,108,122,104,127,82,147,64,171,40,213"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__pio__group.html#ga6018271d50ce10b94306aaa2e5665ebc" title="Perform complete pin(s) configuration; general attributes and PIO init if necessary." alt="" coords="103,137,264,163"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="49,211,101,180,132,168,128,172,104,184,53,214"/>
+<area shape="rect" id="Node000007" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="486,137,627,163"/>
+<area shape="poly" id="edge12_Node000001_Node000007" title=" " alt="" coords="54,221,216,204,438,173,484,166,479,168,439,178,217,209,56,226"/>
+<area shape="rect" id="Node000010" href="$group__sam__drivers__pio__group.html#gaa04d6eeced3cb150ac5374be39dbb61c" title="Enable PIO output write for synchronous data output." alt="" coords="103,238,264,265"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="54,228,89,234,85,237,56,233"/>
+<area shape="rect" id="Node000011" href="$group__sam__drivers__pio__group.html#gaa8c613a0858311e6d684b1869d49dd77" title="Drive a GPIO pin to 1." alt="" coords="124,289,242,315"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="47,237,74,256,104,274,119,282,114,284,101,279,71,261,48,242"/>
+<area shape="rect" id="Node000013" href="$group__sam__drivers__pio__group.html#ga41f795f6deb585e82b913a959a4b076a" title="Drive a GPIO pin to 0." alt="" coords="126,339,240,366"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="38,237,64,282,82,305,104,325,115,333,109,334,101,330,79,309,60,285,37,243"/>
+<area shape="rect" id="Node000014" href="$group__sam__drivers__pio__group.html#gae45cf5b123ca74481c7511983d3403d2" title="Synchronously write on output pins." alt="" coords="108,390,259,417"/>
+<area shape="poly" id="edge18_Node000001_Node000014" title=" " alt="" coords="34,237,44,268,57,305,77,343,105,376,110,382,105,381,101,380,72,346,52,307,39,269,34,242"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#gaa9aa20867544ff93c6527b799b3dfcec" title="Configure PIO internal pull&#45;up." alt="" coords="513,86,600,113"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="245,134,262,123,273,111,279,98,284,71,290,45,297,32,311,21,344,6,373,4,403,10,439,21,490,45,532,76,527,76,487,49,437,26,402,15,373,9,345,11,313,26,301,36,294,47,289,72,284,100,277,114,266,127,248,138"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__pio__group.html#ga2908ec92df470e6520c6f5c38211ca0b" title="Configure one or more pin(s) or a PIO controller as inputs." alt="" coords="326,86,424,113"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="236,134,313,115,309,118,238,139"/>
+<area shape="rect" id="Node000008" href="$group__sam__drivers__pio__group.html#gaf3727cdc71e8b6c88a4069a90b72a78d" title="Configure one or more pin(s) of a PIO controller as outputs, with the given default value." alt="" coords="322,137,428,163"/>
+<area shape="poly" id="edge8_Node000004_Node000008" title=" " alt="" coords="263,148,309,149,304,151,265,153"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__pio__group.html#ga245df3215515d49f990bc80cec318de6" title="Configure IO of a PIO controller as being controlled by a specific peripheral." alt="" coords="312,35,438,62"/>
+<area shape="poly" id="edge11_Node000004_Node000009" title=" " alt="" coords="239,134,263,123,277,111,286,98,295,85,310,72,321,68,317,71,314,76,299,89,290,101,281,114,265,127,242,138"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="424,97,500,98,495,100,426,102"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="425,111,494,131,489,133,425,116"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="425,134,500,114,496,117,427,139"/>
+<area shape="poly" id="edge9_Node000008_Node000007" title=" " alt="" coords="428,148,474,149,469,151,429,153"/>
+<area shape="rect" id="Node000012" href="$group__sam__drivers__pio__group.html#gaf37309a52c59d5e2116d649f6fdd98c9" title="Return GPIO port for a GPIO pin." alt="" coords="312,314,438,341"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="243,307,299,317,294,318,243,313"/>
+<area shape="poly" id="edge17_Node000013_Node000012" title=" " alt="" coords="240,343,299,337,294,338,241,348"/>
+</map>

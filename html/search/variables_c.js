@@ -1,0 +1,18 @@
+var searchData=
+[
+  ['reserved1_0',['Reserved1',['../struct_tc_channel.html#a94d4a93c460dd8bb26112e4f2939597a',1,'TcChannel::Reserved1'],['../struct_tc.html#ac70c7d8afb0897c8fc00b0830f4e86b9',1,'Tc::Reserved1'],['../struct_pio.html#a855fc06db30ee4fe63e12b935f69eaef',1,'Pio::Reserved1'],['../struct_usart.html#a457dba7f89f3a899745c70653250cb77',1,'Usart::Reserved1'],['../struct_pwm.html#a28228282a0d3645bebb90a7bbb1463a0',1,'Pwm::Reserved1'],['../struct_twi.html#a53ce3ad456b5e37d49519aa50e785042',1,'Twi::Reserved1'],['../struct_spi.html#a25020c28d26d3ffec0c2a8dea5432172',1,'Spi::Reserved1'],['../struct_adc.html#a8737c766a65a40d2336c5a107677fa7a',1,'Adc::Reserved1']]],
+  ['reserved10_1',['Reserved10',['../struct_pio.html#afc63e77e288674285b69e145481270f3',1,'Pio']]],
+  ['reserved11_2',['Reserved11',['../struct_pio.html#a8c1af97152f2d14dc3d32aa051869e84',1,'Pio']]],
+  ['reserved12_3',['Reserved12',['../struct_pio.html#a3084db86f518affa92aff66adad78673',1,'Pio']]],
+  ['reserved13_4',['Reserved13',['../struct_pio.html#a7dc4d09db648858bbbe24621797a435d',1,'Pio']]],
+  ['reserved14_5',['Reserved14',['../struct_pio.html#aaf9e13f9720dde5f4d849bac514c61d1',1,'Pio']]],
+  ['reserved15_6',['Reserved15',['../struct_pio.html#ae146dfdf2d2c2919f8c0ff0e60d89ec0',1,'Pio']]],
+  ['reserved2_7',['Reserved2',['../struct_tc_channel.html#aa3348e80a69cc9f134d1a4095bdc48f8',1,'TcChannel::Reserved2'],['../struct_pio.html#a003ca0d36bf30bf1543d6617eddcda6e',1,'Pio::Reserved2'],['../struct_usart.html#af121ee18487c724471ec642782941ff8',1,'Usart::Reserved2'],['../struct_pwm.html#ae9025a9acd92afa62ea4206b435bcafe',1,'Pwm::Reserved2'],['../struct_twi.html#ab4b53d2f7da966be7ee3b64c06c06e3d',1,'Twi::Reserved2'],['../struct_spi.html#ac57ee7f68f110b032c39c03b5985fc65',1,'Spi::Reserved2'],['../struct_adc.html#a5ad4e5cb94b3bcb7ac69de501779fefb',1,'Adc::Reserved2']]],
+  ['reserved3_8',['Reserved3',['../struct_pio.html#a8a2e3d4473d7a4c9771ad1a88caf3bcb',1,'Pio::Reserved3'],['../struct_usart.html#a6f475b41af2dbf9f34f5cb7b59b682d8',1,'Usart::Reserved3'],['../struct_pwm.html#a7aa5995dee070fada701e3a49ec34bad',1,'Pwm::Reserved3'],['../struct_spi.html#ab29cda466682552fcc8456728300e500',1,'Spi::Reserved3'],['../struct_adc.html#a85a284c95338db8e5162c31791d150b1',1,'Adc::Reserved3']]],
+  ['reserved4_9',['Reserved4',['../struct_pio.html#a6e937b1c28fa639af2f5423a3a1f077c',1,'Pio::Reserved4'],['../struct_usart.html#a9a97863a96d7dfee3e85aa6184a1cbb0',1,'Usart::Reserved4'],['../struct_pwm.html#a9e85c3b9fdce492140ab1f3389e0b506',1,'Pwm::Reserved4'],['../struct_adc.html#aca2c355c74cf83366994b1efcc7748fa',1,'Adc::Reserved4']]],
+  ['reserved5_10',['Reserved5',['../struct_pio.html#af327203163a6fc78b195cc4568d7fe61',1,'Pio::Reserved5'],['../struct_pwm.html#abb58b6e682fe68c9e9895ef71aca400d',1,'Pwm::Reserved5'],['../struct_adc.html#a40e486219a8a895c98f5de3ccfa3aa3f',1,'Adc::Reserved5']]],
+  ['reserved6_11',['Reserved6',['../struct_pio.html#ab07e92e8369624353daf9e9f70d00e57',1,'Pio::Reserved6'],['../struct_pwm.html#ad4ac0e74ef81a12250fb4a5398cfdf2a',1,'Pwm::Reserved6'],['../struct_adc.html#a70fb5e7b04edbd13cc1e2bd9dec21e80',1,'Adc::Reserved6']]],
+  ['reserved7_12',['Reserved7',['../struct_pio.html#ab9ee8106bb0f1c57596d80e303f25b0e',1,'Pio::Reserved7'],['../struct_pwm.html#a3d3c73a4945dcdbdfc603dd8971526d7',1,'Pwm::Reserved7'],['../struct_adc.html#a8db17ab44ef24667a7272a2b24121dff',1,'Adc::Reserved7']]],
+  ['reserved8_13',['Reserved8',['../struct_pio.html#a021a9752ac657475ec9f8fde7ceff2c8',1,'Pio::Reserved8'],['../struct_pwm.html#a2264df97a791632a0a47e2215d6bd421',1,'Pwm::Reserved8']]],
+  ['reserved9_14',['Reserved9',['../struct_pio.html#acf026d38d328658da236e965d058e54c',1,'Pio']]]
+];

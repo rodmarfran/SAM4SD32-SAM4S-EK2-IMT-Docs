@@ -1,0 +1,16 @@
+<map id="pio_configure_pin_group" name="pio_configure_pin_group">
+<area shape="rect" id="Node000001" title="Perform complete pin(s) configuration; general attributes and PIO init if necessary." alt="" coords="5,48,167,75"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pio__group.html#gaa9aa20867544ff93c6527b799b3dfcec" title="Configure PIO internal pull&#45;up." alt="" coords="416,23,502,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,45,159,25,214,8,263,3,313,5,403,20,398,22,313,10,263,8,215,14,161,30,115,50"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__pio__group.html#ga2908ec92df470e6520c6f5c38211ca0b" title="Configure one or more pin(s) or a PIO controller as inputs." alt="" coords="229,23,327,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="166,48,216,44,211,46,168,53"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#gaf3727cdc71e8b6c88a4069a90b72a78d" title="Configure one or more pin(s) of a PIO controller as outputs, with the given default value." alt="" coords="225,74,331,100"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="167,70,212,77,207,79,167,75"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__pio__group.html#ga245df3215515d49f990bc80cec318de6" title="Configure IO of a PIO controller as being controlled by a specific peripheral." alt="" coords="215,124,341,151"/>
+<area shape="poly" id="edge8_Node000001_Node000006" title=" " alt="" coords="123,73,230,117,226,120,121,78"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="327,34,403,36,398,37,328,39"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="389,74,529,100"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="328,47,397,69,391,69,327,53"/>
+<area shape="poly" id="edge7_Node000005_Node000002" title=" " alt="" coords="328,70,398,53,403,52,329,76"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="331,84,376,87,371,87,332,90"/>
+</map>

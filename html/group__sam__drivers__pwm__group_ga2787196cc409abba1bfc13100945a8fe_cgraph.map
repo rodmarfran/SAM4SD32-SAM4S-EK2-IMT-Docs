@@ -1,0 +1,5 @@
+<map id="pwm_init" name="pwm_init">
+<area shape="rect" id="Node000001" title="Initialize the PWM source clock (clock A and clock B)." alt="" coords="5,5,79,32"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pwm__group.html#gae74badb72e2b846048bd21f3b3fd0df3" title="Find a prescaler/divisor couple to generate the desired ul_frequency from ul_mck." alt="" coords="127,5,278,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="79,16,113,18,108,19,79,21"/>
+</map>

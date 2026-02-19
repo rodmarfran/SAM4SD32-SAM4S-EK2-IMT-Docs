@@ -1,0 +1,26 @@
+var annotated_dup =
+[
+    [ "_DeviceVectors", "struct___device_vectors.html", "struct___device_vectors" ],
+    [ "Adc", "struct_adc.html", "struct_adc" ],
+    [ "Pio", "struct_pio.html", "struct_pio" ],
+    [ "Pwm", "struct_pwm.html", "struct_pwm" ],
+    [ "pwm_channel_t", "structpwm__channel__t.html", "structpwm__channel__t" ],
+    [ "pwm_clock_t", "structpwm__clock__t.html", "structpwm__clock__t" ],
+    [ "pwm_cmp_t", "structpwm__cmp__t.html", "structpwm__cmp__t" ],
+    [ "pwm_fault_t", "structpwm__fault__t.html", "structpwm__fault__t" ],
+    [ "pwm_output_t", "structpwm__output__t.html", "structpwm__output__t" ],
+    [ "pwm_protect_t", "structpwm__protect__t.html", "structpwm__protect__t" ],
+    [ "PwmCh_num", "struct_pwm_ch__num.html", "struct_pwm_ch__num" ],
+    [ "PwmCmp", "struct_pwm_cmp.html", "struct_pwm_cmp" ],
+    [ "s_interrupt_source", "structs__interrupt__source.html", "structs__interrupt__source" ],
+    [ "sam_usart_opt_t", "structsam__usart__opt__t.html", "structsam__usart__opt__t" ],
+    [ "Spi", "struct_spi.html", "struct_spi" ],
+    [ "Tc", "struct_tc.html", "struct_tc" ],
+    [ "TcChannel", "struct_tc_channel.html", "struct_tc_channel" ],
+    [ "Twi", "struct_twi.html", "struct_twi" ],
+    [ "twi_options", "structtwi__options.html", "structtwi__options" ],
+    [ "twi_packet", "structtwi__packet.html", "structtwi__packet" ],
+    [ "Usart", "struct_usart.html", "struct_usart" ],
+    [ "usart_iso7816_opt_t", "structusart__iso7816__opt__t.html", "structusart__iso7816__opt__t" ],
+    [ "usart_spi_opt_t", "structusart__spi__opt__t.html", "structusart__spi__opt__t" ]
+];

@@ -1,0 +1,17 @@
+<map id="usart_init_spi_master" name="usart_init_spi_master">
+<area shape="rect" id="Node000001" title="Configure USART to work in SPI mode and act as a master." alt="" coords="5,136,151,163"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__usart__group.html#ga6cb84f0297ddca62d4077f616efa5c5b" title="Reset the USART and disable TX and RX." alt="" coords="229,107,315,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,136,216,128,211,130,152,141"/>
+<area shape="rect" id="Node000008" href="$group__sam__drivers__usart__group.html#gaae31ff0122d054b1a03f9adfba47995e" title="Calculate a clock divider (CD) for the USART SPI master mode to generate a baud rate as close as poss..." alt="" coords="199,157,345,200"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="151,158,186,165,181,166,151,163"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__usart__group.html#gabdf1b8bf1b4da95d3a314c4916799e88" title="Disable write protect of USART registers." alt="" coords="393,5,566,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="290,104,335,73,392,42,411,36,406,39,394,46,338,78,293,108"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__usart__group.html#ga930438dce6fbe82394c706b775cf2f0a" title="Drive the pin RTS to 1." alt="" coords="393,56,566,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="314,107,410,86,405,88,316,112"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__usart__group.html#ga86ad3a57b19fb497ef2271d6dc87c359" title="Immediately stop and disable USART receiver." alt="" coords="428,107,532,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="315,117,414,119,409,121,315,123"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__usart__group.html#ga4e19efeb524c1fba4b962e72283dcc11" title="Reset status bits (PARE, OVER, MANERR, UNRE and PXBRK in US_CSR)." alt="" coords="415,157,544,184"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="315,128,410,153,405,154,315,133"/>
+<area shape="rect" id="Node000007" href="$group__sam__drivers__usart__group.html#ga123b84a0d5be1cbf1a3c5bac4af3d27d" title="Immediately stop and disable USART transmitter." alt="" coords="428,208,532,235"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="316,129,346,143,362,156,371,169,380,182,394,194,415,206,410,205,392,198,376,185,367,172,358,160,344,148,315,134"/>
+</map>

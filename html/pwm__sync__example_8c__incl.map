@@ -1,0 +1,7 @@
+<map id="pwm_sync_example.c" name="pwm_sync_example.c">
+<area shape="rect" id="Node000001" title="PWM SYNC example for SAM." alt="" coords="5,5,157,32"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="8,80,58,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,31,52,69,47,65,70,34"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="82,80,178,107"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="91,30,116,67,111,67,88,35"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="USART_Handler" name="USART_Handler">
+<area shape="rect" id="Node000001" title="Interrupt handler for USART." alt="" coords="5,81,124,108"/>
+<area shape="rect" id="Node000002" href="$group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6" title="Start the TC clock on the specified channel." alt="" coords="215,5,280,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,79,171,42,202,32,198,35,173,46,94,83"/>
+<area shape="rect" id="Node000003" href="$group__asfdoc__sam__drivers__tc__group.html#gabb753a35af83df7320cb0b539e7fad52" title="Stop the TC clock on the specified channel." alt="" coords="216,56,280,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="123,84,202,74,198,77,125,89"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__usart__group.html#gaa3a3c3eb673f70359570302dcf1a5b6a" title="Disable USART interrupts." alt="" coords="172,107,324,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="124,100,159,107,154,108,124,105"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__usart__group.html#gadedd154647a6401b9feab44a0620fea1" title="Get current status." alt="" coords="189,157,307,184"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="93,106,173,143,190,152,185,151,171,148,92,111"/>
+</map>

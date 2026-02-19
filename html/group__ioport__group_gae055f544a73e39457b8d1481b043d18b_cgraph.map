@@ -1,0 +1,5 @@
+<map id="ioport_pin_to_mask" name="ioport_pin_to_mask">
+<area shape="rect" id="Node000001" title="Convert a pin ID into a bitmask mask for the given pin on its port." alt="" coords="5,5,140,32"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a69fd7bdfb41664b749080e509798165e" title=" " alt="" coords="188,5,354,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="140,16,175,18,169,19,140,21"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="adc_threshold_wakeup_example.c" name="adc_threshold_wakeup_example.c">
+<area shape="rect" id="Node000001" title="ADC threshold wakeup example for SAM." alt="" coords="52,5,206,48"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,96,56,123"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,48,59,88,56,84,101,49"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="80,96,178,123"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,47,132,81,127,79,127,51"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="202,96,299,123"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="161,46,221,87,216,87,160,51"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="pio_configure_pin" name="pio_configure_pin">
+<area shape="rect" id="Node000001" title="Perform complete pin(s) configuration; general attributes and PIO init if necessary." alt="" coords="5,107,128,133"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pio__group.html#gaf37309a52c59d5e2116d649f6fdd98c9" title="Return GPIO port for a GPIO pin." alt="" coords="176,5,302,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,104,174,48,198,38,194,41,177,53,90,108"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__pio__group.html#gaa9aa20867544ff93c6527b799b3dfcec" title="Configure PIO internal pull&#45;up." alt="" coords="377,107,463,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="115,104,175,92,239,87,302,92,364,105,359,106,302,97,239,93,176,97,117,109"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__pio__group.html#ga2908ec92df470e6520c6f5c38211ca0b" title="Configure one or more pin(s) or a PIO controller as inputs." alt="" coords="190,157,288,184"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="115,131,179,151,174,154,115,137"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__pio__group.html#gaf3727cdc71e8b6c88a4069a90b72a78d" title="Configure one or more pin(s) of a PIO controller as outputs, with the given default value." alt="" coords="186,107,292,133"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="127,117,172,119,168,121,129,123"/>
+<area shape="rect" id="Node000007" href="$group__sam__drivers__pio__group.html#ga245df3215515d49f990bc80cec318de6" title="Configure IO of a PIO controller as being controlled by a specific peripheral." alt="" coords="176,208,302,235"/>
+<area shape="poly" id="edge9_Node000001_Node000007" title=" " alt="" coords="85,131,127,162,177,194,189,202,183,201,174,198,124,166,84,137"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="288,154,359,137,365,135,289,160"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="350,157,490,184"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="288,168,337,170,332,171,289,173"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="292,117,364,119,359,121,293,123"/>
+<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="290,131,358,152,353,153,289,137"/>
+</map>

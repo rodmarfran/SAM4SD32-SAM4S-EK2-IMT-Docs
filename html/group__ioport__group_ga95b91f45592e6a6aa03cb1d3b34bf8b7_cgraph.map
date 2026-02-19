@@ -1,0 +1,13 @@
+<map id="ioport_set_pin_sense_mode" name="ioport_set_pin_sense_mode">
+<area shape="rect" id="Node000001" title="Set the pin sense mode of a single IOPORT pin." alt="" coords="5,64,189,91"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a200de47e9838f5342e52a1034ef30013" title=" " alt="" coords="237,56,371,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,75,224,77,219,78,190,80"/>
+<area shape="rect" id="Node000003" href="$ioport__pio_8h.html#a69fd7bdfb41664b749080e509798165e" title=" " alt="" coords="419,5,585,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="371,55,437,38,442,36,372,60"/>
+<area shape="rect" id="Node000004" href="$ioport__pio_8h.html#a17ab9c7be3b9b2674e7668b6a083d191" title=" " alt="" coords="438,56,566,99"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="371,75,425,77,420,78,372,80"/>
+<area shape="rect" id="Node000005" href="$ioport__pio_8h.html#a10d5e38f1bdf4c3c9e0896557510d5db" title=" " alt="" coords="432,123,572,165"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="370,97,425,117,419,117,369,102"/>
+<area shape="rect" id="Node000006" href="$ioport__pio_8h.html#ac2b01a65bf5686910b77f6b606497df2" title=" " alt="" coords="633,131,801,157"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="572,141,620,144,615,144,572,147"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="ioport_set_port_dir" name="ioport_set_port_dir">
+<area shape="rect" id="Node000001" title="Set I/O direction for a group of pins in a single IOPORT." alt="" coords="5,5,134,32"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a873196c80651c941e4d866e89905bc4c" title=" " alt="" coords="182,5,342,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,16,169,18,163,19,134,21"/>
+<area shape="rect" id="Node000003" href="$ioport__pio_8h.html#ac2b01a65bf5686910b77f6b606497df2" title=" " alt="" coords="390,5,557,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="342,16,377,19,372,19,342,21"/>
+</map>

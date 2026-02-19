@@ -1,0 +1,5 @@
+<map id="pio_handler_set" name="pio_handler_set">
+<area shape="rect" id="Node000001" title="Set an interrupt handler for the provided pins." alt="" coords="5,5,118,32"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__pio__group.html#ga1cac5b69c0b755160f4e20c900e57ff2" title="Configure the given interrupt source." alt="" coords="166,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,16,152,18,147,19,118,21"/>
+</map>

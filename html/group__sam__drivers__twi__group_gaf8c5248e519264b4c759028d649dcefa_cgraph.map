@@ -1,0 +1,7 @@
+<map id="twi_slave_init" name="twi_slave_init">
+<area shape="rect" id="Node000001" title="Initialize TWI slave mode." alt="" coords="5,31,106,57"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__twi__group.html#gac66b86c9e8fd93dace3ac1d849e2b674" title="Enable TWI slave mode." alt="" coords="154,5,314,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,34,141,31,136,33,107,39"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__twi__group.html#gad6bd8052743f919ba9251e63c23928fd" title="Reset TWI." alt="" coords="197,56,271,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,48,184,61,179,63,106,54"/>
+</map>

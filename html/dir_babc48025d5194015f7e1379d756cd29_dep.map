@@ -1,0 +1,10 @@
+<map id="usart" name="usart">
+<area shape="rect" id="node2" href="dir_b67c6090703279c6fc339afd6dc19301.html" title="usart_hard_handshaking\l_example" alt="" coords="112,64,274,107"/>
+<area shape="rect" id="node3" href="dir_1c0e5953e1572637c242f46d57c0849e.html" title="usart_irda_example" alt="" coords="298,72,432,99"/>
+<area shape="rect" id="node4" href="dir_f8a90ee1904a41f81770b3f20ae5ac12.html" title="usart_iso7816_example" alt="" coords="457,72,615,99"/>
+<area shape="rect" id="node5" href="dir_526b1e26a25d00b0cc16085125f6652b.html" title="usart_rs485_example" alt="" coords="639,72,785,99"/>
+<area shape="rect" id="node6" href="dir_a0e3c654de8c8e00d5fcf65ba963bdfe.html" title="usart_serial_example" alt="" coords="809,72,954,99"/>
+<area shape="rect" id="node7" href="dir_98ec8a14e215e1147efd9505efa43535.html" title="usart_synchronous_example" alt="" coords="977,72,1164,99"/>
+<area shape="rect" id="clust2" href="dir_babc48025d5194015f7e1379d756cd29.html" alt="" coords="27,53,1175,117"/>
+<area shape="rect" id="clust1" href="dir_23452eaafd74a0dfcbccff24142d67ec.html" title="drivers" alt="" coords="16,16,1185,128"/>
+</map>

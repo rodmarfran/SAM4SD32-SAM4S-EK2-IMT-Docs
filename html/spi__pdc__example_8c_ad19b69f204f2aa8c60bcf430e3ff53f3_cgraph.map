@@ -1,0 +1,5 @@
+<map id="spi_slave_transfer" name="spi_slave_transfer">
+<area shape="rect" id="Node000001" title="Set SPI slave transfer." alt="" coords="5,5,133,32"/>
+<area shape="rect" id="Node000002" href="$spi_8h.html#a2e33522180188c9c2b7a4d1ae8887e7a" title="Enable SPI interrupts." alt="" coords="181,5,318,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,16,168,18,163,19,133,21"/>
+</map>

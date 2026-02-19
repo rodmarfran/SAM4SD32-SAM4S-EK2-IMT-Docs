@@ -1,0 +1,7 @@
+<map id="Pwm" name="Pwm">
+<area shape="rect" id="Node000001" title=" " alt="" coords="97,296,205,579"/>
+<area shape="rect" id="Node000002" href="$struct_pwm_cmp.html" title="PwmCmp hardware registers." alt="" coords="5,48,139,181"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,179,115,280,110,280,88,184"/>
+<area shape="rect" id="Node000003" href="$struct_pwm_ch__num.html" title="PwmCh_num hardware registers." alt="" coords="164,5,296,224"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,221,203,273,201,281,196,278,198,271,210,226"/>
+</map>

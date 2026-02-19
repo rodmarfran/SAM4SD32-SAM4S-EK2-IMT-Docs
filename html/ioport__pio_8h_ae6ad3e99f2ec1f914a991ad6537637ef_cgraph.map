@@ -1,0 +1,7 @@
+<map id="arch_ioport_pin_to_base" name="arch_ioport_pin_to_base">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,43,168,69"/>
+<area shape="rect" id="Node000002" href="$ioport__pio_8h.html#a17ab9c7be3b9b2674e7668b6a083d191" title=" " alt="" coords="236,5,363,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="167,42,223,37,218,38,168,47"/>
+<area shape="rect" id="Node000003" href="$ioport__pio_8h.html#ac2b01a65bf5686910b77f6b606497df2" title=" " alt="" coords="216,72,383,99"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,65,203,71,197,72,168,70"/>
+</map>

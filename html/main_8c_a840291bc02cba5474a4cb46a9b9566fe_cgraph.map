@@ -1,0 +1,41 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Application entry point." alt="" coords="5,259,55,285"/>
+<area shape="rect" id="Node000002" href="$main_8c.html#aa46fd73d51f7a584cab44ea2c727196e" title="Configure the push buttons." alt="" coords="110,183,234,209"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="46,256,101,219,116,214,112,218,104,224,50,260"/>
+<area shape="rect" id="Node000011" href="$main_8c.html#a33c8c1bb4e41b6192b554fdf9e70b3b9" title="Configure the Console UART." alt="" coords="109,233,236,260"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="54,265,96,259,92,263,56,270"/>
+<area shape="rect" id="Node000012" href="$main_8c.html#a8bf026298fff6cce496cdff05ae5b0c7" title="Display menu." alt="" coords="122,284,223,311"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="54,274,108,284,104,287,56,279"/>
+<area shape="rect" id="Node000013" href="$main_8c.html#a3c6f0d404f3c6df7f171927d4018fe02" title="Configure LED pins." alt="" coords="132,335,212,361"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="48,283,104,320,120,329,115,330,101,325,48,288"/>
+<area shape="rect" id="Node000014" href="$pio__handler_8c.html#a1003f564a420214ecdff7fc20b482fe2" title="Initialize PIO interrupt management logic." alt="" coords="290,56,448,83"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="35,257,60,214,79,190,101,169,144,140,192,116,287,85,283,89,194,121,147,144,104,173,83,194,65,217,40,259"/>
+<area shape="rect" id="Node000017" href="$main_8c.html#a14f71c6785e41dbc26a9a11810383215" title="Set interrupt priority of INT1 and INT2." alt="" coords="103,385,242,412"/>
+<area shape="poly" id="edge22_Node000001_Node000017" title=" " alt="" coords="38,283,65,327,83,351,104,371,112,378,106,377,101,375,79,354,60,330,37,288"/>
+<area shape="rect" id="Node000003" href="$main_8c.html#a2890b0745b8d517e5b7c8ff7ce362b79" title="Handler for INT1, rising edge interrupt." alt="" coords="325,107,413,133"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="202,180,289,143,312,137,308,140,291,148,205,184"/>
+<area shape="rect" id="Node000006" href="$group__sam__drivers__pio__group.html#ga3bc542609d9f1c7a439a264df86925f2" title="Enable the given interrupt source." alt="" coords="508,157,645,184"/>
+<area shape="poly" id="edge10_Node000002_Node000006" title=" " alt="" coords="213,207,243,219,267,233,291,244,335,255,371,261,405,258,447,244,462,234,471,221,480,207,495,194,503,192,508,189,498,198,484,211,475,224,466,238,450,249,406,263,370,266,334,260,289,249,264,238,241,224,214,213"/>
+<area shape="rect" id="Node000007" href="$main_8c.html#a1554081c7bac5c1ee808b91916c435f8" title="Handler for INT2, rising edge interrupt." alt="" coords="325,157,413,184"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="234,185,312,177,307,180,236,190"/>
+<area shape="rect" id="Node000008" href="$pio__handler_8c.html#a050525f7f1bba67325b6146a1dd9a68a" title="Set an interrupt handler for the provided pins." alt="" coords="313,309,425,336"/>
+<area shape="poly" id="edge11_Node000002_Node000008" title=" " alt="" coords="223,207,244,219,260,237,269,255,277,272,292,289,311,303,306,302,288,293,272,275,264,257,256,240,240,223,223,213"/>
+<area shape="rect" id="Node000010" href="$group__sam__drivers__pio__group.html#ga4e9aede414e90e5a0dc9a4b75c9e063e" title="Configure Glitch or Debouncing filter for the specified input(s)." alt="" coords="290,208,448,235"/>
+<area shape="poly" id="edge13_Node000002_Node000010" title=" " alt="" coords="235,201,277,208,272,210,236,207"/>
+<area shape="rect" id="Node000004" href="$main_8c.html#aca32d4e8ae4a2ae8bc3c8778a58b2bb5" title="Delay number of tick Systicks (happens roughly every 1 ms)." alt="" coords="533,208,620,235"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="414,127,450,143,465,156,474,169,483,182,498,194,521,207,516,207,495,198,479,185,470,172,461,160,447,148,414,133"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__pio__group.html#ga1cbfd57e295dd0582d1dc6dc5e79de40" title="Disable a given interrupt source, with no added side effects." alt="" coords="506,107,647,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="413,117,493,119,488,121,415,123"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="414,128,507,152,502,154,414,133"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="414,179,520,206,515,208,414,184"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="413,157,507,136,502,139,415,162"/>
+<area shape="poly" id="edge9_Node000007_Node000006" title=" " alt="" coords="413,168,495,170,490,171,414,173"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__pio__group.html#ga1cac5b69c0b755160f4e20c900e57ff2" title="Configure the given interrupt source." alt="" coords="500,309,653,336"/>
+<area shape="poly" id="edge12_Node000008_Node000009" title=" " alt="" coords="426,320,487,322,482,323,426,325"/>
+<area shape="poly" id="edge18_Node000014_Node000005" title=" " alt="" coords="427,81,507,102,501,103,427,86"/>
+<area shape="poly" id="edge19_Node000014_Node000006" title=" " alt="" coords="425,81,450,92,465,105,474,118,483,131,498,143,508,151,503,151,495,148,479,135,470,122,461,109,447,97,425,86"/>
+<area shape="rect" id="Node000015" href="$group__sam__drivers__pio__group.html#ga927511a509ee6ec619cc88eea5466c1d" title="Read PIO interrupt mask." alt="" coords="498,5,655,32"/>
+<area shape="poly" id="edge20_Node000014_Node000015" title=" " alt="" coords="426,53,506,35,502,38,428,58"/>
+<area shape="rect" id="Node000016" href="$group__sam__drivers__pio__group.html#ga3f15513050ecf143c9e92f1daef155ed" title="Read and clear PIO interrupt status." alt="" coords="496,56,657,83"/>
+<area shape="poly" id="edge21_Node000014_Node000016" title=" " alt="" coords="448,67,483,68,478,70,449,72"/>
+</map>

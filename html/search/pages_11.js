@@ -1,0 +1,28 @@
+var searchData=
+[
+  ['sam_20adc_20driver_0',['Quickstart guide for SAM ADC driver',['../sam_adc_quickstart.html',1,'index']]],
+  ['sam_20pio_20driver_1',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
+  ['sam_20pwm_20module_2',['Quickstart guide for SAM PWM module',['../sam_pwm_quickstart.html',1,'index']]],
+  ['sam_20spi_20driver_3',['Quickstart guide for SAM SPI driver',['../sam_spi_quickstart.html',1,'index']]],
+  ['sam_20usart_20module_4',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
+  ['sam4sd32_20driver_20documentation_5',['SAM4SD32 Driver Documentation',['../index.html',1,'']]],
+  ['serial_20interfaces_6',['Serial Interfaces',['../index.html#mainpage_serial',1,'']]],
+  ['serial_20peripheral_20interface_7',['SPI (Serial Peripheral Interface)',['../index.html#mainpage_serial_spi',1,'']]],
+  ['service_8',['IOPORT (Input/Output Port Service)',['../index.html#mainpage_gpio_ioport',1,'']]],
+  ['service_9',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
+  ['service_20twi_10',['Quickstart guide for Common service TWI',['../twi_quickstart.html',1,'index']]],
+  ['setup_20code_11',['Setup Code',['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_capture_setup_code',1,'Setup Code'],['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_waveform_setup_code',1,'Setup Code']]],
+  ['setup_20steps_12',['Setup Steps',['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_capture_setup',1,'Setup Steps'],['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_waveform_setup',1,'Setup Steps']]],
+  ['setup_20steps_13',['Setup steps',['../ioport_quickstart.html#ioport_quickstart_basic_setup',1,'Setup steps'],['../ioport_quickstart_use_case_1.html#ioport_quickstart_use_case_1_setup',1,'Setup steps'],['../sam_usart_quickstart.html#usart_basic_use_case_setup',1,'Setup steps'],['../usart_use_case_1.html#usart_use_case_1_setup',1,'Setup steps'],['../usart_use_case_2.html#usart_use_case_2_setup',1,'Setup steps'],['../sam_pwm_quickstart.html#pwm_basic_use_case_setup',1,'Setup steps'],['../pwm_use_case_1.html#pwm_use_case_1_setup',1,'Setup steps'],['../twi_quickstart.html#twi_basic_use_case_setup',1,'Setup steps'],['../sam_spi_quickstart.html#spi_basic_use_case_setup',1,'Setup steps'],['../sam_adc_quickstart.html#adc_basic_use_case_setup',1,'Setup steps'],['../adc_use_case_1.html#adc_use_case_1_setup',1,'Setup steps']]],
+  ['slave_20device_14',['slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'Example code : Reading from a slave device'],['../twi_quickstart.html#twi_basic_use_case_usage_code_writing',1,'Example code : Writing to a slave device']]],
+  ['special_20considerations_15',['Special Considerations',['../group__asfdoc__sam__drivers__tc__group.html#asfdoc_sam_drivers_tc_special_considerations',1,'']]],
+  ['spi_20driver_16',['Quickstart guide for SAM SPI driver',['../sam_spi_quickstart.html',1,'index']]],
+  ['spi_20serial_20peripheral_20interface_17',['SPI (Serial Peripheral Interface)',['../index.html#mainpage_serial_spi',1,'']]],
+  ['start_20guide_20for_20the_20common_20ioport_20service_18',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
+  ['start_20guide_20for_20the_20sam_20pio_20driver_19',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
+  ['start_20guide_20for_20the_20sam_20usart_20module_20',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
+  ['start_20guide_20for_20the_20tc_20driver_21',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
+  ['steps_22',['Steps',['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_capture_setup',1,'Setup Steps'],['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_waveform_setup',1,'Setup Steps']]],
+  ['steps_23',['steps',['../ioport_quickstart.html#ioport_quickstart_basic_setup',1,'Setup steps'],['../ioport_quickstart_use_case_1.html#ioport_quickstart_use_case_1_setup',1,'Setup steps'],['../sam_usart_quickstart.html#usart_basic_use_case_setup',1,'Setup steps'],['../usart_use_case_1.html#usart_use_case_1_setup',1,'Setup steps'],['../usart_use_case_2.html#usart_use_case_2_setup',1,'Setup steps'],['../sam_pwm_quickstart.html#pwm_basic_use_case_setup',1,'Setup steps'],['../pwm_use_case_1.html#pwm_use_case_1_setup',1,'Setup steps'],['../twi_quickstart.html#twi_basic_use_case_setup',1,'Setup steps'],['../sam_spi_quickstart.html#spi_basic_use_case_setup',1,'Setup steps'],['../sam_adc_quickstart.html#adc_basic_use_case_setup',1,'Setup steps'],['../adc_use_case_1.html#adc_use_case_1_setup',1,'Setup steps'],['../ioport_quickstart.html#ioport_quickstart_use_case_1_usage',1,'Usage steps'],['../ioport_quickstart_use_case_1.html#ioport_quickstart_use_case_2_usage',1,'Usage steps'],['../sam_usart_quickstart.html#usart_basic_use_case_usage',1,'Usage steps'],['../usart_use_case_1.html#usart_use_case_1_usage',1,'Usage steps'],['../usart_use_case_2.html#usart_use_case_2_usage',1,'Usage steps'],['../sam_pwm_quickstart.html#pwm_basic_use_case_usage',1,'Usage steps'],['../pwm_use_case_1.html#pwm_use_case_1_usage',1,'Usage steps'],['../twi_quickstart.html#twi_basic_use_case_usage',1,'Usage steps'],['../sam_adc_quickstart.html#adc_basic_use_case_usage',1,'Usage steps'],['../adc_use_case_1.html#adc_use_case_1_usage',1,'Usage steps']]],
+  ['synchronous_20asynchronous_20receiver_20transmitter_24',['USART (Universal Synchronous/Asynchronous Receiver/Transmitter)',['../index.html#mainpage_serial_usart',1,'']]]
+];

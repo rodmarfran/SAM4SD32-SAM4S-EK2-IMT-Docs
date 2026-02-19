@@ -1,0 +1,9 @@
+<map id="configure_time_trigger" name="configure_time_trigger">
+<area shape="rect" id="Node000001" title="Configure to trigger ADC by TIOA output of timer." alt="" coords="5,56,155,83"/>
+<area shape="rect" id="Node000002" href="$group__asfdoc__sam__drivers__tc__group.html#ga542df5f3ba9cc183eb83176f807f8f78" title="Find the best PBA/MCK divisor." alt="" coords="203,5,340,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,53,206,35,201,38,134,58"/>
+<area shape="rect" id="Node000003" href="$group__asfdoc__sam__drivers__tc__group.html#ga40dd73d1c81c722d905dc662c9199152" title="Configure TC for timer, waveform generation, or capture." alt="" coords="243,56,300,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="155,67,230,68,225,70,155,72"/>
+<area shape="rect" id="Node000004" href="$group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6" title="Start the TC clock on the specified channel." alt="" coords="239,107,304,133"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="134,81,226,106,221,109,133,86"/>
+</map>

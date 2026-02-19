@@ -1,0 +1,51 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="usart_hard_handshaking_example application entry point." alt="" coords="5,284,55,311"/>
+<area shape="rect" id="Node000002" href="$usart__hard__handshaking__example_8c.html#a33c8c1bb4e41b6192b554fdf9e70b3b9" title="Configure UART for debug message output." alt="" coords="114,81,240,108"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="30,283,36,250,49,206,69,159,84,137,101,118,108,114,105,119,105,122,88,141,74,162,54,208,42,251,36,284"/>
+<area shape="rect" id="Node000003" href="$usart__hard__handshaking__example_8c.html#a41ba5174913d6cc893f0cafd63cc01da" title="Configure Timer Counter 0 to generate an interrupt every second." alt="" coords="131,132,224,159"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="42,282,101,219,153,168,151,172,105,223,46,285"/>
+<area shape="rect" id="Node000008" href="$usart__hard__handshaking__example_8c.html#a4c842f294258e2a2280355e16fd82898" title="Configure board USART communication with PC or other terminal." alt="" coords="122,233,232,260"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="53,287,102,269,123,264,119,267,104,275,57,291"/>
+<area shape="rect" id="Node000021" href="$group__asfdoc__sam__drivers__tc__group.html#ga749ef6f850a1f777f3e090aefa982ad6" title="Start the TC clock on the specified channel." alt="" coords="145,284,210,311"/>
+<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="54,295,131,295,128,299,56,300"/>
+<area shape="rect" id="Node000022" href="$group__sam__drivers__usart__group.html#ga33c4b214e790bf6b04c8867dd66c3336" title="Enable USART interrupts." alt="" coords="103,335,252,361"/>
+<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="55,303,104,320,124,328,119,330,102,325,56,308"/>
+<area shape="rect" id="Node000023" href="$group__sam__drivers__usart__group.html#ga1736e6324dbd1b304a081259e524bede" title="Get USART PDC base address." alt="" coords="108,385,246,412"/>
+<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="41,308,69,340,104,371,114,378,109,379,101,376,65,344,41,314"/>
+<area shape="rect" id="Node000024" href="$group__sam__drivers__usart__group.html#gafdee4a457c8cefe46e45ec63902a86c7" title="Write one&#45;line string through USART." alt="" coords="121,436,234,463"/>
+<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="36,309,61,365,80,395,104,422,111,428,105,428,101,426,76,399,56,367,35,314"/>
+<area shape="rect" id="Node000004" href="$group__asfdoc__sam__drivers__tc__group.html#ga0aac357f460633e1c5498ae0ca86e000" title="Enable the TC interrupts on the specified channel." alt="" coords="324,5,455,32"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,133,250,118,266,100,273,81,281,61,298,42,311,36,307,40,302,46,286,64,278,83,271,102,254,122,226,137"/>
+<area shape="rect" id="Node000005" href="$group__asfdoc__sam__drivers__tc__group.html#ga542df5f3ba9cc183eb83176f807f8f78" title="Find the best PBA/MCK divisor." alt="" coords="320,56,458,83"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="221,129,251,118,299,92,320,86,316,90,301,97,253,122,224,134"/>
+<area shape="rect" id="Node000006" href="$group__asfdoc__sam__drivers__tc__group.html#ga40dd73d1c81c722d905dc662c9199152" title="Configure TC for timer, waveform generation, or capture." alt="" coords="361,107,417,133"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="223,137,347,123,343,127,225,142"/>
+<area shape="rect" id="Node000007" href="$group__asfdoc__sam__drivers__tc__group.html#ga5182dde403f240a8f83e86fb6eb46ad9" title="Write to TC Register C (RC) on the selected channel." alt="" coords="346,157,432,184"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="223,148,334,162,329,165,225,153"/>
+<area shape="rect" id="Node000009" href="$group__sam__drivers__usart__group.html#gaa3a3c3eb673f70359570302dcf1a5b6a" title="Disable USART interrupts." alt="" coords="313,208,465,235"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="232,238,300,231,295,234,234,243"/>
+<area shape="rect" id="Node000010" href="$group__sam__drivers__usart__group.html#ga7fd617322d666621fee15501ae0de7c7" title="Enable USART receiver." alt="" coords="332,259,446,285"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="233,251,319,262,314,265,234,256"/>
+<area shape="rect" id="Node000011" href="$group__sam__drivers__usart__group.html#ga1c3a4036f8b9b21f833a641b07b84f6c" title="Enable USART transmitter." alt="" coords="332,309,446,336"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="222,258,253,270,301,295,321,304,316,304,299,300,251,274,223,263"/>
+<area shape="rect" id="Node000012" href="$group__sam__drivers__usart__group.html#ga8ea87f1c2b00747e7a5de5b36aa0cc71" title="Configure USART to work in hardware handshaking mode." alt="" coords="300,360,478,387"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="233,258,254,270,271,290,278,309,286,328,302,346,309,353,304,352,298,350,281,331,273,311,266,292,250,274,233,263"/>
+<area shape="rect" id="Node000013" href="$group__sam__drivers__usart__group.html#gaeef2121bcab41f9850e58c59fdc34d10" title="Configure USART to work in RS232 mode." alt="" coords="526,360,640,387"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="479,371,513,373,508,374,479,376"/>
+<area shape="rect" id="Node000014" href="$group__sam__drivers__usart__group.html#ga6cb84f0297ddca62d4077f616efa5c5b" title="Reset the USART and disable TX and RX." alt="" coords="732,335,818,361"/>
+<area shape="poly" id="edge13_Node000013_Node000014" title=" " alt="" coords="640,363,719,355,714,356,640,369"/>
+<area shape="rect" id="Node000020" href="$group__sam__drivers__usart__group.html#gaafe097c01c082b270c1057722d524f5b" title="Calculate a clock divider(CD) and a fractional part (FP) for the USART asynchronous modes to generate..." alt="" coords="688,385,862,412"/>
+<area shape="poly" id="edge19_Node000013_Node000020" title=" " alt="" coords="640,378,675,385,670,385,640,383"/>
+<area shape="rect" id="Node000015" href="$group__sam__drivers__usart__group.html#gabdf1b8bf1b4da95d3a314c4916799e88" title="Disable write protect of USART registers." alt="" coords="910,233,1083,260"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="796,332,846,301,909,270,924,266,930,265,911,274,849,306,798,337"/>
+<area shape="rect" id="Node000016" href="$group__sam__drivers__usart__group.html#ga930438dce6fbe82394c706b775cf2f0a" title="Drive the pin RTS to 1." alt="" coords="910,284,1083,311"/>
+<area shape="poly" id="edge15_Node000014_Node000016" title=" " alt="" coords="818,336,918,315,923,314,819,341"/>
+<area shape="rect" id="Node000017" href="$group__sam__drivers__usart__group.html#ga86ad3a57b19fb497ef2271d6dc87c359" title="Immediately stop and disable USART receiver." alt="" coords="944,335,1049,361"/>
+<area shape="poly" id="edge16_Node000014_Node000017" title=" " alt="" coords="818,345,932,348,926,348,819,351"/>
+<area shape="rect" id="Node000018" href="$group__sam__drivers__usart__group.html#ga4e19efeb524c1fba4b962e72283dcc11" title="Reset status bits (PARE, OVER, MANERR, UNRE and PXBRK in US_CSR)." alt="" coords="932,385,1061,412"/>
+<area shape="poly" id="edge17_Node000014_Node000018" title=" " alt="" coords="819,355,923,381,918,381,818,360"/>
+<area shape="rect" id="Node000019" href="$group__sam__drivers__usart__group.html#ga123b84a0d5be1cbf1a3c5bac4af3d27d" title="Immediately stop and disable USART transmitter." alt="" coords="944,436,1049,463"/>
+<area shape="poly" id="edge18_Node000014_Node000019" title=" " alt="" coords="819,353,863,371,879,384,888,397,897,410,911,422,932,434,927,433,909,426,893,413,884,400,875,388,861,376,818,358"/>
+<area shape="rect" id="Node000025" href="$group__sam__drivers__usart__group.html#gace816375e1905a329cffd46e3ffd89b1" title="Write to USART Transmit Holding Register." alt="" coords="339,436,439,463"/>
+<area shape="poly" id="edge24_Node000024_Node000025" title=" " alt="" coords="234,447,326,449,321,449,234,452"/>
+</map>

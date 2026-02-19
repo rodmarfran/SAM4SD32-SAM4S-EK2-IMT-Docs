@@ -1,0 +1,7 @@
+<map id="main" name="main">
+<area shape="rect" id="Node000001" title="Initializes the DBGU and ISO7816 driver, and starts some tests." alt="" coords="5,31,55,57"/>
+<area shape="rect" id="Node000002" href="$usart__iso7816__example_8c.html#a33c8c1bb4e41b6192b554fdf9e70b3b9" title="Configure UART for debug message output." alt="" coords="105,5,231,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="54,37,92,31,87,35,56,42"/>
+<area shape="rect" id="Node000003" href="$usart__iso7816__example_8c.html#af9e47b2beec6f2c54277ddf9577736d5" title="Displays a menu which enables the user to send several commands to the smartcard and check its answer..." alt="" coords="103,56,233,83"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="55,46,90,53,85,56,55,51"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="set_adc_test_mode" name="set_adc_test_mode">
+<area shape="rect" id="Node000001" title="Set ADC test mode." alt="" coords="5,5,141,32"/>
+<area shape="rect" id="Node000002" href="$adc__example_8c.html#a8bf026298fff6cce496cdff05ae5b0c7" title="Display ADC configuration menu." alt="" coords="189,5,290,32"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="141,16,176,18,170,19,141,21"/>
+</map>

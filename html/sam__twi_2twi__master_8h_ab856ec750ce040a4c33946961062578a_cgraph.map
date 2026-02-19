@@ -1,0 +1,11 @@
+<map id="twi_master_setup" name="twi_master_setup">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,130,83"/>
+<area shape="rect" id="Node000002" href="$group__sam__drivers__twi__group.html#gadf2fdb0871643a893605967720ec289e" title="Initialize TWI master mode." alt="" coords="178,56,287,83"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,67,164,69,159,70,131,72"/>
+<area shape="rect" id="Node000003" href="$group__sam__drivers__twi__group.html#ga66bc8aca8f2441d4e483e16db6f9466e" title="Enable TWI master mode." alt="" coords="335,5,504,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="284,53,356,36,351,37,285,58"/>
+<area shape="rect" id="Node000004" href="$group__sam__drivers__twi__group.html#gad6bd8052743f919ba9251e63c23928fd" title="Reset TWI." alt="" coords="382,56,457,83"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="287,67,370,69,364,70,288,72"/>
+<area shape="rect" id="Node000005" href="$group__sam__drivers__twi__group.html#gac130ae17ee18a06af29161005b1c62a9" title="Set the I2C bus speed in conjunction with the clock frequency." alt="" coords="367,107,472,133"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="285,81,356,102,351,102,284,86"/>
+</map>
