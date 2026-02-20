@@ -35,6 +35,7 @@ var NAVTREE =
     ] ],
     [ "Examples for Timer Counter", "asfdoc_sam_drivers_tc_exqsg.html", "asfdoc_sam_drivers_tc_exqsg" ],
     [ "Document Revision History", "asfdoc_sam_drivers_tc_document_revision_history.html", null ],
+    [ "Deprecated List", "deprecated.html", null ],
     [ "Topics", "topics.html", "topics" ],
     [ "Data Structures", "annotated.html", [
       [ "Data Structures", "annotated.html", "annotated_dup" ],
@@ -73,16 +74,16 @@ var NAVTREEINDEX =
 "component__spi_8h.html#af43bb8fed9bb3efc150c1751be2fbcc6",
 "component__twi_8h.html#a44d90c37d610d9eccf7593c5ac5acad4",
 "component__usart_8h.html#a94c1b46fbf6fab653b7e78ed94800bd6",
-"group__asfdoc__sam__drivers__tc__group.html#ga5182dde403f240a8f83e86fb6eb46ad9",
-"group__sam__drivers__pio__group.html#gad5f0174fb8a14671f06f44042025936e",
-"instance__pioa_8h.html#a44b976917eda8f93bf4bf04c328c76a6",
-"instance__pwm_8h.html#af6c6154c7d24a2cdc16909e4209fa11f",
-"ioport__pio_8h.html#a873196c80651c941e4d866e89905bc4c",
-"pio__sam4sd32c_8h.html#a71f645f834917eda51a26b416201860f",
-"pwm_8h.html#afbb4e52e730bd99972888a2647d91f1fadfb14a65ceac6c65dc7cb690ef5d21cf",
-"sam__twi_2twi__master_8h.html#ab856ec750ce040a4c33946961062578a",
-"struct_pio.html#ab2e57e5c03c9d8daf8b58b4e649423f7",
-"structtwi__options.html"
+"group___s_a_m4_s_d32_c__definitions.html",
+"group__sam__drivers__pio__group.html#ga551a8c9ebf91943912f2ba06d1180aef",
+"instance__adc_8h.html#aed228f47a47183bd8477145a59fbb96f",
+"instance__pwm_8h.html#ac166e43cdab5e7e4e81c9e1b5524b577",
+"ioport_8h_source.html",
+"pio__sam4sd32c_8h.html#a612f62ae27113a0c98e336f433b8386b",
+"pwm_8h.html#abe481e8280c8e11051bd8d247f79e38aaf4237875898b9ec70bfffb0b9f173063",
+"sam4sd32c_8h.html#af68d6c12c7cc42263ca0716ab41e0b9c",
+"struct_pio.html#a7695904ac144e94f30f91e628a3c0988",
+"structpwm__fault__t.html#ae73d6e9c0a9bbe5a08d95b0e31e50da8"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

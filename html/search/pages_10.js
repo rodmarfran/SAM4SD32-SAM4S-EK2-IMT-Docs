@@ -5,5 +5,6 @@ var searchData=
   ['receive_20character_20and_20echo_20back_20via_20interrupts_2',['USART receive character and echo back via interrupts',['../usart_use_case_2.html',1,'sam_usart_quickstart']]],
   ['receiver_20transmitter_3',['USART (Universal Synchronous/Asynchronous Receiver/Transmitter)',['../index.html#mainpage_serial_usart',1,'']]],
   ['requirements_4',['Requirements',['../asfdoc_sam_drivers_tc_example.html#asfdoc_sam_drivers_tc_example_requirements',1,'']]],
-  ['revision_20history_5',['Document Revision History',['../asfdoc_sam_drivers_tc_document_revision_history.html',1,'']]]
+  ['revision_20history_5',['Document Revision History',['../asfdoc_sam_drivers_tc_document_revision_history.html',1,'']]],
+  ['routines_6',['Delay Routines',['../index.html#mainpage_delay',1,'']]]
 ];

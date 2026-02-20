@@ -19,5 +19,9 @@ var searchData=
   ['chip_5fjtagid_16',['CHIP_JTAGID',['../sam4sd32c_8h.html#aa614519778eec0df55d3eeab3223e3f6',1,'sam4sd32c.h']]],
   ['chipid_17',['CHIPID',['../sam4sd32c_8h.html#aad94298a355e512569f4c8e9bc7d094f',1,'sam4sd32c.h']]],
   ['cmcc_18',['CMCC',['../sam4sd32c_8h.html#af68d6c12c7cc42263ca0716ab41e0b9c',1,'sam4sd32c.h']]],
-  ['crccu_19',['CRCCU',['../sam4sd32c_8h.html#a53275ffefd75e5cb0c58df81861d727b',1,'sam4sd32c.h']]]
+  ['cpu_5fdelay_5fms_19',['cpu_delay_ms',['../cycle__counter_8h.html#a2b733c4de847b6d4e6d5ba466f21da52',1,'cycle_counter.h']]],
+  ['cpu_5fdelay_5fus_20',['cpu_delay_us',['../cycle__counter_8h.html#a1f5289578e4f08b99cfca749dcaca964',1,'cycle_counter.h']]],
+  ['cpu_5fms_5f2_5fcy_21',['cpu_ms_2_cy',['../cycle__counter_8h.html#a677458b76b894b9a1b9f323156c3a0ac',1,'cycle_counter.h']]],
+  ['cpu_5fus_5f2_5fcy_22',['cpu_us_2_cy',['../cycle__counter_8h.html#a5732b379c3ffd4b0446c495cbc719431',1,'cycle_counter.h']]],
+  ['crccu_23',['CRCCU',['../sam4sd32c_8h.html#a53275ffefd75e5cb0c58df81861d727b',1,'sam4sd32c.h']]]
 ];

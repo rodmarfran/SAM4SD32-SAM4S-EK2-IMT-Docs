@@ -23,5 +23,6 @@ var searchData=
   ['bit_5forder_20',['bit_order',['../structusart__iso7816__opt__t.html#a661af25e490185b850538c69f030f0b7',1,'usart_iso7816_opt_t']]],
   ['buffer_21',['buffer',['../structtwi__packet.html#a1ceb214ba71c3be74dcf602ce110994f',1,'twi_packet']]],
   ['busfault_5fhandler_22',['BusFault_Handler',['../sam4sd32c_8h.html#a850cefb17a977292ae5eb4cafa9976c3',1,'sam4sd32c.h']]],
-  ['busfault_5firqn_23',['BusFault_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083a8693500eff174f16119e96234fee73af',1,'sam4sd32c.h']]]
+  ['busfault_5firqn_23',['BusFault_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083a8693500eff174f16119e96234fee73af',1,'sam4sd32c.h']]],
+  ['busy_20wait_20delay_20routines_24',['Busy-Wait Delay Routines',['../group__group__common__services__delay.html',1,'']]]
 ];

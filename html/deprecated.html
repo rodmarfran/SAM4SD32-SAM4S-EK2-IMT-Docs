@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.16.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>SAM4SD32 (SAM4S-EK2): Globals</title>
+<title>SAM4SD32 (SAM4S-EK2): Deprecated List</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -69,7 +69,7 @@ $(function() {
   </div>
 </div>
 <script type="text/javascript">
-$(function(){initNavTree('globals_d.html','',''); });
+$(function(){initNavTree('deprecated.html','',''); });
 </script>
 <div id="container">
 <div id="doc-content">
@@ -94,24 +94,18 @@ $(function(){initNavTree('globals_d.html','',''); });
 </div>
 </div>
 
+<div><div class="header">
+  <div class="headertitle"><div class="title">Deprecated List </div></div>
+</div><!--header-->
 <div class="contents">
-<div class="textblock">Here is a list of all functions, variables, defines, enums, and typedefs with links to the files they belong to:</div>
-
-<h3 class="doxsection"><a id="index_d" name="index_d"></a>- d -</h3><ul>
-<li>DACC&#160;:&#160;<a class="el" href="sam4sd32c_8h.html#abe68540af3fd10d3b14fb4b9902cb90e">sam4sd32c.h</a></li>
-<li>DACC_Handler()&#160;:&#160;<a class="el" href="sam4sd32c_8h.html#a4e5ace3081c1889b911e460ec4a1dbd2">sam4sd32c.h</a></li>
-<li>DACC_IRQn&#160;:&#160;<a class="el" href="sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083afcd76b45935f324df4cacc5bd52b3b6e">sam4sd32c.h</a></li>
-<li>DebugMon_Handler()&#160;:&#160;<a class="el" href="sam4sd32c_8h.html#adbdfb05858cc36fc520974df37ec3cb0">sam4sd32c.h</a></li>
-<li>DebugMonitor_IRQn&#160;:&#160;<a class="el" href="sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083a8e033fcef7aed98a31c60a7de206722c">sam4sd32c.h</a></li>
-<li>delay_cycles&#160;:&#160;<a class="el" href="cycle__counter_8h.html#a84ecb39fb8b32180b27236ae02392d39">cycle_counter.h</a></li>
-<li>delay_init&#160;:&#160;<a class="el" href="group__group__common__services__delay.html#ga62d461b94db6352d8ed8442d62ea39fb">delay.h</a></li>
-<li>delay_ms&#160;:&#160;<a class="el" href="group__group__common__services__delay.html#gad917a5d772ddbd99ad97a1c999ce40d4">delay.h</a></li>
-<li>delay_s&#160;:&#160;<a class="el" href="group__group__common__services__delay.html#gafdccadc6c16847907b3252cdef83e8b0">delay.h</a></li>
-<li>delay_us&#160;:&#160;<a class="el" href="group__group__common__services__delay.html#gaf9a0c0e0f880d818a4c2c3ea9fe8cba1">delay.h</a></li>
-<li>DeviceVectors&#160;:&#160;<a class="el" href="sam4sd32c_8h.html#a064ea30c4aaba6c074d78c9575784b91">sam4sd32c.h</a></li>
-<li>Disable_global_interrupt&#160;:&#160;<a class="el" href="group__interrupt__deprecated__group.html#ga4834270e1b8984fe025bce15e7ae1564">interrupt_sam_nvic.h</a></li>
-</ul>
-</div><!-- contents -->
+<div class="textblock"><dl class="reflist">
+<dt>Global <a class="el" href="group__group__common__services__delay.html#ga62d461b94db6352d8ed8442d62ea39fb">delay_init</a>  (fcpu_hz)</dt>
+<dd><a class="anchor" id="_deprecated000002"></a> This function is provided for compatibility with ASF applications that may not have been updated to configure the system clock via the common clock service; e.g. sysclk_init() and a configuration header file are used to configure clocks. </dd>
+<dt>Global <a class="el" href="group__group__common__services__delay.html#ga43bafb28b29491ec7f871319b5a3b2f8">F_CPU</a>  </dt>
+<dd><a class="anchor" id="_deprecated000001"></a> The <a class="el" href="group__group__common__services__delay.html#ga43bafb28b29491ec7f871319b5a3b2f8" title="F_CPU">F_CPU</a> configuration constant is used for compatibility with the <a class="el" href="group__group__common__services__delay.html" title="Busy-Wait Delay Routines">Busy-Wait Delay Routines</a> routines. The common loop-based delay routines are designed to use the <a class="el" href="group__clk__group.html" title="Legacy clock management group alias">Legacy clock management group alias</a> modules while anticipating support for legacy applications assuming a statically defined clock frequency. Applications using a statically configured MCU clock frequency can define <a class="el" href="group__group__common__services__delay.html#ga43bafb28b29491ec7f871319b5a3b2f8" title="F_CPU">F_CPU</a> (Hertz), in which case the common delay routines will use this value rather than calling sysclk_get_cpu_hz() to get the current MCU clock frequency. </dd>
+</dl>
+</div></div><!-- contents -->
+</div><!-- PageDoc -->
 </div><!-- doc-content -->
 </div><!-- container -->
 <!-- start footer part -->

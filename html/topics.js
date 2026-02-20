@@ -3,6 +3,7 @@ var topics =
     [ "Power Management Controller (PMC)", "group__sam__drivers__pmc__group.html", "group__sam__drivers__pmc__group" ],
     [ "System Clock Management (sysclock)", "group__sysclk__group.html", "group__sysclk__group" ],
     [ "Peripheral Parallel Input/Output (PIO) Controller", "group__sam__drivers__pio__group.html", "group__sam__drivers__pio__group" ],
+    [ "Busy-Wait Delay Routines", "group__group__common__services__delay.html", "group__group__common__services__delay" ],
     [ "General Purpose Input/Output", "group__gpio__group.html", "group__gpio__group" ],
     [ "Common IOPORT API", "group__ioport__group.html", "group__ioport__group" ],
     [ "SAM3/4S/4L/4E/4N/4CM/4C/G Timer Counter (TC) Driver", "group__asfdoc__sam__drivers__tc__group.html", "group__asfdoc__sam__drivers__tc__group" ],

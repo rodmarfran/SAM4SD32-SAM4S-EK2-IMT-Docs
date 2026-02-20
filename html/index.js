@@ -5,6 +5,7 @@ var index =
       [ "PIO (Parallel Input/Output)", "index.html#mainpage_gpio_pio", null ],
       [ "IOPORT (Input/Output Port Service)", "index.html#mainpage_gpio_ioport", null ]
     ] ],
+    [ "Delay Routines", "index.html#mainpage_delay", null ],
     [ "Timer/Counter", "index.html#mainpage_timer", [
       [ "Timer/Counter (TC, Timer Counter)", "index.html#mainpage_timer_tc", null ],
       [ "PWM (Pulse Width Modulation)", "index.html#mainpage_timer_pwm", null ]

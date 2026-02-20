@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=11"/>
 <meta name="generator" content="Doxygen 1.16.1"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>SAM4SD32 (SAM4S-EK2): services Directory Reference</title>
+<title>SAM4SD32 (SAM4S-EK2): delay.h File Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -69,7 +69,7 @@ $(function() {
   </div>
 </div>
 <script type="text/javascript">
-$(function(){initNavTree('dir_7cbf1cf0e17b7da5051405e51c36fab2.html','',''); });
+$(function(){initNavTree('delay_8h.html','',''); });
 </script>
 <div id="container">
 <div id="doc-content">
@@ -95,18 +95,36 @@ $(function(){initNavTree('dir_7cbf1cf0e17b7da5051405e51c36fab2.html','',''); });
 </div>
 
 <div class="header">
-  <div class="headertitle"><div class="title">services Directory Reference</div></div>
+  <div class="headertitle"><div class="title">delay.h File Reference</div></div>
 </div><!--header-->
 <div class="contents">
+
+<p>Common Delay Service.  
+<a href="#details">More...</a></p>
+<div class="textblock"><code>#include &lt;sysclk.h&gt;</code><br />
+</div>
+<p><a href="delay_8h_source.html">Go to the source code of this file.</a></p>
 <table class="memberdecls">
-<tr class="heading"><td colspan="2"><h2 id="header-subdirs" class="groupheader"><a id="subdirs" name="subdirs"></a>
-Directories</h2></td></tr>
-<tr class="memitem:delay" id="r_delay"><td class="memItemLeft"><span class="iconfolder"><div class="folder-icon"></div></span>&#160;</td><td class="memItemRight"><a class="el" href="dir_9645825f65c2b6c4f14d3d5165c75afa.html">delay</a></td></tr>
-<tr class="memitem:gpio" id="r_gpio"><td class="memItemLeft"><span class="iconfolder"><div class="folder-icon"></div></span>&#160;</td><td class="memItemRight"><a class="el" href="dir_210628393fae0feee6a524b63206cb79.html">gpio</a></td></tr>
-<tr class="memitem:ioport" id="r_ioport"><td class="memItemLeft"><span class="iconfolder"><div class="folder-icon"></div></span>&#160;</td><td class="memItemRight"><a class="el" href="dir_2d1ac138448f58e1309f80f386c93244.html">ioport</a></td></tr>
-<tr class="memitem:twi" id="r_twi"><td class="memItemLeft"><span class="iconfolder"><div class="folder-icon"></div></span>&#160;</td><td class="memItemRight"><a class="el" href="dir_a513fa2c9a56f0a0a86fe7f2e85f86e3.html">twi</a></td></tr>
+<tr class="heading"><td colspan="2"><h2 id="header-define-members" class="groupheader"><a id="define-members" name="define-members"></a>
+Macros</h2></td></tr>
+<tr class="memitem:ga62d461b94db6352d8ed8442d62ea39fb" id="r_ga62d461b94db6352d8ed8442d62ea39fb"><td class="memItemLeft">#define&#160;</td><td class="memItemRight"><a class="el" href="group__group__common__services__delay.html#ga62d461b94db6352d8ed8442d62ea39fb">delay_init</a>(fcpu_hz)</td></tr>
+<tr class="memdesc:ga62d461b94db6352d8ed8442d62ea39fb"><td class="mdescLeft">&#160;</td><td class="mdescRight">Initialize the delay driver.  <br /></td></tr>
+<tr class="memitem:gad917a5d772ddbd99ad97a1c999ce40d4" id="r_gad917a5d772ddbd99ad97a1c999ce40d4"><td class="memItemLeft">#define&#160;</td><td class="memItemRight"><a class="el" href="group__group__common__services__delay.html#gad917a5d772ddbd99ad97a1c999ce40d4">delay_ms</a>(delay)</td></tr>
+<tr class="memdesc:gad917a5d772ddbd99ad97a1c999ce40d4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delay in milliseconds.  <br /></td></tr>
+<tr class="memitem:gafdccadc6c16847907b3252cdef83e8b0" id="r_gafdccadc6c16847907b3252cdef83e8b0"><td class="memItemLeft">#define&#160;</td><td class="memItemRight"><a class="el" href="group__group__common__services__delay.html#gafdccadc6c16847907b3252cdef83e8b0">delay_s</a>(delay)</td></tr>
+<tr class="memdesc:gafdccadc6c16847907b3252cdef83e8b0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delay in seconds.  <br /></td></tr>
+<tr class="memitem:gaf9a0c0e0f880d818a4c2c3ea9fe8cba1" id="r_gaf9a0c0e0f880d818a4c2c3ea9fe8cba1"><td class="memItemLeft">#define&#160;</td><td class="memItemRight"><a class="el" href="group__group__common__services__delay.html#gaf9a0c0e0f880d818a4c2c3ea9fe8cba1">delay_us</a>(delay)</td></tr>
+<tr class="memdesc:gaf9a0c0e0f880d818a4c2c3ea9fe8cba1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Delay in microseconds.  <br /></td></tr>
+<tr class="memitem:ga43bafb28b29491ec7f871319b5a3b2f8" id="r_ga43bafb28b29491ec7f871319b5a3b2f8"><td class="memItemLeft">#define&#160;</td><td class="memItemRight"><a class="el" href="group__group__common__services__delay.html#ga43bafb28b29491ec7f871319b5a3b2f8">F_CPU</a>&#160;&#160;&#160;sysclk_get_cpu_hz()</td></tr>
+<tr class="memdesc:ga43bafb28b29491ec7f871319b5a3b2f8"><td class="mdescLeft">&#160;</td><td class="mdescRight">MCU Clock Frequency (Hertz).  <br /></td></tr>
 </table>
-</div><!-- contents -->
+<a name="details" id="details"></a><h2 id="header-details" class="groupheader">Detailed Description</h2>
+<div class="textblock"><p>Common Delay Service. </p>
+<p>Copyright (c) 2014-2018 Microchip Technology Inc. and its subsidiaries.</p>
+<p>\cond ASF_LICENSE </p>
+
+<p class="definition">Definition in file <a class="el" href="delay_8h_source.html">delay.h</a>.</p>
+</div></div><!-- contents -->
 </div><!-- doc-content -->
 <div id="page-nav" class="page-nav-panel">
 <div id="page-nav-resize-handle"></div>
@@ -119,7 +137,7 @@ Directories</h2></td></tr>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="navelem"><a href="dir_bdd9a5d540de89e9fe90efdfc6973a4f.html">common</a></li><li class="navelem"><a href="dir_7cbf1cf0e17b7da5051405e51c36fab2.html">services</a></li>
+    <li class="navelem"><a href="dir_bdd9a5d540de89e9fe90efdfc6973a4f.html">common</a></li><li class="navelem"><a href="dir_7cbf1cf0e17b7da5051405e51c36fab2.html">services</a></li><li class="navelem"><a href="dir_9645825f65c2b6c4f14d3d5165c75afa.html">delay</a></li><li class="navelem"><a href="delay_8h.html">delay.h</a></li>
     <li class="footer">Generated by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.16.1 </li>
   </ul>
 </div>

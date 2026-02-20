@@ -10,6 +10,7 @@ var searchData=
   ['legacy_20spi_20group_20alias_7',['Legacy SPI group alias',['../group__spi__group.html',1,'']]],
   ['length_8',['length',['../structtwi__packet.html#a49ba7fd1bdd3fa32ec99bad539c07e65',1,'twi_packet']]],
   ['license_9',['License',['../_license.html',1,'']]],
-  ['low_5ffrq_5fsample_5fdiv_10',['LOW_FRQ_SAMPLE_DIV',['../group__sam__drivers__usart__group.html#gafe512b69f3ab7ad2cdae5b2defd00eac',1,'usart.c']]],
-  ['low_5flevel_5ftime_5flimit_11',['LOW_LEVEL_TIME_LIMIT',['../group__sam__drivers__twi__group.html#ga8cbb123865698263dfc18ab8ef33ad74',1,'twi.c']]]
+  ['list_10',['Deprecated List',['../deprecated.html',1,'']]],
+  ['low_5ffrq_5fsample_5fdiv_11',['LOW_FRQ_SAMPLE_DIV',['../group__sam__drivers__usart__group.html#gafe512b69f3ab7ad2cdae5b2defd00eac',1,'usart.c']]],
+  ['low_5flevel_5ftime_5flimit_12',['LOW_LEVEL_TIME_LIMIT',['../group__sam__drivers__twi__group.html#ga8cbb123865698263dfc18ab8ef33ad74',1,'twi.c']]]
 ];

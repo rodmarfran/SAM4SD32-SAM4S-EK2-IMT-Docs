@@ -518,13 +518,14 @@ var searchData=
   ['reserved9_515',['Reserved9',['../struct_pio.html#acf026d38d328658da236e965d058e54c',1,'Pio']]],
   ['reset_5fhandler_516',['Reset_Handler',['../sam4sd32c_8h.html#ae7ee340978f5c25f52f0cad1457c6616',1,'sam4sd32c.h']]],
   ['revision_20history_517',['Document Revision History',['../asfdoc_sam_drivers_tc_document_revision_history.html',1,'']]],
-  ['rstc_518',['RSTC',['../sam4sd32c_8h.html#aaf4420a3f45b147f964b2913313c2ead',1,'sam4sd32c.h']]],
-  ['rstc_5fhandler_519',['RSTC_Handler',['../sam4sd32c_8h.html#ae6d9d81ca81deeea217508d46808c9a1',1,'sam4sd32c.h']]],
-  ['rstc_5firqn_520',['RSTC_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083aa89850416b923e26b0be90036ad38c38',1,'sam4sd32c.h']]],
-  ['rtc_521',['RTC',['../sam4sd32c_8h.html#a5359a088f5d8b20ce74d920e46059304',1,'sam4sd32c.h']]],
-  ['rtc_5fhandler_522',['RTC_Handler',['../sam4sd32c_8h.html#ab6a8110ba2ed9a12326dc9db531be942',1,'sam4sd32c.h']]],
-  ['rtc_5firqn_523',['RTC_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083adcc0f2770f7f57f75fac3d8bcac0e858',1,'sam4sd32c.h']]],
-  ['rtt_524',['RTT',['../sam4sd32c_8h.html#a1be4b2cc3225f8289eddd77c7a2c5182',1,'sam4sd32c.h']]],
-  ['rtt_5fhandler_525',['RTT_Handler',['../sam4sd32c_8h.html#a77d719ccda271977fef3aa3153d82b7b',1,'sam4sd32c.h']]],
-  ['rtt_5firqn_526',['RTT_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083ab927bb7715344626518869f15c68c6f0',1,'sam4sd32c.h']]]
+  ['routines_518',['Routines',['../group__group__common__services__delay.html',1,'Busy-Wait Delay Routines'],['../index.html#mainpage_delay',1,'Delay Routines']]],
+  ['rstc_519',['RSTC',['../sam4sd32c_8h.html#aaf4420a3f45b147f964b2913313c2ead',1,'sam4sd32c.h']]],
+  ['rstc_5fhandler_520',['RSTC_Handler',['../sam4sd32c_8h.html#ae6d9d81ca81deeea217508d46808c9a1',1,'sam4sd32c.h']]],
+  ['rstc_5firqn_521',['RSTC_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083aa89850416b923e26b0be90036ad38c38',1,'sam4sd32c.h']]],
+  ['rtc_522',['RTC',['../sam4sd32c_8h.html#a5359a088f5d8b20ce74d920e46059304',1,'sam4sd32c.h']]],
+  ['rtc_5fhandler_523',['RTC_Handler',['../sam4sd32c_8h.html#ab6a8110ba2ed9a12326dc9db531be942',1,'sam4sd32c.h']]],
+  ['rtc_5firqn_524',['RTC_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083adcc0f2770f7f57f75fac3d8bcac0e858',1,'sam4sd32c.h']]],
+  ['rtt_525',['RTT',['../sam4sd32c_8h.html#a1be4b2cc3225f8289eddd77c7a2c5182',1,'sam4sd32c.h']]],
+  ['rtt_5fhandler_526',['RTT_Handler',['../sam4sd32c_8h.html#a77d719ccda271977fef3aa3153d82b7b',1,'sam4sd32c.h']]],
+  ['rtt_5firqn_527',['RTT_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083ab927bb7715344626518869f15c68c6f0',1,'sam4sd32c.h']]]
 ];
