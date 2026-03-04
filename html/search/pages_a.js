@@ -8,10 +8,11 @@ var searchData=
   ['input_20output_20port_20service_5',['IOPORT (Input/Output Port Service)',['../index.html#mainpage_gpio_ioport',1,'']]],
   ['interface_6',['SPI (Serial Peripheral Interface)',['../index.html#mainpage_serial_spi',1,'']]],
   ['interface_20i2c_7',['TWI (Two-Wire Interface, I2C)',['../index.html#mainpage_serial_twi',1,'']]],
-  ['interfaces_8',['Serial Interfaces',['../index.html#mainpage_serial',1,'']]],
-  ['interrupt_20driven_20edge_20detection_9',['Advanced use case - Interrupt driven edge detection',['../sam_pio_quickstart_use_case_2.html',1,'index']]],
-  ['interrupts_10',['USART receive character and echo back via interrupts',['../usart_use_case_2.html',1,'sam_usart_quickstart']]],
-  ['ioport_20input_20output_20port_20service_11',['IOPORT (Input/Output Port Service)',['../index.html#mainpage_gpio_ioport',1,'']]],
-  ['ioport_20modes_12',['IOPORT Modes',['../group__ioport__group.html#ioport_modes',1,'']]],
-  ['ioport_20service_13',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]]
+  ['interface_20service_8',['Quick start guide for Serial Interface service',['../serial_quickstart.html',1,'index']]],
+  ['interfaces_9',['Serial Interfaces',['../index.html#mainpage_serial',1,'']]],
+  ['interrupt_20driven_20edge_20detection_10',['Advanced use case - Interrupt driven edge detection',['../sam_pio_quickstart_use_case_2.html',1,'index']]],
+  ['interrupts_11',['USART receive character and echo back via interrupts',['../usart_use_case_2.html',1,'sam_usart_quickstart']]],
+  ['ioport_20input_20output_20port_20service_12',['IOPORT (Input/Output Port Service)',['../index.html#mainpage_gpio_ioport',1,'']]],
+  ['ioport_20modes_13',['IOPORT Modes',['../group__ioport__group.html#ioport_modes',1,'']]],
+  ['ioport_20service_14',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]]
 ];

@@ -119,11 +119,16 @@ Enumerations</h2></td></tr>
 <tr class="memitem:ga8c5d67795f1836c65f568e11d7cb9bd9" id="r_ga8c5d67795f1836c65f568e11d7cb9bd9"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#ga8c5d67795f1836c65f568e11d7cb9bd9">ioport_sense</a> { <br />
 &#160;&#160;<a class="el" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92">IOPORT_SENSE_BOTHEDGES</a>
 , <br />
+&#160;&#160;<a class="el" href="#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4">IOPORT_SENSE_FALLING</a>
+, <br />
 &#160;&#160;<a class="el" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654">IOPORT_SENSE_RISING</a>
 , <br />
-&#160;&#160;<a class="el" href="#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4">IOPORT_SENSE_FALLING</a>
+&#160;&#160;<a class="el" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e">IOPORT_SENSE_LEVEL_LOW</a>
+, <br />
+&#160;&#160;<a class="el" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698">IOPORT_SENSE_LEVEL_HIGH</a>
 <br />
  }</td></tr>
+<tr class="memdesc:ga8c5d67795f1836c65f568e11d7cb9bd9"><td class="mdescLeft">&#160;</td><td class="mdescRight">IOPORT edge sense modes.  <a href="#ga8c5d67795f1836c65f568e11d7cb9bd9">More...</a><br /></td></tr>
 <tr class="memitem:gaed084e0b73201e5391dd37f484041a31" id="r_gaed084e0b73201e5391dd37f484041a31"><td class="memItemLeft">enum &#160;</td><td class="memItemRight"><a class="el" href="#gaed084e0b73201e5391dd37f484041a31">ioport_value</a> { <br />
 &#160;&#160;<a class="el" href="#ggaed084e0b73201e5391dd37f484041a31a2a406eb5dcf70b9bcadc61d3d7cec65b">IOPORT_PIN_LEVEL_LOW</a>
 , <br />
@@ -499,24 +504,34 @@ IOPORT Modes</h1>
         </tr>
       </table>
 </div><div class="memdoc">
+
+<p>IOPORT edge sense modes. </p>
 <table class="fieldtable">
 <tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92" name="gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92"></a>IOPORT_SENSE_BOTHEDGES&#160;</td><td class="fielddoc"><p>IOPORT sense both rising and falling edges </p>
 </td></tr>
+<tr><td class="fieldname"><a id="gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4" name="gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4"></a>IOPORT_SENSE_FALLING&#160;</td><td class="fielddoc"><p>IOPORT sense falling edges </p>
+</td></tr>
 <tr><td class="fieldname"><a id="gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654" name="gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654"></a>IOPORT_SENSE_RISING&#160;</td><td class="fielddoc"><p>IOPORT sense rising edges </p>
 </td></tr>
-<tr><td class="fieldname"><a id="gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4" name="gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4"></a>IOPORT_SENSE_FALLING&#160;</td><td class="fielddoc"><p>IOPORT sense falling edges </p>
+<tr><td class="fieldname"><a id="gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e" name="gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e"></a>IOPORT_SENSE_LEVEL_LOW&#160;</td><td class="fielddoc"><p>IOPORT sense low level </p>
+</td></tr>
+<tr><td class="fieldname"><a id="gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698" name="gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698"></a>IOPORT_SENSE_LEVEL_HIGH&#160;</td><td class="fielddoc"><p>IOPORT sense High level </p>
 </td></tr>
 </table>
 
-<p class="definition">Definition at line <a class="el" href="ioport_8h_source.html#l00112">112</a> of file <a class="el" href="ioport_8h_source.html">ioport.h</a>.</p>
-<div class="fragment"><div class="line"><span class="lineno">  112</span>                  {</div>
-<div class="line"><span class="lineno">  113</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92">IOPORT_SENSE_BOTHEDGES</a>, </div>
-<div class="line"><span class="lineno">  114</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654">IOPORT_SENSE_RISING</a>,    </div>
-<div class="line"><span class="lineno">  115</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4">IOPORT_SENSE_FALLING</a>,   </div>
-<div class="line"><span class="lineno">  116</span>};</div>
-<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92">IOPORT_SENSE_BOTHEDGES</a></div><div class="ttdeci">@ IOPORT_SENSE_BOTHEDGES</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00113">ioport.h:113</a></div></div>
-<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654">IOPORT_SENSE_RISING</a></div><div class="ttdeci">@ IOPORT_SENSE_RISING</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00114">ioport.h:114</a></div></div>
-<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4">IOPORT_SENSE_FALLING</a></div><div class="ttdeci">@ IOPORT_SENSE_FALLING</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00115">ioport.h:115</a></div></div>
+<p class="definition">Definition at line <a class="el" href="ioport_8h_source.html#l00097">97</a> of file <a class="el" href="ioport_8h_source.html">ioport.h</a>.</p>
+<div class="fragment"><div class="line"><span class="lineno">   97</span>                  {</div>
+<div class="line"><span class="lineno">   98</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92">IOPORT_SENSE_BOTHEDGES</a>, </div>
+<div class="line"><span class="lineno">   99</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4">IOPORT_SENSE_FALLING</a>,   </div>
+<div class="line"><span class="lineno">  100</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654">IOPORT_SENSE_RISING</a>,    </div>
+<div class="line"><span class="lineno">  101</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e">IOPORT_SENSE_LEVEL_LOW</a>, </div>
+<div class="line"><span class="lineno">  102</span>    <a class="code hl_enumvalue" href="#gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698">IOPORT_SENSE_LEVEL_HIGH</a>,</div>
+<div class="line"><span class="lineno">  103</span>};</div>
+<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698">IOPORT_SENSE_LEVEL_HIGH</a></div><div class="ttdeci">@ IOPORT_SENSE_LEVEL_HIGH</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00102">ioport.h:102</a></div></div>
+<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92">IOPORT_SENSE_BOTHEDGES</a></div><div class="ttdeci">@ IOPORT_SENSE_BOTHEDGES</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00098">ioport.h:98</a></div></div>
+<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654">IOPORT_SENSE_RISING</a></div><div class="ttdeci">@ IOPORT_SENSE_RISING</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00100">ioport.h:100</a></div></div>
+<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e">IOPORT_SENSE_LEVEL_LOW</a></div><div class="ttdeci">@ IOPORT_SENSE_LEVEL_LOW</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00101">ioport.h:101</a></div></div>
+<div class="ttc" id="agroup__ioport__group_html_gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4"><div class="ttname"><a href="#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4">IOPORT_SENSE_FALLING</a></div><div class="ttdeci">@ IOPORT_SENSE_FALLING</div><div class="ttdef"><b>Definition</b> <a href="ioport_8h_source.html#l00099">ioport.h:99</a></div></div>
 </div><!-- fragment -->
 </div>
 </div>

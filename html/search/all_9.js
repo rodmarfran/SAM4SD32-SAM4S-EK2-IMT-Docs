@@ -8,12 +8,13 @@ var searchData=
   ['for_20sam_20adc_20driver_5',['Quickstart guide for SAM ADC driver',['../sam_adc_quickstart.html',1,'index']]],
   ['for_20sam_20pwm_20module_6',['Quickstart guide for SAM PWM module',['../sam_pwm_quickstart.html',1,'index']]],
   ['for_20sam_20spi_20driver_7',['Quickstart guide for SAM SPI driver',['../sam_spi_quickstart.html',1,'index']]],
-  ['for_20the_20common_20ioport_20service_8',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
-  ['for_20the_20sam_20pio_20driver_9',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
-  ['for_20the_20sam_20usart_20module_10',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
-  ['for_20the_20tc_20driver_11',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
-  ['for_20timer_20counter_12',['Examples for Timer Counter',['../asfdoc_sam_drivers_tc_exqsg.html',1,'']]],
-  ['for_20timer_20counter_20driver_13',['Extra Information for Timer Counter Driver',['../asfdoc_sam_drivers_tc_extra.html',1,'']]],
-  ['freq_5fslow_5fclock_5fext_14',['FREQ_SLOW_CLOCK_EXT',['../group__sam__drivers__pio__group.html#ga4bb2b261e7497e53dbb698ba151c0fff',1,'pio.c']]],
-  ['from_20a_20slave_20device_15',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]]
+  ['for_20serial_20interface_20service_8',['Quick start guide for Serial Interface service',['../serial_quickstart.html',1,'index']]],
+  ['for_20the_20common_20ioport_20service_9',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
+  ['for_20the_20sam_20pio_20driver_10',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
+  ['for_20the_20sam_20usart_20module_11',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
+  ['for_20the_20tc_20driver_12',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
+  ['for_20timer_20counter_13',['Examples for Timer Counter',['../asfdoc_sam_drivers_tc_exqsg.html',1,'']]],
+  ['for_20timer_20counter_20driver_14',['Extra Information for Timer Counter Driver',['../asfdoc_sam_drivers_tc_extra.html',1,'']]],
+  ['freq_5fslow_5fclock_5fext_15',['FREQ_SLOW_CLOCK_EXT',['../group__sam__drivers__pio__group.html#ga4bb2b261e7497e53dbb698ba151c0fff',1,'pio.c']]],
+  ['from_20a_20slave_20device_16',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]]
 ];

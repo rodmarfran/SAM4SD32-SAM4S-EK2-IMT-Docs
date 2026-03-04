@@ -74,16 +74,16 @@ var NAVTREEINDEX =
 "component__spi_8h.html#af43bb8fed9bb3efc150c1751be2fbcc6",
 "component__twi_8h.html#a44d90c37d610d9eccf7593c5ac5acad4",
 "component__usart_8h.html#a94c1b46fbf6fab653b7e78ed94800bd6",
-"group___s_a_m4_s_d32_c__definitions.html",
-"group__sam__drivers__pio__group.html#ga551a8c9ebf91943912f2ba06d1180aef",
-"instance__adc_8h.html#aed228f47a47183bd8477145a59fbb96f",
-"instance__pwm_8h.html#ac166e43cdab5e7e4e81c9e1b5524b577",
-"ioport_8h_source.html",
-"pio__sam4sd32c_8h.html#a612f62ae27113a0c98e336f433b8386b",
-"pwm_8h.html#abe481e8280c8e11051bd8d247f79e38aaf4237875898b9ec70bfffb0b9f173063",
-"sam4sd32c_8h.html#af68d6c12c7cc42263ca0716ab41e0b9c",
-"struct_pio.html#a7695904ac144e94f30f91e628a3c0988",
-"structpwm__fault__t.html#ae73d6e9c0a9bbe5a08d95b0e31e50da8"
+"group___s_a_m4_s_d32_c__base.html",
+"group__sam__drivers__pio__group.html#ga462f21899dd66756a34de15beb15474d",
+"instance__adc_8h.html#ab150e82eb2768a7c68ba9536c578f145",
+"instance__pwm_8h.html#aabebd03ca53cc74597e4ad24c2d8e2f3",
+"interrupt_8h.html",
+"pio__sam4sd32c_8h.html#a5d009f624a8c278d56bafce41ca1d1c9",
+"pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfae4d87a1c70e5afeb598b64b5fcf79426",
+"sam4sd32c_8h.html#aebc6aea85c4eb9226373a3793ef22d3d",
+"struct_adc.html#ac7f96a68ea7e2c26ebb95043a97d24ab",
+"structpwm__channel__t.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronization';

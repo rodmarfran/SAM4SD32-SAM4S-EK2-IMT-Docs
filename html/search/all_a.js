@@ -25,8 +25,9 @@ var searchData=
   ['guide_20for_20sam_20adc_20driver_22',['Quickstart guide for SAM ADC driver',['../sam_adc_quickstart.html',1,'index']]],
   ['guide_20for_20sam_20pwm_20module_23',['Quickstart guide for SAM PWM module',['../sam_pwm_quickstart.html',1,'index']]],
   ['guide_20for_20sam_20spi_20driver_24',['Quickstart guide for SAM SPI driver',['../sam_spi_quickstart.html',1,'index']]],
-  ['guide_20for_20the_20common_20ioport_20service_25',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
-  ['guide_20for_20the_20sam_20pio_20driver_26',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
-  ['guide_20for_20the_20sam_20usart_20module_27',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
-  ['guide_20for_20the_20tc_20driver_28',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]]
+  ['guide_20for_20serial_20interface_20service_25',['Quick start guide for Serial Interface service',['../serial_quickstart.html',1,'index']]],
+  ['guide_20for_20the_20common_20ioport_20service_26',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
+  ['guide_20for_20the_20sam_20pio_20driver_27',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
+  ['guide_20for_20the_20sam_20usart_20module_28',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
+  ['guide_20for_20the_20tc_20driver_29',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]]
 ];

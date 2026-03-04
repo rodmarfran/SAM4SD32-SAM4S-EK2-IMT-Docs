@@ -15,7 +15,7 @@ var searchData=
   ['timer_20counter_20tc_20timer_20counter_12',['Timer/Counter (TC, Timer Counter)',['../index.html#mainpage_timer_tc',1,'']]],
   ['to_20a_20slave_20device_13',['Example code : Writing to a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_writing',1,'']]],
   ['to_20digital_20converter_14',['ADC (Analog-to-Digital Converter)',['../index.html#mainpage_adc',1,'']]],
-  ['transmit_20a_20character_15',['Basic use case - transmit a character',['../sam_usart_quickstart.html#usart_basic_use_case',1,'']]],
+  ['transmit_20a_20character_15',['transmit a character',['../sam_usart_quickstart.html#usart_basic_use_case',1,'Basic use case - transmit a character'],['../serial_quickstart.html#serial_basic_use_case',1,'Basic use case - transmit a character']]],
   ['transmitter_16',['USART (Universal Synchronous/Asynchronous Receiver/Transmitter)',['../index.html#mainpage_serial_usart',1,'']]],
   ['trigger_17',['External Trigger',['../group__asfdoc__sam__drivers__tc__group.html#asfdoc_sam_drivers_tc_special_considerations_trigger',1,'']]],
   ['twi_18',['Quickstart guide for Common service TWI',['../twi_quickstart.html',1,'index']]],

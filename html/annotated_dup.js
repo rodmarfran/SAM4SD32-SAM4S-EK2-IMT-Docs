@@ -20,6 +20,7 @@ var annotated_dup =
     [ "Twi", "struct_twi.html", "struct_twi" ],
     [ "twi_options", "structtwi__options.html", "structtwi__options" ],
     [ "twi_packet", "structtwi__packet.html", "structtwi__packet" ],
+    [ "uart_rs232_options", "structuart__rs232__options.html", "structuart__rs232__options" ],
     [ "Usart", "struct_usart.html", "struct_usart" ],
     [ "usart_iso7816_opt_t", "structusart__iso7816__opt__t.html", "structusart__iso7816__opt__t" ],
     [ "usart_spi_opt_t", "structusart__spi__opt__t.html", "structusart__spi__opt__t" ]

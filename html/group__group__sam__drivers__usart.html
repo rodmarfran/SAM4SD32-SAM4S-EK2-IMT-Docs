@@ -712,6 +712,8 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="component__usart_8h_source.html#l00047">Usart::US_CR</a>, and <a class="el" href="component__usart_8h_source.html#l00084">US_CR_RXEN</a>.</p>
 
+<p class="reference">Referenced by <a class="el" href="uart__serial_8h_source.html#l00087">usart_serial_init()</a>.</p>
+
 </div>
 </div>
 <a id="ga1c3a4036f8b9b21f833a641b07b84f6c" name="ga1c3a4036f8b9b21f833a641b07b84f6c"></a>
@@ -744,6 +746,8 @@ Functions</h2></td></tr>
 <div class="ttc" id="acomponent__usart_8h_html_a633f8a52c37664add6f179677ed747f8"><div class="ttname"><a href="component__usart_8h.html#a633f8a52c37664add6f179677ed747f8">US_CR_TXEN</a></div><div class="ttdeci">#define US_CR_TXEN</div><div class="ttdoc">(US_CR) Transmitter Enable</div><div class="ttdef"><b>Definition</b> <a href="component__usart_8h_source.html#l00086">component_usart.h:86</a></div></div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="component__usart_8h_source.html#l00047">Usart::US_CR</a>, and <a class="el" href="component__usart_8h_source.html#l00086">US_CR_TXEN</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="uart__serial_8h_source.html#l00087">usart_serial_init()</a>.</p>
 
 </div>
 </div>
@@ -1491,7 +1495,7 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="usart_8h_source.html#l00087">sam_usart_opt_t::baudrate</a>, <a class="el" href="usart_8h_source.html#l00115">sam_usart_opt_t::channel_mode</a>, <a class="el" href="usart_8h_source.html#l00094">sam_usart_opt_t::char_length</a>, <a class="el" href="usart_8h_source.html#l00101">sam_usart_opt_t::parity_type</a>, <a class="el" href="usart_8h_source.html#l00108">sam_usart_opt_t::stop_bits</a>, <a class="el" href="component__usart_8h_source.html#l00048">Usart::US_MR</a>, <a class="el" href="component__usart_8h_source.html#l00105">US_MR_USART_MODE_NORMAL</a>, <a class="el" href="usart_8c_source.html#l00240">usart_reset()</a>, and <a class="el" href="usart_8c_source.html#l00111">usart_set_async_baudrate()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="usart_8c_source.html#l00313">usart_init_hw_handshaking()</a>, <a class="el" href="usart_8c_source.html#l00490">usart_init_irda()</a>, <a class="el" href="usart_8c_source.html#l00342">usart_init_modem()</a>, and <a class="el" href="usart_8c_source.html#l00462">usart_init_rs485()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="usart_8c_source.html#l00313">usart_init_hw_handshaking()</a>, <a class="el" href="usart_8c_source.html#l00490">usart_init_irda()</a>, <a class="el" href="usart_8c_source.html#l00342">usart_init_modem()</a>, <a class="el" href="usart_8c_source.html#l00462">usart_init_rs485()</a>, and <a class="el" href="uart__serial_8h_source.html#l00087">usart_serial_init()</a>.</p>
 
 </div>
 </div>
@@ -2016,6 +2020,8 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1691</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="component__usart_8h_source.html#l00052">Usart::US_CSR</a>, and <a class="el" href="component__usart_8h_source.html#l00227">US_CSR_RXRDY</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="uart__serial_8h_source.html#l00577">usart_serial_is_rx_ready()</a>.</p>
 
 </div>
 </div>
@@ -2589,6 +2595,8 @@ Functions</h2></td></tr>
 <div class="line"><span class="lineno"> 1769</span>}</div>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="component__usart_8h_source.html#l00052">Usart::US_CSR</a>, <a class="el" href="component__usart_8h_source.html#l00227">US_CSR_RXRDY</a>, <a class="el" href="component__usart_8h_source.html#l00053">Usart::US_RHR</a>, and <a class="el" href="component__usart_8h_source.html#l00253">US_RHR_RXCHR_Msk</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="uart__serial_8h_source.html#l00476">usart_serial_getchar()</a>.</p>
 
 </div>
 </div>
@@ -3290,7 +3298,7 @@ Functions</h2></td></tr>
 </div><!-- fragment -->
 <p class="reference">References <a class="el" href="component__usart_8h_source.html#l00052">Usart::US_CSR</a>, <a class="el" href="component__usart_8h_source.html#l00228">US_CSR_TXRDY</a>, <a class="el" href="component__usart_8h_source.html#l00054">Usart::US_THR</a>, and <a class="el" href="component__usart_8h_source.html#l00258">US_THR_TXCHR</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="usart_8c_source.html#l01560">usart_send_address()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="usart_8c_source.html#l01560">usart_send_address()</a>, and <a class="el" href="uart__serial_8h_source.html#l00376">usart_serial_putchar()</a>.</p>
 
 </div>
 </div>

@@ -293,7 +293,7 @@ var searchData=
   ['to_20a_20slave_20device_290',['Example code : Writing to a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_writing',1,'']]],
   ['to_20digital_20converter_291',['to Digital Converter',['../index.html#mainpage_adc',1,'ADC (Analog-to-Digital Converter)'],['../group___s_a_m4_s___a_d_c.html',1,'Analog-to-Digital Converter']]],
   ['to_20digital_20converter_20adc_292',['Analog-to-digital Converter (ADC)',['../group__sam__drivers__adc__group.html',1,'']]],
-  ['transmit_20a_20character_293',['Basic use case - transmit a character',['../sam_usart_quickstart.html#usart_basic_use_case',1,'']]],
+  ['transmit_20a_20character_293',['transmit a character',['../sam_usart_quickstart.html#usart_basic_use_case',1,'Basic use case - transmit a character'],['../serial_quickstart.html#serial_basic_use_case',1,'Basic use case - transmit a character']]],
   ['transmitter_294',['Transmitter',['../group___s_a_m4_s___u_s_a_r_t.html',1,'Universal Synchronous Asynchronous Receiver Transmitter'],['../index.html#mainpage_serial_usart',1,'USART (Universal Synchronous/Asynchronous Receiver/Transmitter)']]],
   ['trigger_295',['External Trigger',['../group__asfdoc__sam__drivers__tc__group.html#asfdoc_sam_drivers_tc_special_considerations_trigger',1,'']]],
   ['twi_296',['TWI',['../twi_quickstart.html',1,'Quickstart guide for Common service TWI'],['../group__twi__group.html',1,'Two Wire-interface(TWI)'],['../group__sam__drivers__twi__group.html',1,'Two-Wire Interface (TWI)']]],

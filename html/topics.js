@@ -10,6 +10,7 @@ var topics =
     [ "Global interrupt management", "group__interrupt__group.html", "group__interrupt__group" ],
     [ "Universal Synchronous Asynchronous Receiver", "group__group__sam__drivers__usart.html", "group__group__sam__drivers__usart" ],
     [ "Universal Synchronous Asynchronous", "group__sam__drivers__usart__group.html", "group__sam__drivers__usart__group" ],
+    [ "Serial Interface (Serial)", "group__serial__group.html", null ],
     [ "Pulse Width Modulation (PWM)", "group__sam__drivers__pwm__group.html", "group__sam__drivers__pwm__group" ],
     [ "Two-Wire Interface (TWI)", "group__sam__drivers__twi__group.html", "group__sam__drivers__twi__group" ],
     [ "Two Wire-interface(TWI)", "group__twi__group.html", "group__twi__group" ],

@@ -1,5 +1,12 @@
 var NAVTREEINDEX18 =
 {
+"pio__sam4sd32c_8h.html#a5d009f624a8c278d56bafce41ca1d1c9":[8,0,2,1,0,0,0,2,0,131],
+"pio__sam4sd32c_8h.html#a5e5d63a294a9b22513496ce6bd065ef2":[8,0,2,1,0,0,0,2,0,136],
+"pio__sam4sd32c_8h.html#a5ef26fdd0dd9792a6481e0adfe89c3f5":[8,0,2,1,0,0,0,2,0,57],
+"pio__sam4sd32c_8h.html#a5f85def2d9b84d19748e8b196d5233c5":[8,0,2,1,0,0,0,2,0,214],
+"pio__sam4sd32c_8h.html#a5ff9a193933795c0ed4f52d235f634f3":[8,0,2,1,0,0,0,2,0,323],
+"pio__sam4sd32c_8h.html#a606ffe85497a66875e2407de507c23ea":[8,0,2,1,0,0,0,2,0,106],
+"pio__sam4sd32c_8h.html#a60db2eac59f77ca6a699f921445df890":[8,0,2,1,0,0,0,2,0,115],
 "pio__sam4sd32c_8h.html#a612f62ae27113a0c98e336f433b8386b":[8,0,2,1,0,0,0,2,0,179],
 "pio__sam4sd32c_8h.html#a61cb1813eaa8c65acb3ee92574bd20f8":[8,0,2,1,0,0,0,2,0,14],
 "pio__sam4sd32c_8h.html#a634bc7d45c0c21c20228728e0224ab83":[8,0,2,1,0,0,0,2,0,25],
@@ -242,12 +249,5 @@ var NAVTREEINDEX18 =
 "pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfa4ed7b794d1d6ed6f6d735afd3f0af762":[8,0,2,0,2,1,17,1],
 "pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfa8664d45a58184d96bd92493e34734d9a":[8,0,2,0,2,1,17,4],
 "pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfa8c63b1008487bb7fb0b7ecbc1bace478":[8,0,2,0,2,1,17,3],
-"pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfad24333c5e63dfc2093bc0ee0f6268ef7":[8,0,2,0,2,1,17,5],
-"pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfae4d87a1c70e5afeb598b64b5fcf79426":[8,0,2,0,2,1,17,2],
-"pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfaee7c89faefd524225689c9de386e23c8":[8,0,2,0,2,1,17,0],
-"pwm_8h.html#a8c2c57f82882f51b8c32722e5945af8a":[8,0,2,0,2,1,10],
-"pwm_8h.html#a8c2c57f82882f51b8c32722e5945af8aa14eacf516d56288075a7cb964bba1b60":[8,0,2,0,2,1,10,0],
-"pwm_8h.html#a8c2c57f82882f51b8c32722e5945af8aa6635774a5fc6dbf01c8c7fe43c6a40ca":[8,0,2,0,2,1,10,1],
-"pwm_8h.html#abe481e8280c8e11051bd8d247f79e38a":[8,0,2,0,2,1,15],
-"pwm_8h.html#abe481e8280c8e11051bd8d247f79e38aa70d8b336028b52be9d7a551863212c03":[8,0,2,0,2,1,15,0]
+"pwm_8h.html#a76f56f9f26fbcca395e39501b8f5e8bfad24333c5e63dfc2093bc0ee0f6268ef7":[8,0,2,0,2,1,17,5]
 };

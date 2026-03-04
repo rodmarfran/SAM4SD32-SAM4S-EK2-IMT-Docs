@@ -19,8 +19,10 @@ var group__ioport__group =
     ] ],
     [ "ioport_sense", "group__ioport__group.html#ga8c5d67795f1836c65f568e11d7cb9bd9", [
       [ "IOPORT_SENSE_BOTHEDGES", "group__ioport__group.html#gga8c5d67795f1836c65f568e11d7cb9bd9a29c5f09354671130c3c72705117b7f92", null ],
+      [ "IOPORT_SENSE_FALLING", "group__ioport__group.html#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4", null ],
       [ "IOPORT_SENSE_RISING", "group__ioport__group.html#gga8c5d67795f1836c65f568e11d7cb9bd9a65c95c9bea4a4c84749af3eba660d654", null ],
-      [ "IOPORT_SENSE_FALLING", "group__ioport__group.html#gga8c5d67795f1836c65f568e11d7cb9bd9adbf4e5509f715da8c470405785bb81f4", null ]
+      [ "IOPORT_SENSE_LEVEL_LOW", "group__ioport__group.html#gga8c5d67795f1836c65f568e11d7cb9bd9a65fb01b64d1838c24bade67584c4ec2e", null ],
+      [ "IOPORT_SENSE_LEVEL_HIGH", "group__ioport__group.html#gga8c5d67795f1836c65f568e11d7cb9bd9a14f620b215065cafded78e20e8b21698", null ]
     ] ],
     [ "ioport_value", "group__ioport__group.html#gaed084e0b73201e5391dd37f484041a31", [
       [ "IOPORT_PIN_LEVEL_LOW", "group__ioport__group.html#ggaed084e0b73201e5391dd37f484041a31a2a406eb5dcf70b9bcadc61d3d7cec65b", null ],

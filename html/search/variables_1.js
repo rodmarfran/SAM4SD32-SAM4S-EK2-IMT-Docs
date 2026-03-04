@@ -12,7 +12,7 @@ var searchData=
   ['b_5fpwmh_5foutput_5finverted_9',['b_pwmh_output_inverted',['../structpwm__channel__t.html#a4d2e7aac560fe2fcfba306dc60408d50',1,'pwm_channel_t']]],
   ['b_5fpwml_5foutput_5finverted_10',['b_pwml_output_inverted',['../structpwm__channel__t.html#a49621130be4c6bee30f87802641adb5b',1,'pwm_channel_t']]],
   ['b_5fsync_5fch_11',['b_sync_ch',['../structpwm__channel__t.html#a812eca9f53333bdaecdc3df244ee2417',1,'pwm_channel_t']]],
-  ['baudrate_12',['baudrate',['../structsam__usart__opt__t.html#a48bb096d6aa0c6f397239a7970b0aa3a',1,'sam_usart_opt_t::baudrate'],['../structusart__spi__opt__t.html#acf5809b8e89a0c2bafc9fd44e8115f7b',1,'usart_spi_opt_t::baudrate']]],
+  ['baudrate_12',['baudrate',['../structsam__usart__opt__t.html#a48bb096d6aa0c6f397239a7970b0aa3a',1,'sam_usart_opt_t::baudrate'],['../structusart__spi__opt__t.html#acf5809b8e89a0c2bafc9fd44e8115f7b',1,'usart_spi_opt_t::baudrate'],['../structuart__rs232__options.html#a423124f409699edd181973ad22a6f205',1,'uart_rs232_options::baudrate']]],
   ['bit_5forder_13',['bit_order',['../structusart__iso7816__opt__t.html#a661af25e490185b850538c69f030f0b7',1,'usart_iso7816_opt_t']]],
   ['buffer_14',['buffer',['../structtwi__packet.html#a1ceb214ba71c3be74dcf602ce110994f',1,'twi_packet']]]
 ];

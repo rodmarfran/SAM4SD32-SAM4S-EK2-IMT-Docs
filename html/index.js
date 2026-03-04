@@ -11,7 +11,10 @@ var index =
       [ "PWM (Pulse Width Modulation)", "index.html#mainpage_timer_pwm", null ]
     ] ],
     [ "Serial Interfaces", "index.html#mainpage_serial", [
-      [ "USART (Universal Synchronous/Asynchronous Receiver/Transmitter)", "index.html#mainpage_serial_usart", null ],
+      [ "USART (Universal Synchronous/Asynchronous Receiver/Transmitter)", "index.html#mainpage_serial_usart", [
+        [ "USART Low-Level Driver (sam/drivers/usart)", "index.html#mainpage_serial_usart_low", null ],
+        [ "USART High-Level Serial Service (common/services/serial)", "index.html#mainpage_serial_usart_high", null ]
+      ] ],
       [ "TWI (Two-Wire Interface, I2C)", "index.html#mainpage_serial_twi", null ],
       [ "SPI (Serial Peripheral Interface)", "index.html#mainpage_serial_spi", null ]
     ] ],
@@ -103,6 +106,18 @@ var index =
       [ "Usage steps", "usart_use_case_2.html#usart_use_case_2_usage", [
         [ "Example code", "usart_use_case_2.html#usart_use_case_2_usage_code", null ],
         [ "Workflow", "usart_use_case_2.html#usart_use_case_2_usage_flow", null ]
+      ] ]
+    ] ],
+    [ "Quick start guide for Serial Interface service", "serial_quickstart.html", "serial_quickstart" ],
+    [ "Advanced use case - Send a packet of serial data", "serial_use_case_1.html", [
+      [ "Setup steps", "serial_use_case_1.html#serial_use_case_1_setup", [
+        [ "Prerequisites", "serial_use_case_1.html#serial_use_case_1_setup_prereq", null ],
+        [ "Example code", "serial_use_case_1.html#serial_use_case_1_setup_code", null ],
+        [ "Workflow", "serial_use_case_1.html#serial_use_case_1_setup_flow", null ]
+      ] ],
+      [ "Usage steps", "serial_use_case_1.html#serial_use_case_1_usage", [
+        [ "Example code", "serial_use_case_1.html#serial_use_case_1_usage_code", null ],
+        [ "Workflow", "serial_use_case_1.html#serial_use_case_1_usage_flow", null ]
       ] ]
     ] ],
     [ "Quickstart guide for Common service TWI", "twi_quickstart.html", [

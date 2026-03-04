@@ -24,5 +24,6 @@ var searchData=
   ['spi_5ftpr_21',['SPI_TPR',['../struct_spi.html#a35d241545a51c84508a8db5cb2cdbaec',1,'Spi']]],
   ['spi_5fwpmr_22',['SPI_WPMR',['../struct_spi.html#aa50a6b8d402cbb0f75e48cdbfd3a077c',1,'Spi']]],
   ['spi_5fwpsr_23',['SPI_WPSR',['../struct_spi.html#adc4d26963ecf8db62fc9fea6e8841c33',1,'Spi']]],
-  ['stop_5fbits_24',['stop_bits',['../structsam__usart__opt__t.html#ac5848a65163c97627b8412f60fded824',1,'sam_usart_opt_t']]]
+  ['stop_5fbits_24',['stop_bits',['../structsam__usart__opt__t.html#ac5848a65163c97627b8412f60fded824',1,'sam_usart_opt_t']]],
+  ['stopbits_25',['stopbits',['../structuart__rs232__options.html#aacd6b60efd25407d8d36c93cefbbb69d',1,'uart_rs232_options']]]
 ];
