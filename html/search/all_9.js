@@ -15,6 +15,8 @@ var searchData=
   ['for_20the_20tc_20driver_12',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
   ['for_20timer_20counter_13',['Examples for Timer Counter',['../asfdoc_sam_drivers_tc_exqsg.html',1,'']]],
   ['for_20timer_20counter_20driver_14',['Extra Information for Timer Counter Driver',['../asfdoc_sam_drivers_tc_extra.html',1,'']]],
-  ['freq_5fslow_5fclock_5fext_15',['FREQ_SLOW_CLOCK_EXT',['../group__sam__drivers__pio__group.html#ga4bb2b261e7497e53dbb698ba151c0fff',1,'pio.c']]],
-  ['from_20a_20slave_20device_16',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]]
+  ['for_20usart_20stdio_20integration_15',['Quick Start Guide for USART STDIO Integration',['../stdio_serial_quickstart.html',1,'index']]],
+  ['framework_16',['What Is ASF (Advanced Software Framework)?',['../asf_overview.html',1,'index']]],
+  ['freq_5fslow_5fclock_5fext_17',['FREQ_SLOW_CLOCK_EXT',['../group__sam__drivers__pio__group.html#ga4bb2b261e7497e53dbb698ba151c0fff',1,'pio.c']]],
+  ['from_20a_20slave_20device_18',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]]
 ];

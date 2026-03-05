@@ -10,5 +10,6 @@ var searchData=
   ['guide_20for_20the_20common_20ioport_20service_7',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
   ['guide_20for_20the_20sam_20pio_20driver_8',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
   ['guide_20for_20the_20sam_20usart_20module_9',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
-  ['guide_20for_20the_20tc_20driver_10',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]]
+  ['guide_20for_20the_20tc_20driver_10',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
+  ['guide_20for_20usart_20stdio_20integration_11',['Quick Start Guide for USART STDIO Integration',['../stdio_serial_quickstart.html',1,'index']]]
 ];

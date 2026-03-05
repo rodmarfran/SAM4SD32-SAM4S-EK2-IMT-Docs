@@ -18,11 +18,12 @@ var searchData=
   ['min_5fcd_5fvalue_15',['MIN_CD_VALUE',['../group__sam__drivers__usart__group.html#ga967c1d77b088addb87a10e37a9e152f5',1,'usart.c']]],
   ['min_5fcd_5fvalue_5fspi_16',['MIN_CD_VALUE_SPI',['../group__sam__drivers__usart__group.html#ga4511c9483910ae81f28937bf1907dd1b',1,'usart.c']]],
   ['mode_20basic_20usage_17',['Mode Basic Usage',['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_capture',1,'TC Capture Mode Basic Usage'],['../asfdoc_sam_drivers_tc_qsg.html#asfdoc_sam_drivers_tc_qsg_basic_waveform',1,'TC Waveform Mode Basic Usage']]],
-  ['modes_18',['IOPORT Modes',['../group__ioport__group.html#ioport_modes',1,'']]],
-  ['modulation_19',['PWM (Pulse Width Modulation)',['../index.html#mainpage_timer_pwm',1,'']]],
-  ['modulation_20controller_20',['Pulse Width Modulation Controller',['../group___s_a_m4_s___p_w_m.html',1,'']]],
-  ['modulation_20pwm_21',['Pulse Width Modulation (PWM)',['../group__sam__drivers__pwm__group.html',1,'']]],
-  ['module_22',['module',['../sam_usart_quickstart.html',1,'Quick start guide for the SAM USART module'],['../sam_pwm_quickstart.html',1,'Quickstart guide for SAM PWM module']]],
-  ['module_20history_23',['Module History',['../asfdoc_sam_drivers_tc_extra.html#asfdoc_sam_drivers_tc_extra_history',1,'']]],
-  ['module_20overview_24',['Module Overview',['../group__asfdoc__sam__drivers__tc__group.html#asfdoc_sam_drivers_tc_module_overview',1,'']]]
+  ['model_18',['ASF Layer Model',['../asf_overview.html#asf_overview_layers',1,'']]],
+  ['modes_19',['IOPORT Modes',['../group__ioport__group.html#ioport_modes',1,'']]],
+  ['modulation_20',['PWM (Pulse Width Modulation)',['../index.html#mainpage_timer_pwm',1,'']]],
+  ['modulation_20controller_21',['Pulse Width Modulation Controller',['../group___s_a_m4_s___p_w_m.html',1,'']]],
+  ['modulation_20pwm_22',['Pulse Width Modulation (PWM)',['../group__sam__drivers__pwm__group.html',1,'']]],
+  ['module_23',['module',['../sam_usart_quickstart.html',1,'Quick start guide for the SAM USART module'],['../sam_pwm_quickstart.html',1,'Quickstart guide for SAM PWM module']]],
+  ['module_20history_24',['Module History',['../asfdoc_sam_drivers_tc_extra.html#asfdoc_sam_drivers_tc_extra_history',1,'']]],
+  ['module_20overview_25',['Module Overview',['../group__asfdoc__sam__drivers__tc__group.html#asfdoc_sam_drivers_tc_module_overview',1,'']]]
 ];

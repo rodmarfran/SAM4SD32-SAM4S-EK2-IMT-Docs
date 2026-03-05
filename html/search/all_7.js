@@ -28,12 +28,14 @@ var searchData=
   ['disable_5fglobal_5finterrupt_25',['Disable_global_interrupt',['../group__interrupt__deprecated__group.html#ga4834270e1b8984fe025bce15e7ae1564',1,'interrupt_sam_nvic.h']]],
   ['document_20revision_20history_26',['Document Revision History',['../asfdoc_sam_drivers_tc_document_revision_history.html',1,'']]],
   ['documentation_27',['SAM4SD32 Driver Documentation',['../index.html',1,'']]],
-  ['doing_20port_20access_28',['Advanced use case doing port access',['../ioport_quickstart_use_case_1.html',1,'ioport_quickstart']]],
-  ['doxygen_5fcompat_2edox_29',['doxygen_compat.dox',['../doxygen__compat_8dox.html',1,'']]],
-  ['driven_20edge_20detection_30',['Advanced use case - Interrupt driven edge detection',['../sam_pio_quickstart_use_case_2.html',1,'index']]],
-  ['driver_31',['Driver',['../asfdoc_sam_drivers_tc_extra.html',1,'Extra Information for Timer Counter Driver'],['../group__asfdoc__sam__drivers__tc__group.html',1,'SAM3/4S/4L/4E/4N/4CM/4C/G Timer Counter (TC) Driver']]],
-  ['driver_32',['driver',['../sam_pio_quickstart.html#sam_pio_quickstart_basic',1,'Basic usage of the PIO driver'],['../sam_pio_quickstart.html',1,'Quick Start Guide for the SAM PIO driver'],['../asfdoc_sam_drivers_tc_qsg.html',1,'Quick Start Guide for the TC driver'],['../sam_adc_quickstart.html',1,'Quickstart guide for SAM ADC driver'],['../sam_spi_quickstart.html',1,'Quickstart guide for SAM SPI driver']]],
-  ['driver_20documentation_33',['SAM4SD32 Driver Documentation',['../index.html',1,'']]],
-  ['driver_20sam_20drivers_20usart_34',['USART Low-Level Driver (sam/drivers/usart)',['../index.html#mainpage_serial_usart_low',1,'']]],
-  ['drivers_20usart_35',['USART Low-Level Driver (sam/drivers/usart)',['../index.html#mainpage_serial_usart_low',1,'']]]
+  ['documentation_20sources_28',['Documentation Sources',['../asf_overview.html#asf_overview_docs',1,'']]],
+  ['does_29',['What STDIO Does',['../stdio_serial_quickstart.html#stdio_serial_qs_overview',1,'']]],
+  ['doing_20port_20access_30',['Advanced use case doing port access',['../ioport_quickstart_use_case_1.html',1,'ioport_quickstart']]],
+  ['doxygen_5fcompat_2edox_31',['doxygen_compat.dox',['../doxygen__compat_8dox.html',1,'']]],
+  ['driven_20edge_20detection_32',['Advanced use case - Interrupt driven edge detection',['../sam_pio_quickstart_use_case_2.html',1,'index']]],
+  ['driver_33',['Driver',['../asfdoc_sam_drivers_tc_extra.html',1,'Extra Information for Timer Counter Driver'],['../group__asfdoc__sam__drivers__tc__group.html',1,'SAM3/4S/4L/4E/4N/4CM/4C/G Timer Counter (TC) Driver']]],
+  ['driver_34',['driver',['../sam_pio_quickstart.html#sam_pio_quickstart_basic',1,'Basic usage of the PIO driver'],['../sam_pio_quickstart.html',1,'Quick Start Guide for the SAM PIO driver'],['../asfdoc_sam_drivers_tc_qsg.html',1,'Quick Start Guide for the TC driver'],['../sam_adc_quickstart.html',1,'Quickstart guide for SAM ADC driver'],['../sam_spi_quickstart.html',1,'Quickstart guide for SAM SPI driver']]],
+  ['driver_20documentation_35',['SAM4SD32 Driver Documentation',['../index.html',1,'']]],
+  ['driver_20sam_20drivers_20usart_36',['USART Low-Level Driver (sam/drivers/usart)',['../index.html#mainpage_serial_usart_low',1,'']]],
+  ['drivers_20usart_37',['USART Low-Level Driver (sam/drivers/usart)',['../index.html#mainpage_serial_usart_low',1,'']]]
 ];

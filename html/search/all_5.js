@@ -19,10 +19,11 @@ var searchData=
   ['basic_20usage_20of_20the_20pio_20driver_16',['Basic usage of the PIO driver',['../sam_pio_quickstart.html#sam_pio_quickstart_basic',1,'']]],
   ['basic_20use_20case_17',['Basic use case',['../ioport_quickstart.html#ioport_quickstart_basic',1,'Basic use case'],['../sam_pwm_quickstart.html#pwm_basic_use_case',1,'Basic use case'],['../twi_quickstart.html#twi_basic_use_case',1,'Basic use case'],['../sam_spi_quickstart.html#spi_basic_use_case',1,'Basic use case'],['../sam_adc_quickstart.html#adc_basic_use_case',1,'Basic use case']]],
   ['basic_20use_20case_20transmit_20a_20character_18',['Basic use case transmit a character',['../sam_usart_quickstart.html#usart_basic_use_case',1,'Basic use case - transmit a character'],['../serial_quickstart.html#serial_basic_use_case',1,'Basic use case - transmit a character']]],
-  ['baudrate_19',['baudrate',['../structsam__usart__opt__t.html#a48bb096d6aa0c6f397239a7970b0aa3a',1,'sam_usart_opt_t::baudrate'],['../structusart__spi__opt__t.html#acf5809b8e89a0c2bafc9fd44e8115f7b',1,'usart_spi_opt_t::baudrate'],['../structuart__rs232__options.html#a423124f409699edd181973ad22a6f205',1,'uart_rs232_options::baudrate']]],
-  ['bit_5forder_20',['bit_order',['../structusart__iso7816__opt__t.html#a661af25e490185b850538c69f030f0b7',1,'usart_iso7816_opt_t']]],
-  ['buffer_21',['buffer',['../structtwi__packet.html#a1ceb214ba71c3be74dcf602ce110994f',1,'twi_packet']]],
-  ['busfault_5fhandler_22',['BusFault_Handler',['../sam4sd32c_8h.html#a850cefb17a977292ae5eb4cafa9976c3',1,'sam4sd32c.h']]],
-  ['busfault_5firqn_23',['BusFault_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083a8693500eff174f16119e96234fee73af',1,'sam4sd32c.h']]],
-  ['busy_20wait_20delay_20routines_24',['Busy-Wait Delay Routines',['../group__group__common__services__delay.html',1,'']]]
+  ['basic_20use_20case_20usart_20console_20with_20printf_20scanf_19',['Basic use case - USART console with printf/scanf',['../stdio_serial_quickstart.html#stdio_serial_qs_use_case',1,'']]],
+  ['baudrate_20',['baudrate',['../structsam__usart__opt__t.html#a48bb096d6aa0c6f397239a7970b0aa3a',1,'sam_usart_opt_t::baudrate'],['../structusart__spi__opt__t.html#acf5809b8e89a0c2bafc9fd44e8115f7b',1,'usart_spi_opt_t::baudrate'],['../structuart__rs232__options.html#a423124f409699edd181973ad22a6f205',1,'uart_rs232_options::baudrate']]],
+  ['bit_5forder_21',['bit_order',['../structusart__iso7816__opt__t.html#a661af25e490185b850538c69f030f0b7',1,'usart_iso7816_opt_t']]],
+  ['buffer_22',['buffer',['../structtwi__packet.html#a1ceb214ba71c3be74dcf602ce110994f',1,'twi_packet']]],
+  ['busfault_5fhandler_23',['BusFault_Handler',['../sam4sd32c_8h.html#a850cefb17a977292ae5eb4cafa9976c3',1,'sam4sd32c.h']]],
+  ['busfault_5firqn_24',['BusFault_IRQn',['../sam4sd32c_8h.html#a666eb0caeb12ec0e281415592ae89083a8693500eff174f16119e96234fee73af',1,'sam4sd32c.h']]],
+  ['busy_20wait_20delay_20routines_25',['Busy-Wait Delay Routines',['../group__group__common__services__delay.html',1,'']]]
 ];

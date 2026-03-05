@@ -2,6 +2,7 @@ var topics =
 [
     [ "Power Management Controller (PMC)", "group__sam__drivers__pmc__group.html", "group__sam__drivers__pmc__group" ],
     [ "System Clock Management (sysclock)", "group__sysclk__group.html", "group__sysclk__group" ],
+    [ "Common stdio utilities", "group__group__common__utils__stdio.html", "group__group__common__utils__stdio" ],
     [ "Peripheral Parallel Input/Output (PIO) Controller", "group__sam__drivers__pio__group.html", "group__sam__drivers__pio__group" ],
     [ "Busy-Wait Delay Routines", "group__group__common__services__delay.html", "group__group__common__services__delay" ],
     [ "General Purpose Input/Output", "group__gpio__group.html", "group__gpio__group" ],

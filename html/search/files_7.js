@@ -6,5 +6,7 @@ var searchData=
   ['sam_5ftwi_2ftwi_5fslave_2eh_3',['twi_slave.h',['../sam__twi_2twi__slave_8h.html',1,'']]],
   ['serial_2eh_4',['serial.h',['../serial_8h.html',1,'']]],
   ['spi_2ec_5',['spi.c',['../spi_8c.html',1,'']]],
-  ['spi_2eh_6',['spi.h',['../spi_8h.html',1,'']]]
+  ['spi_2eh_6',['spi.h',['../spi_8h.html',1,'']]],
+  ['stdio_5fserial_2eh_7',['stdio_serial.h',['../stdio__serial_8h.html',1,'']]],
+  ['stdio_5fserial_5fquickstart_2edox_8',['stdio_serial_quickstart.dox',['../stdio__serial__quickstart_8dox.html',1,'']]]
 ];

@@ -50,7 +50,8 @@ var searchData=
   ['spi_5fset_5fwriteprotect_47',['spi_set_writeprotect',['../group__sam__drivers__spi__group.html#gab4a0954dbe8f86e2c7e05c65e45f808a',1,'spi_set_writeprotect(Spi *p_spi, uint32_t ul_enable):&#160;spi.c'],['../group__sam__drivers__spi__group.html#gab4a0954dbe8f86e2c7e05c65e45f808a',1,'spi_set_writeprotect(Spi *p_spi, uint32_t ul_enable):&#160;spi.c']]],
   ['spi_5fwrite_48',['spi_write',['../group__sam__drivers__spi__group.html#gaf0aef4a28c69c8ceb6e99b5d79e91e47',1,'spi_write(Spi *p_spi, uint16_t us_data, uint8_t uc_pcs, uint8_t uc_last):&#160;spi.c'],['../group__sam__drivers__spi__group.html#gaf0aef4a28c69c8ceb6e99b5d79e91e47',1,'spi_write(Spi *p_spi, uint16_t us_data, uint8_t uc_pcs, uint8_t uc_last):&#160;spi.c']]],
   ['ssc_5fhandler_49',['SSC_Handler',['../sam4sd32c_8h.html#a062bd498213b2455a274a841f919fe97',1,'sam4sd32c.h']]],
-  ['supc_5fhandler_50',['SUPC_Handler',['../sam4sd32c_8h.html#aa865f10aca377b150d8c1394fc58c0ed',1,'sam4sd32c.h']]],
-  ['svc_5fhandler_51',['SVC_Handler',['../sam4sd32c_8h.html#a3e5ddb3df0d62f2dc357e64a3f04a6ce',1,'sam4sd32c.h']]],
-  ['systick_5fhandler_52',['SysTick_Handler',['../sam4sd32c_8h.html#ab5e09814056d617c521549e542639b7e',1,'sam4sd32c.h']]]
+  ['stdio_5fserial_5finit_50',['stdio_serial_init',['../group__group__common__utils__stdio__stdio__serial.html#ga69a6d76cd00643343f3839b6c3e68cd9',1,'stdio_serial.h']]],
+  ['supc_5fhandler_51',['SUPC_Handler',['../sam4sd32c_8h.html#aa865f10aca377b150d8c1394fc58c0ed',1,'sam4sd32c.h']]],
+  ['svc_5fhandler_52',['SVC_Handler',['../sam4sd32c_8h.html#a3e5ddb3df0d62f2dc357e64a3f04a6ce',1,'sam4sd32c.h']]],
+  ['systick_5fhandler_53',['SysTick_Handler',['../sam4sd32c_8h.html#ab5e09814056d617c521549e542639b7e',1,'sam4sd32c.h']]]
 ];

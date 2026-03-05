@@ -13,13 +13,21 @@ var index =
     [ "Serial Interfaces", "index.html#mainpage_serial", [
       [ "USART (Universal Synchronous/Asynchronous Receiver/Transmitter)", "index.html#mainpage_serial_usart", [
         [ "USART Low-Level Driver (sam/drivers/usart)", "index.html#mainpage_serial_usart_low", null ],
-        [ "USART High-Level Serial Service (common/services/serial)", "index.html#mainpage_serial_usart_high", null ]
+        [ "USART High-Level Serial Service (common/services/serial)", "index.html#mainpage_serial_usart_high", null ],
+        [ "USART STDIO Integration (common/utils/stdio/stdio_serial)", "index.html#mainpage_serial_usart_stdio", null ]
       ] ],
       [ "TWI (Two-Wire Interface, I2C)", "index.html#mainpage_serial_twi", null ],
       [ "SPI (Serial Peripheral Interface)", "index.html#mainpage_serial_spi", null ]
     ] ],
     [ "ADC (Analog-to-Digital Converter)", "index.html#mainpage_adc", null ],
     [ "APIs", "index.html#mainpage_api", null ],
+    [ "What Is ASF (Advanced Software Framework)?", "asf_overview.html", [
+      [ "What ASF Provides", "asf_overview.html#asf_overview_contents", null ],
+      [ "ASF Layer Model", "asf_overview.html#asf_overview_layers", null ],
+      [ "Repository Layout (High Level)", "asf_overview.html#asf_overview_layout", null ],
+      [ "Documentation Sources", "asf_overview.html#asf_overview_docs", null ],
+      [ "Notes", "asf_overview.html#asf_overview_notes", null ]
+    ] ],
     [ "Quick Start Guide for the SAM PIO driver", "sam_pio_quickstart.html", [
       [ "PIO use cases", "sam_pio_quickstart.html#sam_pio_usecases", null ],
       [ "Basic usage of the PIO driver", "sam_pio_quickstart.html#sam_pio_quickstart_basic", [
@@ -119,6 +127,16 @@ var index =
         [ "Example code", "serial_use_case_1.html#serial_use_case_1_usage_code", null ],
         [ "Workflow", "serial_use_case_1.html#serial_use_case_1_usage_flow", null ]
       ] ]
+    ] ],
+    [ "Quick Start Guide for USART STDIO Integration", "stdio_serial_quickstart.html", [
+      [ "What STDIO Does", "stdio_serial_quickstart.html#stdio_serial_qs_overview", null ],
+      [ "Basic use case - USART console with printf/scanf", "stdio_serial_quickstart.html#stdio_serial_qs_use_case", null ],
+      [ "Setup steps", "stdio_serial_quickstart.html#stdio_serial_qs_setup", [
+        [ "Prerequisites", "stdio_serial_quickstart.html#stdio_serial_qs_setup_prereq", null ],
+        [ "Example code", "stdio_serial_quickstart.html#stdio_serial_qs_setup_code", null ],
+        [ "Workflow", "stdio_serial_quickstart.html#stdio_serial_qs_setup_flow", null ]
+      ] ],
+      [ "Notes", "stdio_serial_quickstart.html#stdio_serial_qs_notes", null ]
     ] ],
     [ "Quickstart guide for Common service TWI", "twi_quickstart.html", [
       [ "Basic use case", "twi_quickstart.html#twi_basic_use_case", null ],

@@ -1,10 +1,13 @@
 var searchData=
 [
-  ['reading_20from_20a_20slave_20device_0',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]],
-  ['receive_20character_20and_20echo_20back_1',['USART receive character and echo back',['../usart_use_case_1.html',1,'sam_usart_quickstart']]],
-  ['receive_20character_20and_20echo_20back_20via_20interrupts_2',['USART receive character and echo back via interrupts',['../usart_use_case_2.html',1,'sam_usart_quickstart']]],
-  ['receiver_20transmitter_3',['USART (Universal Synchronous/Asynchronous Receiver/Transmitter)',['../index.html#mainpage_serial_usart',1,'']]],
-  ['requirements_4',['Requirements',['../asfdoc_sam_drivers_tc_example.html#asfdoc_sam_drivers_tc_example_requirements',1,'']]],
-  ['revision_20history_5',['Document Revision History',['../asfdoc_sam_drivers_tc_document_revision_history.html',1,'']]],
-  ['routines_6',['Delay Routines',['../index.html#mainpage_delay',1,'']]]
+  ['quick_20start_20guide_20for_20serial_20interface_20service_0',['Quick start guide for Serial Interface service',['../serial_quickstart.html',1,'index']]],
+  ['quick_20start_20guide_20for_20the_20common_20ioport_20service_1',['Quick start guide for the common IOPORT service',['../ioport_quickstart.html',1,'index']]],
+  ['quick_20start_20guide_20for_20the_20sam_20pio_20driver_2',['Quick Start Guide for the SAM PIO driver',['../sam_pio_quickstart.html',1,'index']]],
+  ['quick_20start_20guide_20for_20the_20sam_20usart_20module_3',['Quick start guide for the SAM USART module',['../sam_usart_quickstart.html',1,'index']]],
+  ['quick_20start_20guide_20for_20the_20tc_20driver_4',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
+  ['quick_20start_20guide_20for_20usart_20stdio_20integration_5',['Quick Start Guide for USART STDIO Integration',['../stdio_serial_quickstart.html',1,'index']]],
+  ['quickstart_20guide_20for_20common_20service_20twi_6',['Quickstart guide for Common service TWI',['../twi_quickstart.html',1,'index']]],
+  ['quickstart_20guide_20for_20sam_20adc_20driver_7',['Quickstart guide for SAM ADC driver',['../sam_adc_quickstart.html',1,'index']]],
+  ['quickstart_20guide_20for_20sam_20pwm_20module_8',['Quickstart guide for SAM PWM module',['../sam_pwm_quickstart.html',1,'index']]],
+  ['quickstart_20guide_20for_20sam_20spi_20driver_9',['Quickstart guide for SAM SPI driver',['../sam_spi_quickstart.html',1,'index']]]
 ];

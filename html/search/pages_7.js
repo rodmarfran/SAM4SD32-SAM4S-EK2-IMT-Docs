@@ -12,5 +12,7 @@ var searchData=
   ['for_20the_20tc_20driver_9',['Quick Start Guide for the TC driver',['../asfdoc_sam_drivers_tc_qsg.html',1,'asfdoc_sam_drivers_tc_exqsg']]],
   ['for_20timer_20counter_10',['Examples for Timer Counter',['../asfdoc_sam_drivers_tc_exqsg.html',1,'']]],
   ['for_20timer_20counter_20driver_11',['Extra Information for Timer Counter Driver',['../asfdoc_sam_drivers_tc_extra.html',1,'']]],
-  ['from_20a_20slave_20device_12',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]]
+  ['for_20usart_20stdio_20integration_12',['Quick Start Guide for USART STDIO Integration',['../stdio_serial_quickstart.html',1,'index']]],
+  ['framework_13',['What Is ASF (Advanced Software Framework)?',['../asf_overview.html',1,'index']]],
+  ['from_20a_20slave_20device_14',['Example code : Reading from a slave device',['../twi_quickstart.html#twi_basic_use_case_usage_code_reading',1,'']]]
 ];
